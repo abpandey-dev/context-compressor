@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" width="1200" height="660" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+<rect width="1200" height="660" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="28" fill="#0F172A" font-weight="700">Context compressor: what we get from it</text>
+<text x="40" y="80" font-size="15" fill="#475569">53 questions · 7 real contexts · 6 methods · whole benchmark cost $0.59 on Claude Haiku 5.5</text>
+<rect x="24" y="104" width="600" height="330" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/>
+<text x="44" y="136" font-size="16" fill="#0F172A" font-weight="700">Prompt size and accuracy, per method</text>
+<text x="44" y="158" font-size="12" fill="#64748B">bars: average prompt tokens per question</text>
+<text x="152" y="187" font-size="13" fill="#334155" text-anchor="end">Raw</text>
+<rect x="164" y="168" width="250" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="164" y="168" width="250.0" height="28" rx="4" fill="#94A3B8"/>
+<text x="404.0" y="187" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="end">41.1K</text>
+<text x="600" y="187" font-size="13" fill="#334155" text-anchor="end">52/53 correct</text>
+<text x="152" y="229" font-size="13" fill="#334155" text-anchor="end">Minify</text>
+<rect x="164" y="210" width="250" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="164" y="210" width="237.6" height="28" rx="4" fill="#CBD5E1"/>
+<text x="391.55512879644067" y="229" font-size="13" fill="#FFFFFF" font-weight="700" text-anchor="end">39.1K</text>
+<text x="600" y="229" font-size="13" fill="#334155" text-anchor="end">52/53 correct</text>
+<text x="152" y="271" font-size="13" fill="#0F172A" font-weight="700" text-anchor="end">Smart</text>
+<rect x="164" y="252" width="250" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="164" y="252" width="46.1" height="28" rx="4" fill="#2563EB"/>
+<text x="218.0675590281209" y="271" font-size="13" fill="#334155" font-weight="700">7.6K</text>
+<text x="600" y="271" font-size="13" fill="#0F172A" font-weight="700" text-anchor="end">52/53 correct</text>
+<text x="152" y="313" font-size="13" fill="#334155" text-anchor="end">Select</text>
+<rect x="164" y="294" width="250" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="164" y="294" width="46.6" height="28" rx="4" fill="#D97706"/>
+<text x="218.57031461632704" y="313" font-size="13" fill="#334155" font-weight="700">7.7K</text>
+<text x="600" y="313" font-size="13" fill="#334155" text-anchor="end">44/53 correct</text>
+<text x="152" y="355" font-size="13" fill="#334155" text-anchor="end">Smart + select</text>
+<rect x="164" y="336" width="250" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="164" y="336" width="22.2" height="28" rx="4" fill="#0F766E"/>
+<text x="194.23897318812558" y="355" font-size="13" fill="#334155" font-weight="700">3.7K</text>
+<text x="600" y="355" font-size="13" fill="#334155" text-anchor="end">43/53 correct</text>
+<text x="152" y="397" font-size="13" fill="#334155" text-anchor="end">LLM summary</text>
+<rect x="164" y="378" width="250" height="28" rx="4" fill="#F1F5F9"/>
+<rect x="164" y="378" width="10.4" height="28" rx="4" fill="#EA580C"/>
+<text x="182.40986861220256" y="397" font-size="13" fill="#334155" font-weight="700">1.7K</text>
+<text x="600" y="397" font-size="13" fill="#334155" text-anchor="end">45/53 correct</text>
+<rect x="648" y="104" width="528" height="330" rx="14" fill="#F8FAFC" stroke="#E2E8F0"/>
+<text x="668" y="136" font-size="16" fill="#0F172A" font-weight="700">Where the answers go</text>
+<text x="668" y="158" font-size="12" fill="#64748B">share answered correctly</text>
+<text x="940" y="172" font-size="12" fill="#475569" font-weight="700" text-anchor="end">Smart</text>
+<text x="1030" y="172" font-size="12" fill="#475569" font-weight="700" text-anchor="end">Select</text>
+<text x="1140" y="172" font-size="12" fill="#475569" font-weight="700" text-anchor="end">LLM sum.</text>
+<text x="668" y="210" font-size="14" fill="#0F172A" font-weight="600">Look up one value</text>
+<text x="940" y="210" font-size="14" fill="#15803D" font-weight="700" text-anchor="end">100%</text>
+<text x="1030" y="210" font-size="14" fill="#B45309" font-weight="700" text-anchor="end">93%</text>
+<text x="1140" y="210" font-size="14" fill="#B45309" font-weight="700" text-anchor="end">90%</text>
+<text x="668" y="250" font-size="14" fill="#0F172A" font-weight="600">Count / total / max</text>
+<text x="940" y="250" font-size="14" fill="#B45309" font-weight="700" text-anchor="end">94%</text>
+<text x="1030" y="250" font-size="14" fill="#B91C1C" font-weight="700" text-anchor="end">61%</text>
+<text x="1140" y="250" font-size="14" fill="#B91C1C" font-weight="700" text-anchor="end">72%</text>
+<text x="668" y="290" font-size="14" fill="#0F172A" font-weight="600">Not in the context</text>
+<text x="940" y="290" font-size="14" fill="#15803D" font-weight="700" text-anchor="end">100%</text>
+<text x="1030" y="290" font-size="14" fill="#15803D" font-weight="700" text-anchor="end">100%</text>
+<text x="1140" y="290" font-size="14" fill="#15803D" font-weight="700" text-anchor="end">100%</text>
+<text x="668" y="352" font-size="13" fill="#334155">Partial context (select, summaries) loses counts</text>
+<text x="668" y="374" font-size="13" fill="#334155">and totals; smart keeps them, because the counts</text>
+<text x="668" y="396" font-size="13" fill="#334155">are computed before the model sees the log.</text>
+<rect x="24" y="458" width="276" height="182" rx="14" fill="#EFF6FF" stroke="#BFDBFE"/>
+<text x="44" y="504" font-size="34" fill="#1D4ED8" font-weight="800">-82%</text>
+<text x="44" y="534" font-size="14" fill="#0F172A" font-weight="700">tokens with smart compression</text>
+<text x="44" y="558" font-size="12" fill="#475569">52/53 correct, same as raw</text>
+<text x="44" y="576" font-size="12" fill="#475569">$0.0042 -&gt; $0.0008</text>
+<text x="44" y="594" font-size="12" fill="#475569">per question</text>
+<rect x="316" y="458" width="276" height="182" rx="14" fill="#F5F3FF" stroke="#DDD6FE"/>
+<text x="336" y="504" font-size="34" fill="#6D28D9" font-weight="800">-98%</text>
+<text x="336" y="534" font-size="14" fill="#0F172A" font-weight="700">on a 1,703-line incident log</text>
+<text x="336" y="558" font-size="12" fill="#475569">91K -&gt; 2.2K tokens; raw made the</text>
+<text x="336" y="576" font-size="12" fill="#475569">model miscount (36 vs 37);</text>
+<text x="336" y="594" font-size="12" fill="#475569">the pattern count was exact</text>
+<rect x="608" y="458" width="276" height="182" rx="14" fill="#F0FDF4" stroke="#BBF7D0"/>
+<text x="628" y="504" font-size="30" fill="#15803D" font-weight="800">Lossless</text>
+<text x="628" y="534" font-size="14" fill="#0F172A" font-weight="700">JSON tables decode exactly</text>
+<text x="628" y="558" font-size="12" fill="#475569">back to the original: 5 real</text>
+<text x="628" y="576" font-size="12" fill="#475569">API responses + 3,000</text>
+<text x="628" y="594" font-size="12" fill="#475569">random values, tested in CI</text>
+<rect x="900" y="458" width="276" height="182" rx="14" fill="#FFFBEB" stroke="#FDE68A"/>
+<text x="920" y="504" font-size="30" fill="#B45309" font-weight="800">&#x27;About 48&#x27;</text>
+<text x="920" y="534" font-size="14" fill="#0F172A" font-weight="700">an LLM summary&#x27;s count</text>
+<text x="920" y="558" font-size="12" fill="#475569">the log had 47 503s; the</text>
+<text x="920" y="576" font-size="12" fill="#475569">summary rounded it, and</text>
+<text x="920" y="594" font-size="12" fill="#475569">max latency 884 became 900</text>
+</svg>

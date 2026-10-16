@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 660" width="1200" height="660" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif">
+<defs><marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="#475569"/></marker></defs>
+<rect width="1200" height="660" fill="#FFFFFF"/>
+<text x="40" y="52" font-size="28" fill="#0F172A" font-weight="700">Context compressor: how it works</text>
+<text x="40" y="80" font-size="15" fill="#475569">Shrink what tools hand an LLM, then prove the answers survive</text>
+<rect x="24" y="104" width="1152" height="250" rx="14" fill="#EFF6FF" stroke="#BFDBFE"/>
+<text x="44" y="132" font-size="13" fill="#1D4ED8" font-weight="700" letter-spacing="1">COMPRESS · before the tool output reaches the model</text>
+<rect x="44" y="144" width="200" height="180" rx="10" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1"/>
+<text x="62" y="174" font-size="15" fill="#0F172A" font-weight="700">Tool output</text>
+<text x="62" y="200" font-size="12" fill="#334155">API JSON, logs,</text>
+<text x="62" y="220" font-size="12" fill="#334155">documents: whatever</text>
+<text x="62" y="240" font-size="12" fill="#334155">a tool returns</text>
+<text x="62" y="260" font-size="12" fill="#334155"></text>
+<text x="62" y="280" font-size="12" fill="#334155">-&gt; the compressor</text>
+<text x="62" y="300" font-size="12" fill="#334155">for its type</text>
+<rect x="276" y="144" width="300" height="180" rx="10" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="294" y="174" font-size="15" fill="#1D4ED8" font-weight="700">JSON: lossless tables</text>
+<text x="294" y="200" font-size="12" fill="#334155">list of objects -&gt; one header</text>
+<text x="294" y="220" font-size="12" fill="#334155">+ one row per object;</text>
+<text x="294" y="240" font-size="12" fill="#334155">nested fields flattened;</text>
+<text x="294" y="260" font-size="12" fill="#334155">same-in-every-row written once;</text>
+<text x="294" y="280" font-size="12" fill="#334155">drops nulls, URL templates, blobs</text>
+<rect x="596" y="144" width="290" height="180" rx="10" fill="#FFFFFF" stroke="#7C3AED" stroke-width="2"/>
+<text x="614" y="174" font-size="15" fill="#6D28D9" font-weight="700">Logs: pattern mining</text>
+<text x="614" y="200" font-size="12" fill="#334155">varying parts masked;</text>
+<text x="614" y="220" font-size="12" fill="#334155">rare lines kept verbatim;</text>
+<text x="614" y="240" font-size="12" fill="#334155">repeats -&gt; count, time range,</text>
+<text x="614" y="260" font-size="12" fill="#334155">ranges, most common values</text>
+<rect x="906" y="144" width="250" height="180" rx="10" fill="#FFFFFF" stroke="#0F766E" stroke-width="2"/>
+<text x="924" y="174" font-size="15" fill="#0F766E" font-weight="700">Optional: select</text>
+<text x="924" y="200" font-size="12" fill="#334155">BM25 against the</text>
+<text x="924" y="220" font-size="12" fill="#334155">question keeps only</text>
+<text x="924" y="240" font-size="12" fill="#334155">the relevant rows,</text>
+<text x="924" y="260" font-size="12" fill="#334155">entries or chunks</text>
+<line x1="244" y1="234" x2="272" y2="234" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="886" y1="234" x2="902" y2="234" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<text x="276" y="344" font-size="12" fill="#475569">Documents: whitespace, page numbers and repeated headers are cleaned up</text>
+<rect x="24" y="374" width="1152" height="266" rx="14" fill="#FFFBEB" stroke="#FDE68A"/>
+<text x="44" y="402" font-size="13" fill="#B45309" font-weight="700" letter-spacing="1">MEASURE · does the model still get the answer?</text>
+<rect x="44" y="414" width="260" height="196" rx="10" fill="#FFFFFF" stroke="#94A3B8" stroke-width="1"/>
+<text x="62" y="444" font-size="15" fill="#0F172A" font-weight="700">53 questions</text>
+<text x="62" y="470" font-size="12" fill="#334155">7 real contexts: GitHub API,</text>
+<text x="62" y="490" font-size="12" fill="#334155">TRAI tables and press</text>
+<text x="62" y="510" font-size="12" fill="#334155">releases, an incident log</text>
+<text x="62" y="530" font-size="12" fill="#334155">answers computed in code</text>
+<rect x="330" y="414" width="250" height="196" rx="10" fill="#FFFFFF" stroke="#D97706" stroke-width="2"/>
+<text x="348" y="444" font-size="15" fill="#B45309" font-weight="700">6 methods</text>
+<text x="348" y="470" font-size="12" fill="#334155">raw, minify, smart,</text>
+<text x="348" y="490" font-size="12" fill="#334155">select, smart + select,</text>
+<text x="348" y="510" font-size="12" fill="#334155">LLM summary (Claude</text>
+<text x="348" y="530" font-size="12" fill="#334155">compresses it first)</text>
+<rect x="606" y="414" width="260" height="196" rx="10" fill="#FFFFFF" stroke="#2563EB" stroke-width="2"/>
+<text x="624" y="444" font-size="15" fill="#1D4ED8" font-weight="700">Claude Haiku 5.5</text>
+<text x="624" y="470" font-size="12" fill="#334155">answers from the context</text>
+<text x="624" y="490" font-size="12" fill="#334155">or says NOT_FOUND;</text>
+<text x="624" y="510" font-size="12" fill="#334155">exact prompt sizes from</text>
+<text x="624" y="530" font-size="12" fill="#334155">Claude&#x27;s own tokenizer</text>
+<rect x="892" y="414" width="264" height="196" rx="10" fill="#FFFFFF" stroke="#16A34A" stroke-width="2"/>
+<text x="910" y="444" font-size="15" fill="#15803D" font-weight="700">Graded in code</text>
+<text x="910" y="470" font-size="12" fill="#334155">no LLM judge: numbers,</text>
+<text x="910" y="490" font-size="12" fill="#334155">IDs and names compared</text>
+<text x="910" y="510" font-size="12" fill="#334155">to the truth; &#x27;abstained&#x27;</text>
+<text x="910" y="530" font-size="12" fill="#334155">vs &#x27;wrong&#x27; kept apart</text>
+<line x1="304" y1="512" x2="326" y2="512" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="580" y1="512" x2="602" y2="512" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+<line x1="866" y1="512" x2="888" y2="512" stroke="#475569" stroke-width="2" marker-end="url(#arrow)"/>
+</svg>
