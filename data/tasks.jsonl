@@ -1,0 +1,53 @@
+{"id": "telecom_nov2025-01", "context": "telecom_nov2025.json", "question": "How many mobile subscribers did Airtel have in Tamil Nadu?", "answer": 31136920, "grade": "number", "category": "lookup"}
+{"id": "telecom_nov2025-02", "context": "telecom_nov2025.json", "question": "What was BSNL's active-SIM percentage (active_pct) in Kerala?", "answer": 114.9, "grade": "number", "category": "lookup"}
+{"id": "telecom_nov2025-03", "context": "telecom_nov2025.json", "question": "Which circle had the most Jio subscribers?", "answer": "Madhya Pradesh", "grade": "text", "category": "aggregate"}
+{"id": "telecom_nov2025-04", "context": "telecom_nov2025.json", "question": "In which circle was Vi's active_pct the lowest?", "answer": "Delhi", "grade": "text", "category": "aggregate"}
+{"id": "telecom_nov2025-05", "context": "telecom_nov2025.json", "question": "In Delhi, which operator had more subscribers, Jio or Airtel?", "answer": "Jio", "grade": "text", "category": "lookup"}
+{"id": "telecom_nov2025-06", "context": "telecom_nov2025.json", "question": "In how many circles did Jio have more subscribers than Airtel?", "answer": 14, "grade": "number", "category": "aggregate"}
+{"id": "telecom_nov2025-07", "context": "telecom_nov2025.json", "question": "How many subscribers did Jio have in Sikkim?", "answer": "NOT_FOUND", "grade": "not_found", "category": "absent"}
+{"id": "telecom_series-01", "context": "telecom_series.json", "question": "How many subscribers did Vi have in Mumbai in March 2025?", "answer": 10711200, "grade": "number", "category": "lookup"}
+{"id": "telecom_series-02", "context": "telecom_series.json", "question": "By how many subscribers did Jio's base in Bihar change between February 2024 and November 2025? Give the signed difference.", "answer": 3082337, "grade": "number", "category": "aggregate"}
+{"id": "telecom_series-03", "context": "telecom_series.json", "question": "In which month did Airtel have the most subscribers in Mumbai? Answer as YYYY-MM.", "answer": "2024-06", "grade": "text", "category": "aggregate"}
+{"id": "telecom_series-04", "context": "telecom_series.json", "question": "How many subscribers did Vi have in Mumbai in December 2025?", "answer": "NOT_FOUND", "grade": "not_found", "category": "absent"}
+{"id": "github_repos-01", "context": "github_repos.json", "question": "Which repository was pushed to most recently?", "answer": "abpandey-dev", "grade": "text", "category": "aggregate"}
+{"id": "github_repos-02", "context": "github_repos.json", "question": "What is the size (in KB) of the netflix-insights repository?", "answer": 706, "grade": "number", "category": "lookup"}
+{"id": "github_repos-03", "context": "github_repos.json", "question": "How many repositories have Python as their main language?", "answer": 7, "grade": "number", "category": "aggregate"}
+{"id": "github_repos-04", "context": "github_repos.json", "question": "Which repository's main language is Jupyter Notebook?", "answer": "telco-churn-copilot", "grade": "text", "category": "lookup"}
+{"id": "github_repos-05", "context": "github_repos.json", "question": "What is the default branch of the telecom-india repository?", "answer": "main", "grade": "text", "category": "lookup"}
+{"id": "github_repos-06", "context": "github_repos.json", "question": "When was the rail-punctuality repository created? Give the full timestamp.", "answer": "2026-10-14T18:13:29Z", "grade": "text", "category": "lookup"}
+{"id": "github_repos-07", "context": "github_repos.json", "question": "How many stars does the voice-agent repository have?", "answer": "NOT_FOUND", "grade": "not_found", "category": "absent"}
+{"id": "github_runs-01", "context": "github_runs.json", "question": "How many of the listed workflow runs did not succeed?", "answer": 0, "grade": "number", "category": "aggregate"}
+{"id": "github_runs-02", "context": "github_runs.json", "question": "What was the first line of the head commit message for run number 3?", "answer": "Tests: assistant tools, number check, agent loop (fake Claude)", "grade": "text", "category": "lookup"}
+{"id": "github_runs-03", "context": "github_runs.json", "question": "What is the full head SHA of run number 6?", "answer": "5ea7b66c537b312bfd770a1db427f663ecee4279", "grade": "text", "category": "lookup"}
+{"id": "github_runs-04", "context": "github_runs.json", "question": "What is the run_started_at timestamp of run number 4? Give the full timestamp.", "answer": "2026-10-15T15:52:32Z", "grade": "text", "category": "lookup"}
+{"id": "github_runs-05", "context": "github_runs.json", "question": "Which branch did run number 1 run on?", "answer": "main", "grade": "text", "category": "lookup"}
+{"id": "github_commits-01", "context": "github_commits.json", "question": "How many commits are listed?", "answer": 14, "grade": "number", "category": "aggregate"}
+{"id": "github_commits-02", "context": "github_commits.json", "question": "What is the full SHA of the parent of commit 5ea7b66?", "answer": "3a03db09bd47ff076c7ec7ad4c7d362725f8932d", "grade": "text", "category": "lookup"}
+{"id": "github_commits-03", "context": "github_commits.json", "question": "What is the short (7-character) SHA of the commit that added the TRAI report index?", "answer": "e3765ec", "grade": "text", "category": "lookup"}
+{"id": "github_commits-04", "context": "github_commits.json", "question": "What is the email address of the committer of commit 098d1b3?", "answer": "noreply@github.com", "grade": "text", "category": "lookup"}
+{"id": "github_commits-05", "context": "github_commits.json", "question": "Which commit in the list is a merge commit (has two parents)? Give its short SHA.", "answer": "NOT_FOUND", "grade": "not_found", "category": "absent"}
+{"id": "app-01", "context": "app.log", "question": "How many 503 responses did payment-svc return?", "answer": 47, "grade": "number", "category": "aggregate"}
+{"id": "app-02", "context": "app.log", "question": "Which version of payment-svc was deployed?", "answer": "2.14.1", "grade": "text", "category": "lookup"}
+{"id": "app-03", "context": "app.log", "question": "At what time (HH:MM:SS) was payment-svc rolled back?", "answer": "10:31:40", "grade": "text", "category": "lookup"}
+{"id": "app-04", "context": "app.log", "question": "How many times was the 'db connection pool exhausted' warning logged?", "answer": 13, "grade": "number", "category": "aggregate"}
+{"id": "app-05", "context": "app.log", "question": "What was the request id (req) of the inventory-svc request that returned HTTP 500?", "answer": "6817dd174374", "grade": "text", "category": "lookup"}
+{"id": "app-06", "context": "app.log", "question": "Which user made the most checkout cart requests?", "answer": "u4821", "grade": "text", "category": "aggregate"}
+{"id": "app-07", "context": "app.log", "question": "How many cart requests did user u4821 make?", "answer": 37, "grade": "number", "category": "aggregate"}
+{"id": "app-08", "context": "app.log", "question": "How many cart requests did user u7302 make?", "answer": 2, "grade": "number", "category": "aggregate"}
+{"id": "app-09", "context": "app.log", "question": "What was the highest latency, in ms, of a successful (200) payment request?", "answer": 884, "grade": "number", "category": "aggregate"}
+{"id": "app-10", "context": "app.log", "question": "At what time (HH:MM:SS) did payment-svc return its first 503?", "answer": "10:03:03", "grade": "text", "category": "lookup"}
+{"id": "app-11", "context": "app.log", "question": "Which exception class appears in the payment-svc stack traces?", "answer": "SocketTimeoutException", "grade": "text", "category": "lookup"}
+{"id": "app-12", "context": "app.log", "question": "How many inventory-svc health checks failed?", "answer": 3, "grade": "number", "category": "aggregate"}
+{"id": "app-13", "context": "app.log", "question": "What was the highest memory usage (MB) reported in payment-svc metrics?", "answer": 900, "grade": "number", "category": "aggregate"}
+{"id": "app-14", "context": "app.log", "question": "What was the CPU usage reported by search-svc?", "answer": "NOT_FOUND", "grade": "not_found", "category": "absent"}
+{"id": "trai_jul_aug_2026-01", "context": "trai_jul_aug_2026.txt", "question": "How many operators reported broadband data for August 2026?", "answer": 1579, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-02", "context": "trai_jul_aug_2026.txt", "question": "How many operators reported broadband data for July 2026?", "answer": 1562, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-03", "context": "trai_jul_aug_2026.txt", "question": "How many million MNP (number portability) requests were submitted in August 2026?", "answer": 15.83, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-04", "context": "trai_jul_aug_2026.txt", "question": "How many million MNP (number portability) requests were submitted in July 2026?", "answer": 15.98, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-05", "context": "trai_jul_aug_2026.txt", "question": "How many million active wireless (mobile) subscribers were there on the date of peak VLR in August 2026?", "answer": 1207.59, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-06", "context": "trai_jul_aug_2026.txt", "question": "How many million M2M cellular mobile connections were there at the end of July 2026?", "answer": 137.7, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-07", "context": "trai_jul_aug_2026.txt", "question": "What was the total number of telephone subscribers (million) at the end of August 2026?", "answer": 1360.7, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-08", "context": "trai_jul_aug_2026.txt", "question": "What was the overall tele-density with M2M connections at the end of July 2026 (%)?", "answer": 94.68, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-09", "context": "trai_jul_aug_2026.txt", "question": "How many million fixed wired broadband subscribers did Bharti Airtel have at the end of July 2026?", "answer": 11.28, "grade": "number", "category": "lookup"}
+{"id": "trai_jul_aug_2026-10", "context": "trai_jul_aug_2026.txt", "question": "By how many million did the M2M connection count change from the end of July to the end of August 2026?", "answer": 2.8, "grade": "number", "category": "aggregate"}
+{"id": "trai_jul_aug_2026-11", "context": "trai_jul_aug_2026.txt", "question": "What was Jio's average 5G download speed in August 2026?", "answer": "NOT_FOUND", "grade": "not_found", "category": "absent"}
