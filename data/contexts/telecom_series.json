@@ -1,0 +1,1556 @@
+{
+  "request": {
+    "endpoint": "/v1/subscribers/series",
+    "circles": [
+      "Bihar",
+      "Mumbai",
+      "Delhi"
+    ],
+    "from": "2024-02",
+    "to": "2025-11"
+  },
+  "count": 220,
+  "records": [
+    {
+      "month": "2024-02",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41415483,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5202006,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 40639042,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7613568,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18094479,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20212747,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16523781,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10008950,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13054092,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-02",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10971786,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41601529,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5232153,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 40953756,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7689305,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18185677,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20284618,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16542428,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10038459,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13117048,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-03",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10962574,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41479959,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5243821,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 41499744,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7723950,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18236749,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20303751,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16469388,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10074700,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13182049,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-04",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10877588,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41474249,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5256069,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 41687594,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7713573,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18281949,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20388694,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16500155,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10117220,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13168049,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-05",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10705134,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41485026,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5201342,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 41820105,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7651158,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18306388,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20464520,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16594301,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10141827,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13248435,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-06",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10715322,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41089037,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5561593,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 41812880,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7591934,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18301168,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20375069,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16743602,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10121680,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13150628,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-07",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10709628,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40599123,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5849336,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 41122293,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7564756,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18330214,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20218058,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16753908,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10081363,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12987614,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-08",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10700024,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40272539,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 6022905,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 40831802,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7521467,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18343793,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19743455,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16744837,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10037605,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12807250,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-09",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10719976,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40526286,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 6049430,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 40364110,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7493956,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18407951,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19608802,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16774937,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10067105,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12911173,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-10",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10710796,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40510920,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5977315,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 40594269,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7454845,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18362907,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19633269,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16808326,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10017055,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12752423,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-11",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10722373,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40498909,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5966507,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 40913517,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7485493,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18434020,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19758105,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16743346,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10066642,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12813324,
+      "source_report": "current"
+    },
+    {
+      "month": "2024-12",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10680874,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40672414,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5972157,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 41054184,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7532447,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18561878,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19699756,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16605020,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10099114,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12943616,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-01",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10682247,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40895126,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5782332,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 41361261,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7656740,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18682396,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19700790,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16609337,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10129508,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13045333,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-02",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10700586,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41096191,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5771775,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 41730845,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7727548,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18771602,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19802703,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16756217,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10124250,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13172111,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-03",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10711200,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40967773,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5752352,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 42106190,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7781220,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18877637,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19892440,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16796269,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10117466,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12943992,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-04",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10717031,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40988647,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5724768,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 42434492,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7830567,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 18955970,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19955909,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16668960,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10098290,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12961608,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-05",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10718766,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40991403,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5685861,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 42682509,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7858060,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 19006627,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 19893256,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16728046,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10080637,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 12938940,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-06",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10725076,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40807978,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5648429,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 42460057,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7949346,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 19071921,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20027060,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16650505,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10087725,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13034340,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-07",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10707338,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 40849847,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5670590,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 42759124,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7895064,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 19131497,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20188419,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16684556,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10087793,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13181320,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-08",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10711565,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41104423,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5668882,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 43176952,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7834785,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 19167041,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20304682,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 17025337,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10075231,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13333190,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-09",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10778948,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41248348,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5661772,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 43490955,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7685423,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 19214168,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20279084,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16598440,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10068845,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13262021,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-10",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10756146,
+      "source_report": "next-month report"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41235059,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5654203,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 43721379,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7574000,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 19289107,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20362063,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16498393,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10099790,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13310110,
+      "source_report": "current"
+    },
+    {
+      "month": "2025-11",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10768783,
+      "source_report": "current"
+    }
+  ],
+  "next_page": null
+}

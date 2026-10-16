@@ -1,0 +1,871 @@
+{
+  "request": {
+    "endpoint": "/v1/subscribers",
+    "month": "2025-11",
+    "segment": "wireless_mobile"
+  },
+  "count": 86,
+  "records": [
+    {
+      "month": "2025-11",
+      "circle": "Andhra Pradesh",
+      "operator": "Airtel",
+      "subscribers": 34475970,
+      "active_pct": 97.13,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Andhra Pradesh",
+      "operator": "BSNL",
+      "subscribers": 7440211,
+      "active_pct": 64.14,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Andhra Pradesh",
+      "operator": "Jio",
+      "subscribers": 31885087,
+      "active_pct": 89.01,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Andhra Pradesh",
+      "operator": "Vi",
+      "subscribers": 9031100,
+      "active_pct": 93.89,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Assam",
+      "operator": "Airtel",
+      "subscribers": 12474233,
+      "active_pct": 97.57,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Assam",
+      "operator": "BSNL",
+      "subscribers": 2955717,
+      "active_pct": 24.14,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Assam",
+      "operator": "Jio",
+      "subscribers": 9839724,
+      "active_pct": 97.32,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Assam",
+      "operator": "Vi",
+      "subscribers": 1453097,
+      "active_pct": 88.44,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Bihar",
+      "operator": "Airtel",
+      "subscribers": 41235059,
+      "active_pct": 90.01,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Bihar",
+      "operator": "BSNL",
+      "subscribers": 5654203,
+      "active_pct": 35.9,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Bihar",
+      "operator": "Jio",
+      "subscribers": 43721379,
+      "active_pct": 99.8,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Bihar",
+      "operator": "Vi",
+      "subscribers": 7574000,
+      "active_pct": 86.41,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Delhi",
+      "operator": "Airtel",
+      "subscribers": 19289107,
+      "active_pct": 94.41,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Delhi",
+      "operator": "Jio",
+      "subscribers": 20362063,
+      "active_pct": 95.92,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Delhi",
+      "operator": "Vi",
+      "subscribers": 16498393,
+      "active_pct": 51.47,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Gujarat",
+      "operator": "Airtel",
+      "subscribers": 12811317,
+      "active_pct": 113.51,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Gujarat",
+      "operator": "BSNL",
+      "subscribers": 3310283,
+      "active_pct": 48.25,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Gujarat",
+      "operator": "Jio",
+      "subscribers": 31939314,
+      "active_pct": 101.18,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Gujarat",
+      "operator": "Vi",
+      "subscribers": 19154917,
+      "active_pct": 90.92,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Haryana",
+      "operator": "Airtel",
+      "subscribers": 7491697,
+      "active_pct": 103.74,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Haryana",
+      "operator": "BSNL",
+      "subscribers": 4453936,
+      "active_pct": 27.44,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Haryana",
+      "operator": "Jio",
+      "subscribers": 8150243,
+      "active_pct": 105.68,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Haryana",
+      "operator": "Vi",
+      "subscribers": 6188042,
+      "active_pct": 92.78,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Himachal Pradesh",
+      "operator": "Airtel",
+      "subscribers": 3607810,
+      "active_pct": 95.51,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Himachal Pradesh",
+      "operator": "BSNL",
+      "subscribers": 1771470,
+      "active_pct": 49.67,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Himachal Pradesh",
+      "operator": "Jio",
+      "subscribers": 3363770,
+      "active_pct": 95.54,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Himachal Pradesh",
+      "operator": "Vi",
+      "subscribers": 383831,
+      "active_pct": 93.56,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Jammu & Kashmir",
+      "operator": "Airtel",
+      "subscribers": 6347246,
+      "active_pct": 84.88,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Jammu & Kashmir",
+      "operator": "BSNL",
+      "subscribers": 863999,
+      "active_pct": 58.9,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Jammu & Kashmir",
+      "operator": "Jio",
+      "subscribers": 5234264,
+      "active_pct": 79.84,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Jammu & Kashmir",
+      "operator": "Vi",
+      "subscribers": 250037,
+      "active_pct": 82.48,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Karnataka",
+      "operator": "Airtel",
+      "subscribers": 32617737,
+      "active_pct": 97.4,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Karnataka",
+      "operator": "BSNL",
+      "subscribers": 4693660,
+      "active_pct": 66.86,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Karnataka",
+      "operator": "Jio",
+      "subscribers": 26076494,
+      "active_pct": 94.93,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Karnataka",
+      "operator": "Vi",
+      "subscribers": 7383080,
+      "active_pct": 68.9,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Kerala",
+      "operator": "Airtel",
+      "subscribers": 9260175,
+      "active_pct": 102.8,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Kerala",
+      "operator": "BSNL",
+      "subscribers": 8958276,
+      "active_pct": 114.9,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Kerala",
+      "operator": "Jio",
+      "subscribers": 10980116,
+      "active_pct": 94.39,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Kerala",
+      "operator": "Vi",
+      "subscribers": 12744559,
+      "active_pct": 93.03,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Kolkata",
+      "operator": "Airtel",
+      "subscribers": 5262990,
+      "active_pct": 101.69,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Kolkata",
+      "operator": "BSNL",
+      "subscribers": 1425482,
+      "active_pct": 92.21,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Kolkata",
+      "operator": "Jio",
+      "subscribers": 10886695,
+      "active_pct": 99.47,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Kolkata",
+      "operator": "Vi",
+      "subscribers": 4681821,
+      "active_pct": 85.67,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Madhya Pradesh",
+      "operator": "Airtel",
+      "subscribers": 16925132,
+      "active_pct": 98.01,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Madhya Pradesh",
+      "operator": "BSNL",
+      "subscribers": 5141998,
+      "active_pct": 43.54,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Madhya Pradesh",
+      "operator": "Jio",
+      "subscribers": 47842472,
+      "active_pct": 96.14,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Madhya Pradesh",
+      "operator": "Vi",
+      "subscribers": 12880011,
+      "active_pct": 86.48,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Maharashtra",
+      "operator": "Airtel",
+      "subscribers": 23311773,
+      "active_pct": 107.69,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Maharashtra",
+      "operator": "BSNL",
+      "subscribers": 5338162,
+      "active_pct": 87.88,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Maharashtra",
+      "operator": "Jio",
+      "subscribers": 43257600,
+      "active_pct": 110.08,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Maharashtra",
+      "operator": "Vi",
+      "subscribers": 20565441,
+      "active_pct": 92.94,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Mumbai",
+      "operator": "Airtel",
+      "subscribers": 10099790,
+      "active_pct": 95.62,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Mumbai",
+      "operator": "Jio",
+      "subscribers": 13310110,
+      "active_pct": 89.29,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Mumbai",
+      "operator": "Vi",
+      "subscribers": 10768783,
+      "active_pct": 69.17,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "North East",
+      "operator": "Airtel",
+      "subscribers": 6477368,
+      "active_pct": 101.0,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "North East",
+      "operator": "BSNL",
+      "subscribers": 1294812,
+      "active_pct": 50.17,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "North East",
+      "operator": "Jio",
+      "subscribers": 4424098,
+      "active_pct": 102.67,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "North East",
+      "operator": "Vi",
+      "subscribers": 609261,
+      "active_pct": 95.36,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Odisha",
+      "operator": "Airtel",
+      "subscribers": 12020240,
+      "active_pct": 101.26,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Odisha",
+      "operator": "BSNL",
+      "subscribers": 5532821,
+      "active_pct": 44.11,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Odisha",
+      "operator": "Jio",
+      "subscribers": 17093395,
+      "active_pct": 93.76,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Odisha",
+      "operator": "Vi",
+      "subscribers": 1490368,
+      "active_pct": 86.22,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Punjab",
+      "operator": "Airtel",
+      "subscribers": 12691143,
+      "active_pct": 111.56,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Punjab",
+      "operator": "BSNL",
+      "subscribers": 4091509,
+      "active_pct": 41.88,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Punjab",
+      "operator": "Jio",
+      "subscribers": 11500972,
+      "active_pct": 101.66,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Punjab",
+      "operator": "Vi",
+      "subscribers": 5662904,
+      "active_pct": 91.46,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Rajasthan",
+      "operator": "Airtel",
+      "subscribers": 23412034,
+      "active_pct": 100.35,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Rajasthan",
+      "operator": "BSNL",
+      "subscribers": 5739076,
+      "active_pct": 40.5,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Rajasthan",
+      "operator": "Jio",
+      "subscribers": 27079384,
+      "active_pct": 102.02,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Rajasthan",
+      "operator": "Vi",
+      "subscribers": 8486300,
+      "active_pct": 92.92,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Tamil Nadu",
+      "operator": "Airtel",
+      "subscribers": 31136920,
+      "active_pct": 96.6,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Tamil Nadu",
+      "operator": "BSNL",
+      "subscribers": 7975145,
+      "active_pct": 87.44,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Tamil Nadu",
+      "operator": "Jio",
+      "subscribers": 24712402,
+      "active_pct": 98.3,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "Tamil Nadu",
+      "operator": "Vi",
+      "subscribers": 14293839,
+      "active_pct": 79.48,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "U.P. (East)",
+      "operator": "Airtel",
+      "subscribers": 36115229,
+      "active_pct": 100.22,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "U.P. (East)",
+      "operator": "BSNL",
+      "subscribers": 8449052,
+      "active_pct": 33.92,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "U.P. (East)",
+      "operator": "Jio",
+      "subscribers": 43662554,
+      "active_pct": 99.5,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "U.P. (East)",
+      "operator": "Vi",
+      "subscribers": 15729073,
+      "active_pct": 89.27,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "U.P. (West)",
+      "operator": "Airtel",
+      "subscribers": 19147937,
+      "active_pct": 103.49,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "U.P. (West)",
+      "operator": "BSNL",
+      "subscribers": 5222783,
+      "active_pct": 37.59,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "U.P. (West)",
+      "operator": "Jio",
+      "subscribers": 25292780,
+      "active_pct": 98.17,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "U.P. (West)",
+      "operator": "Vi",
+      "subscribers": 13119911,
+      "active_pct": 90.92,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "West Bengal",
+      "operator": "Airtel",
+      "subscribers": 18669411,
+      "active_pct": 94.23,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "West Bengal",
+      "operator": "BSNL",
+      "subscribers": 2650918,
+      "active_pct": 76.43,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "West Bengal",
+      "operator": "Jio",
+      "subscribers": 25474732,
+      "active_pct": 93.23,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    },
+    {
+      "month": "2025-11",
+      "circle": "West Bengal",
+      "operator": "Vi",
+      "subscribers": 10763269,
+      "active_pct": 88.33,
+      "unit": "subscribers",
+      "source": "TRAI Telecom Subscription Data, Annexure II/III",
+      "revised": false
+    }
+  ],
+  "next_page": null
+}

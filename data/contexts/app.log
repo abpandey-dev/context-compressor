@@ -1,0 +1,1751 @@
+2026-10-12T09:00:00.074Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:00:00.081Z DEBUG [inventory-svc] metrics cpu=11.4% mem=896MB conns=58
+2026-10-12T09:00:00.331Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:00:00.404Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:00:00.452Z DEBUG [checkout-api] metrics cpu=39.3% mem=421MB conns=15
+2026-10-12T09:00:00.651Z DEBUG [payment-svc] metrics cpu=16.1% mem=701MB conns=75
+2026-10-12T09:00:05.751Z INFO  [checkout-api] GET /api/v1/cart/81064 200 340ms user=u9548 req=4237405f508b
+2026-10-12T09:00:17.069Z INFO  [checkout-api] GET /api/v1/cart/22255 200 362ms user=u8932 req=25b0dde9bb53
+2026-10-12T09:00:18.013Z INFO  [payment-svc] POST /api/v1/pay 200 170ms provider=bankgw user=u1555 req=efee9030f1fa
+2026-10-12T09:00:23.822Z INFO  [payment-svc] POST /api/v1/pay 200 99ms provider=bankgw user=u2101 req=68e832deac34
+2026-10-12T09:00:28.468Z INFO  [checkout-api] GET /api/v1/cart/92475 200 119ms user=u8944 req=4e81e11e3f79
+2026-10-12T09:00:30.096Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:00:30.596Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:00:30.931Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:00:51.595Z INFO  [checkout-api] GET /api/v1/cart/56306 200 176ms user=u1322 req=bc3aaa94502e
+2026-10-12T09:00:58.509Z INFO  [inventory-svc] GET /api/v1/stock/SKU-40716 200 25ms req=73e19b3eb097
+2026-10-12T09:01:00.088Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T09:01:00.219Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:01:00.428Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:01:04.178Z INFO  [checkout-api] GET /api/v1/cart/99808 200 111ms user=u1254 req=84ae2a4f4d8c
+2026-10-12T09:01:30.060Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:01:30.246Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:01:30.564Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T09:01:35.092Z INFO  [inventory-svc] GET /api/v1/stock/SKU-70776 200 33ms req=7625234b1857
+2026-10-12T09:01:39.971Z INFO  [checkout-api] GET /api/v1/cart/67087 200 210ms user=u5333 req=7ce0ec037c87
+2026-10-12T09:01:48.376Z INFO  [payment-svc] POST /api/v1/pay 200 93ms provider=bankgw user=u9757 req=7f8e81cf6afa
+2026-10-12T09:02:00.590Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:02:00.645Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:02:00.970Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:02:09.253Z INFO  [inventory-svc] GET /api/v1/stock/SKU-66973 200 108ms req=46cbb8880be9
+2026-10-12T09:02:18.331Z INFO  [checkout-api] GET /api/v1/cart/24949 200 233ms user=u3716 req=cfe53b170419
+2026-10-12T09:02:30.047Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:02:30.050Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:02:30.879Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:02:31.239Z INFO  [payment-svc] POST /api/v1/pay 200 354ms provider=bankgw user=u3272 req=8499eec902bd
+2026-10-12T09:02:50.268Z INFO  [checkout-api] GET /api/v1/cart/66858 200 136ms user=u8856 req=77b6ad89f65f
+2026-10-12T09:02:56.857Z INFO  [checkout-api] GET /api/v1/cart/17720 200 475ms user=u9101 req=04d159e8489b
+2026-10-12T09:03:00.120Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:03:00.147Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:03:00.296Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:03:09.776Z INFO  [checkout-api] GET /api/v1/cart/31569 200 287ms user=u9696 req=87061ce69367
+2026-10-12T09:03:16.470Z INFO  [payment-svc] POST /api/v1/pay 200 454ms provider=bankgw user=u7898 req=909ce114438c
+2026-10-12T09:03:30.105Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:03:30.381Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:03:30.573Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:03:32.669Z INFO  [checkout-api] GET /api/v1/cart/71622 200 264ms user=u4971 req=5993ff225eeb
+2026-10-12T09:03:45.531Z INFO  [inventory-svc] GET /api/v1/stock/SKU-15458 200 85ms req=795f33d4ab30
+2026-10-12T09:04:00.560Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:04:00.577Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:04:00.633Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:04:11.382Z INFO  [checkout-api] GET /api/v1/cart/59934 200 208ms user=u2660 req=311ce041b325
+2026-10-12T09:04:12.937Z INFO  [inventory-svc] GET /api/v1/stock/SKU-42941 200 25ms req=02e99b44fbaa
+2026-10-12T09:04:19.564Z INFO  [payment-svc] POST /api/v1/pay 200 118ms provider=bankgw user=u9366 req=dd0ddb7d505d
+2026-10-12T09:04:19.819Z INFO  [checkout-api] GET /api/v1/cart/14647 200 455ms user=u8774 req=25cf5ec72ba6
+2026-10-12T09:04:30.437Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:04:30.476Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:04:30.508Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:04:36.040Z INFO  [checkout-api] GET /api/v1/cart/77287 200 26ms user=u4898 req=3d4db2b5b52a
+2026-10-12T09:04:43.094Z INFO  [checkout-api] GET /api/v1/cart/72593 200 100ms user=u1645 req=f6d964ef51b6
+2026-10-12T09:04:47.639Z INFO  [checkout-api] GET /api/v1/cart/34696 200 355ms user=u8020 req=60793677fa31
+2026-10-12T09:04:50.162Z INFO  [inventory-svc] GET /api/v1/stock/SKU-64529 200 50ms req=e274f8480cdd
+2026-10-12T09:04:57.224Z INFO  [payment-svc] POST /api/v1/pay 200 639ms provider=bankgw user=u4377 req=ed398fe37c90
+2026-10-12T09:04:59.480Z INFO  [checkout-api] GET /api/v1/cart/38588 200 258ms user=u6785 req=af0894e69f56
+2026-10-12T09:05:00.134Z DEBUG [inventory-svc] metrics cpu=68.9% mem=883MB conns=46
+2026-10-12T09:05:00.254Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:05:00.370Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:05:00.668Z DEBUG [checkout-api] metrics cpu=67.0% mem=519MB conns=13
+2026-10-12T09:05:00.715Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:05:00.877Z DEBUG [payment-svc] metrics cpu=12.1% mem=492MB conns=34
+2026-10-12T09:05:02.408Z INFO  [payment-svc] POST /api/v1/pay 200 181ms provider=bankgw user=u4548 req=3bfea050c21d
+2026-10-12T09:05:30.083Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:05:30.537Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:05:30.896Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:05:46.895Z INFO  [checkout-api] GET /api/v1/cart/56351 200 86ms user=u4517 req=29ae696fa4bb
+2026-10-12T09:05:58.406Z INFO  [checkout-api] GET /api/v1/cart/58378 200 357ms user=u2235 req=78f134a0fec9
+2026-10-12T09:06:00.120Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:06:00.294Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:06:00.746Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:06:06.519Z INFO  [payment-svc] POST /api/v1/pay 200 840ms provider=bankgw user=u1174 req=89fea7be4e57
+2026-10-12T09:06:26.381Z INFO  [checkout-api] GET /api/v1/cart/15470 200 129ms user=u4011 req=06e934d263b5
+2026-10-12T09:06:30.155Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:06:30.428Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:06:30.775Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:07:00.431Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:07:00.782Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:07:00.985Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:07:07.904Z INFO  [checkout-api] GET /api/v1/cart/37501 200 304ms user=u5607 req=b1e5d4903404
+2026-10-12T09:07:19.500Z INFO  [checkout-api] GET /api/v1/cart/84764 200 62ms user=u1174 req=6725480dc393
+2026-10-12T09:07:19.946Z INFO  [payment-svc] POST /api/v1/pay 200 618ms provider=bankgw user=u9101 req=be8a4ca2a87d
+2026-10-12T09:07:24.677Z INFO  [checkout-api] GET /api/v1/cart/81495 200 369ms user=u5116 req=9ec0605e636d
+2026-10-12T09:07:30.348Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:07:30.586Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:07:30.608Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:07:37.328Z INFO  [inventory-svc] GET /api/v1/stock/SKU-49455 200 10ms req=9d301c8710da
+2026-10-12T09:07:45.986Z INFO  [checkout-api] GET /api/v1/cart/26910 200 383ms user=u2358 req=122a40680a06
+2026-10-12T09:07:53.196Z INFO  [checkout-api] GET /api/v1/cart/97178 200 348ms user=u4644 req=7df61a128b3f
+2026-10-12T09:08:00.070Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:08:00.593Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:08:00.967Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:08:14.662Z INFO  [inventory-svc] GET /api/v1/stock/SKU-96992 200 18ms req=0d54f91d2a71
+2026-10-12T09:08:25.010Z INFO  [inventory-svc] GET /api/v1/stock/SKU-32711 200 118ms req=ffc780ce9c35
+2026-10-12T09:08:30.062Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:08:30.485Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:08:30.662Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:08:34.465Z INFO  [payment-svc] POST /api/v1/pay 200 508ms provider=bankgw user=u4481 req=f44014529931
+2026-10-12T09:08:50.302Z INFO  [checkout-api] GET /api/v1/cart/11942 200 39ms user=u5256 req=84bb54b8bb53
+2026-10-12T09:09:00.023Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:09:00.291Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:09:00.739Z INFO  [checkout-api] GET /api/v1/cart/71911 200 76ms user=u1605 req=04e6869e61a0
+2026-10-12T09:09:00.908Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:09:11.790Z INFO  [checkout-api] GET /api/v1/cart/89082 200 372ms user=u9548 req=86793b2b023a
+2026-10-12T09:09:28.612Z INFO  [checkout-api] GET /api/v1/cart/18903 200 343ms user=u6350 req=c922202b243f
+2026-10-12T09:09:30.363Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:09:30.505Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:09:30.625Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:09:41.531Z INFO  [payment-svc] POST /api/v1/pay 200 837ms provider=bankgw user=u4201 req=66f327f07ce8
+2026-10-12T09:09:43.600Z INFO  [checkout-api] GET /api/v1/cart/92784 200 166ms user=u4821 req=009ae895cb72
+2026-10-12T09:09:59.691Z INFO  [checkout-api] GET /api/v1/cart/74648 200 422ms user=u8144 req=de2bfb322c2b
+2026-10-12T09:10:00.067Z DEBUG [payment-svc] metrics cpu=59.6% mem=638MB conns=30
+2026-10-12T09:10:00.132Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:10:00.223Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:10:00.331Z DEBUG [inventory-svc] metrics cpu=63.6% mem=661MB conns=68
+2026-10-12T09:10:00.407Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:10:00.979Z DEBUG [checkout-api] metrics cpu=58.3% mem=549MB conns=38
+2026-10-12T09:10:05.787Z INFO  [inventory-svc] GET /api/v1/stock/SKU-16519 200 114ms req=c76cfe6e0c97
+2026-10-12T09:10:06.040Z INFO  [checkout-api] GET /api/v1/cart/82272 200 131ms user=u9089 req=266512942542
+2026-10-12T09:10:21.192Z INFO  [checkout-api] GET /api/v1/cart/57694 200 260ms user=u5967 req=f0661a54b4b6
+2026-10-12T09:10:30.082Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:10:30.459Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:10:30.938Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:10:50.322Z INFO  [payment-svc] POST /api/v1/pay 200 349ms provider=bankgw user=u2358 req=044216469b20
+2026-10-12T09:10:55.248Z INFO  [inventory-svc] GET /api/v1/stock/SKU-80147 200 33ms req=6a3976e89efd
+2026-10-12T09:11:00.562Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:11:00.838Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:11:00.904Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:11:03.538Z INFO  [inventory-svc] GET /api/v1/stock/SKU-77494 200 100ms req=603048517a6f
+2026-10-12T09:11:05.328Z INFO  [checkout-api] GET /api/v1/cart/32704 200 259ms user=u9199 req=4fa897e8d975
+2026-10-12T09:11:20.409Z INFO  [inventory-svc] GET /api/v1/stock/SKU-65288 200 21ms req=92e24ebcfc6d
+2026-10-12T09:11:22.326Z INFO  [inventory-svc] GET /api/v1/stock/SKU-21790 200 92ms req=18ebb214eb95
+2026-10-12T09:11:25.612Z INFO  [payment-svc] POST /api/v1/pay 200 224ms provider=bankgw user=u2790 req=8f71e757571e
+2026-10-12T09:11:27.270Z INFO  [checkout-api] GET /api/v1/cart/31293 200 36ms user=u7861 req=822184aaf461
+2026-10-12T09:11:30.285Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T09:11:30.367Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:11:30.884Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:12:00.154Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:12:00.180Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:12:00.980Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:12:08.325Z INFO  [payment-svc] POST /api/v1/pay 200 807ms provider=bankgw user=u9101 req=45d7112338b5
+2026-10-12T09:12:20.529Z INFO  [checkout-api] GET /api/v1/cart/28817 200 443ms user=u9050 req=18a596e73302
+2026-10-12T09:12:29.971Z INFO  [checkout-api] GET /api/v1/cart/96671 200 165ms user=u4745 req=f4cece678874
+2026-10-12T09:12:30.012Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:12:30.237Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:12:30.851Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:12:34.246Z INFO  [checkout-api] GET /api/v1/cart/72263 200 76ms user=u5256 req=2013e484ba1c
+2026-10-12T09:12:40.898Z INFO  [checkout-api] GET /api/v1/cart/79647 200 207ms user=u5312 req=7c73a0d50257
+2026-10-12T09:12:51.748Z INFO  [checkout-api] GET /api/v1/cart/29863 200 265ms user=u7094 req=d08c296ea027
+2026-10-12T09:13:00.004Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:13:00.269Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:13:00.429Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:13:30.378Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:13:30.707Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:13:30.975Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:13:35.679Z INFO  [checkout-api] GET /api/v1/cart/59468 200 33ms user=u7143 req=b790fef33ef2
+2026-10-12T09:13:41.970Z INFO  [payment-svc] POST /api/v1/pay 200 878ms provider=bankgw user=u8940 req=fa6a65433433
+2026-10-12T09:13:51.085Z INFO  [checkout-api] GET /api/v1/cart/72567 200 116ms user=u3716 req=8ee42ea368b2
+2026-10-12T09:13:56.727Z INFO  [payment-svc] POST /api/v1/pay 200 846ms provider=bankgw user=u3090 req=67115f1d0214
+2026-10-12T09:14:00.401Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:14:00.467Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:14:00.973Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:14:14.010Z INFO  [inventory-svc] GET /api/v1/stock/SKU-39238 200 52ms req=84a5147d9866
+2026-10-12T09:14:21.622Z INFO  [checkout-api] GET /api/v1/cart/85493 200 456ms user=u2790 req=a5a4e16432cb
+2026-10-12T09:14:29.345Z INFO  [checkout-api] GET /api/v1/cart/16866 200 212ms user=u6547 req=781ab3f7f366
+2026-10-12T09:14:30.106Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:14:30.408Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:14:30.649Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:14:30.976Z INFO  [checkout-api] GET /api/v1/cart/48194 200 448ms user=u4821 req=18574e4f046b
+2026-10-12T09:14:35.552Z INFO  [payment-svc] POST /api/v1/pay 200 574ms provider=bankgw user=u6705 req=1a4bdacc64ab
+2026-10-12T09:14:38.420Z INFO  [inventory-svc] GET /api/v1/stock/SKU-29931 200 50ms req=e30ede898a3d
+2026-10-12T09:14:39.234Z INFO  [inventory-svc] GET /api/v1/stock/SKU-26878 200 108ms req=f02c5d8572f6
+2026-10-12T09:14:44.590Z INFO  [payment-svc] POST /api/v1/pay 200 403ms provider=bankgw user=u7430 req=620cc4f22409
+2026-10-12T09:14:57.600Z INFO  [checkout-api] GET /api/v1/cart/15530 200 435ms user=u9935 req=e864ec8b45d4
+2026-10-12T09:15:00.063Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:15:00.068Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:15:00.147Z DEBUG [checkout-api] metrics cpu=23.8% mem=871MB conns=36
+2026-10-12T09:15:00.326Z DEBUG [inventory-svc] metrics cpu=31.1% mem=583MB conns=33
+2026-10-12T09:15:00.451Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:15:00.606Z DEBUG [payment-svc] metrics cpu=24.3% mem=898MB conns=40
+2026-10-12T09:15:04.007Z INFO  [inventory-svc] GET /api/v1/stock/SKU-24040 200 95ms req=f186403529e6
+2026-10-12T09:15:04.991Z INFO  [inventory-svc] GET /api/v1/stock/SKU-44249 200 102ms req=84457b246ab4
+2026-10-12T09:15:05.741Z INFO  [payment-svc] POST /api/v1/pay 200 756ms provider=bankgw user=u2750 req=24713248d1c7
+2026-10-12T09:15:19.493Z INFO  [checkout-api] GET /api/v1/cart/29228 200 159ms user=u9366 req=b55a7775e482
+2026-10-12T09:15:30.104Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:15:30.112Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:15:30.615Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:15:32.666Z INFO  [checkout-api] GET /api/v1/cart/30750 200 420ms user=u5381 req=89780dbb28fd
+2026-10-12T09:15:35.084Z INFO  [checkout-api] GET /api/v1/cart/21598 200 20ms user=u5269 req=64fa2ba9df8a
+2026-10-12T09:15:44.018Z INFO  [inventory-svc] GET /api/v1/stock/SKU-80334 200 44ms req=eff129497fbd
+2026-10-12T09:15:45.952Z INFO  [payment-svc] POST /api/v1/pay 200 633ms provider=bankgw user=u6352 req=c89d5f3dbb0d
+2026-10-12T09:15:47.135Z INFO  [checkout-api] GET /api/v1/cart/34476 200 19ms user=u7094 req=39a70366c12f
+2026-10-12T09:15:53.358Z INFO  [inventory-svc] GET /api/v1/stock/SKU-22561 200 106ms req=ecdbb2d0adc2
+2026-10-12T09:16:00.219Z INFO  [checkout-api] GET /api/v1/cart/67245 200 386ms user=u2101 req=ae96f9c23e2e
+2026-10-12T09:16:00.549Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:16:00.580Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:16:00.971Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:16:03.428Z INFO  [checkout-api] GET /api/v1/cart/39462 200 439ms user=u1646 req=0f3ecf23b51d
+2026-10-12T09:16:04.496Z INFO  [checkout-api] GET /api/v1/cart/72851 200 215ms user=u1624 req=57de13628bef
+2026-10-12T09:16:08.826Z INFO  [inventory-svc] GET /api/v1/stock/SKU-64891 200 23ms req=108573f50632
+2026-10-12T09:16:09.970Z INFO  [checkout-api] GET /api/v1/cart/33105 200 374ms user=u8932 req=e59c7a802684
+2026-10-12T09:16:30.072Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:16:30.628Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:16:30.628Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:16:35.156Z INFO  [payment-svc] POST /api/v1/pay 200 465ms provider=bankgw user=u2932 req=36e6f7dcc6e6
+2026-10-12T09:16:38.988Z INFO  [checkout-api] GET /api/v1/cart/70035 200 283ms user=u6711 req=5617d266908d
+2026-10-12T09:16:40.167Z INFO  [checkout-api] GET /api/v1/cart/10124 200 34ms user=u1245 req=c2aa24c4913e
+2026-10-12T09:16:46.616Z INFO  [inventory-svc] GET /api/v1/stock/SKU-60727 200 98ms req=7a82da6aa334
+2026-10-12T09:16:50.497Z INFO  [checkout-api] GET /api/v1/cart/16387 200 285ms user=u3849 req=216147dc78b4
+2026-10-12T09:16:51.570Z INFO  [checkout-api] GET /api/v1/cart/93434 200 336ms user=u6709 req=2c49d49aee9f
+2026-10-12T09:16:58.003Z INFO  [payment-svc] POST /api/v1/pay 200 653ms provider=bankgw user=u7907 req=807e90ccd240
+2026-10-12T09:17:00.152Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:17:00.616Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:17:00.978Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:17:04.682Z INFO  [payment-svc] POST /api/v1/pay 200 758ms provider=bankgw user=u8753 req=3a5298dfe19f
+2026-10-12T09:17:06.907Z INFO  [payment-svc] POST /api/v1/pay 200 635ms provider=bankgw user=u7898 req=87d278a0781e
+2026-10-12T09:17:09.947Z INFO  [payment-svc] POST /api/v1/pay 200 230ms provider=bankgw user=u5724 req=ddda35869814
+2026-10-12T09:17:24.762Z INFO  [payment-svc] POST /api/v1/pay 200 527ms provider=bankgw user=u7706 req=7eb068521023
+2026-10-12T09:17:25.263Z INFO  [checkout-api] GET /api/v1/cart/77519 200 452ms user=u2656 req=dbeb03208d32
+2026-10-12T09:17:30.118Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:17:30.477Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:17:30.485Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:17:36.205Z INFO  [checkout-api] GET /api/v1/cart/19633 200 420ms user=u6375 req=11568036ba2f
+2026-10-12T09:17:37.387Z INFO  [payment-svc] POST /api/v1/pay 200 270ms provider=bankgw user=u2790 req=5e92003d9f44
+2026-10-12T09:17:39.943Z INFO  [checkout-api] GET /api/v1/cart/34266 200 434ms user=u4821 req=ac4e8854b470
+2026-10-12T09:17:42.004Z INFO  [checkout-api] GET /api/v1/cart/90016 200 362ms user=u2603 req=4002588633a7
+2026-10-12T09:17:49.659Z INFO  [payment-svc] POST /api/v1/pay 200 246ms provider=bankgw user=u2411 req=6ee83db6dd4d
+2026-10-12T09:17:52.603Z INFO  [checkout-api] GET /api/v1/cart/91870 200 167ms user=u1071 req=165beaecba0a
+2026-10-12T09:17:58.698Z INFO  [payment-svc] POST /api/v1/pay 200 817ms provider=bankgw user=u7309 req=8e4512fadb8e
+2026-10-12T09:17:59.730Z INFO  [checkout-api] GET /api/v1/cart/95594 200 260ms user=u6421 req=d77a0a806987
+2026-10-12T09:18:00.087Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:18:00.104Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:18:00.495Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:18:18.250Z INFO  [checkout-api] GET /api/v1/cart/43818 200 176ms user=u7421 req=37771674fbfb
+2026-10-12T09:18:30.210Z INFO  [checkout-api] GET /api/v1/cart/10947 200 85ms user=u2940 req=ecec9524998a
+2026-10-12T09:18:30.490Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:18:30.528Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:18:30.732Z INFO  [inventory-svc] GET /api/v1/stock/SKU-61877 200 76ms req=ccc0cb305a04
+2026-10-12T09:18:30.758Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:18:34.539Z INFO  [payment-svc] POST /api/v1/pay 200 785ms provider=bankgw user=u7060 req=66fb1b337fb2
+2026-10-12T09:18:46.439Z INFO  [payment-svc] POST /api/v1/pay 200 861ms provider=bankgw user=u1467 req=b103d1ffd867
+2026-10-12T09:19:00.210Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:19:00.370Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:19:00.706Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:19:02.295Z INFO  [inventory-svc] GET /api/v1/stock/SKU-23450 200 30ms req=28b57ccf0a56
+2026-10-12T09:19:04.481Z INFO  [checkout-api] GET /api/v1/cart/45543 200 111ms user=u7594 req=79130b64915a
+2026-10-12T09:19:05.596Z INFO  [inventory-svc] GET /api/v1/stock/SKU-76484 200 50ms req=d14bad317174
+2026-10-12T09:19:09.208Z INFO  [checkout-api] GET /api/v1/cart/35978 200 402ms user=u4821 req=7a20f1fa2261
+2026-10-12T09:19:11.873Z INFO  [payment-svc] POST /api/v1/pay 200 552ms provider=bankgw user=u9052 req=59152729899a
+2026-10-12T09:19:23.485Z INFO  [inventory-svc] GET /api/v1/stock/SKU-86665 200 69ms req=a09b918db627
+2026-10-12T09:19:30.305Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:19:30.776Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:19:30.936Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:19:48.395Z INFO  [payment-svc] POST /api/v1/pay 200 55ms provider=bankgw user=u5949 req=f4c48158ca93
+2026-10-12T09:19:59.832Z INFO  [checkout-api] GET /api/v1/cart/62244 200 289ms user=u4821 req=4e8bc562ad69
+2026-10-12T09:20:00.028Z INFO  [checkout-api] GET /api/v1/cart/93345 200 132ms user=u6824 req=84fdb0dd13f1
+2026-10-12T09:20:00.413Z DEBUG [checkout-api] metrics cpu=18.0% mem=664MB conns=51
+2026-10-12T09:20:00.530Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:20:00.712Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:20:00.786Z DEBUG [inventory-svc] metrics cpu=40.9% mem=748MB conns=67
+2026-10-12T09:20:00.916Z DEBUG [payment-svc] metrics cpu=31.4% mem=650MB conns=24
+2026-10-12T09:20:00.930Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:20:06.566Z INFO  [payment-svc] POST /api/v1/pay 200 777ms provider=bankgw user=u6547 req=3ad1f4c18318
+2026-10-12T09:20:20.185Z INFO  [payment-svc] POST /api/v1/pay 200 760ms provider=bankgw user=u2489 req=51931a5c537d
+2026-10-12T09:20:30.364Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:20:30.545Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:20:30.797Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:20:31.135Z INFO  [payment-svc] POST /api/v1/pay 200 617ms provider=bankgw user=u4382 req=abc32f23ae55
+2026-10-12T09:20:56.717Z INFO  [inventory-svc] GET /api/v1/stock/SKU-53313 200 51ms req=94de217e3472
+2026-10-12T09:21:00.337Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:21:00.627Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:21:00.825Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:21:00.859Z INFO  [checkout-api] GET /api/v1/cart/65419 200 392ms user=u3367 req=c90792f3246e
+2026-10-12T09:21:01.559Z INFO  [inventory-svc] GET /api/v1/stock/SKU-95980 200 105ms req=766bbf0dafed
+2026-10-12T09:21:07.440Z INFO  [inventory-svc] GET /api/v1/stock/SKU-10524 200 44ms req=b2a30718b2e0
+2026-10-12T09:21:13.939Z INFO  [inventory-svc] GET /api/v1/stock/SKU-51681 200 86ms req=1b356827c235
+2026-10-12T09:21:19.476Z INFO  [inventory-svc] GET /api/v1/stock/SKU-22016 200 42ms req=d898286efcd0
+2026-10-12T09:21:28.063Z INFO  [checkout-api] GET /api/v1/cart/39663 200 75ms user=u3957 req=ea9ca91a291a
+2026-10-12T09:21:30.204Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:21:30.757Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:21:30.837Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:21:49.838Z INFO  [payment-svc] POST /api/v1/pay 200 710ms provider=bankgw user=u6824 req=994d777d74d7
+2026-10-12T09:21:55.329Z INFO  [inventory-svc] GET /api/v1/stock/SKU-42322 200 106ms req=997beb8b0a6a
+2026-10-12T09:22:00.028Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:22:00.504Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:22:00.748Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:22:02.237Z INFO  [checkout-api] GET /api/v1/cart/71108 200 113ms user=u8940 req=b08803ff9e25
+2026-10-12T09:22:05.572Z INFO  [payment-svc] POST /api/v1/pay 200 167ms provider=bankgw user=u7939 req=e9bfc846f23e
+2026-10-12T09:22:20.578Z INFO  [checkout-api] GET /api/v1/cart/92867 200 329ms user=u5600 req=ab9315bd0e3a
+2026-10-12T09:22:23.360Z INFO  [payment-svc] POST /api/v1/pay 200 325ms provider=bankgw user=u6128 req=5fb4582781a8
+2026-10-12T09:22:23.714Z INFO  [checkout-api] GET /api/v1/cart/36402 200 433ms user=u2777 req=f47f8e03c879
+2026-10-12T09:22:30.198Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:22:30.457Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:22:30.483Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:22:35.137Z INFO  [inventory-svc] GET /api/v1/stock/SKU-32808 200 107ms req=b8f4ce9dc798
+2026-10-12T09:22:35.443Z INFO  [inventory-svc] GET /api/v1/stock/SKU-82494 200 74ms req=7c823297dc7a
+2026-10-12T09:23:00.082Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:23:00.104Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:23:00.977Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:23:07.233Z INFO  [checkout-api] GET /api/v1/cart/78880 200 275ms user=u8013 req=f0f1f2ca74d3
+2026-10-12T09:23:30.345Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:23:30.481Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:23:30.494Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:23:47.332Z INFO  [checkout-api] GET /api/v1/cart/54765 200 123ms user=u5798 req=c1bd4f6906ad
+2026-10-12T09:23:55.891Z INFO  [checkout-api] GET /api/v1/cart/28136 200 393ms user=u5853 req=d2c93e7fb6d2
+2026-10-12T09:24:00.490Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:24:00.818Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:24:00.854Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:24:11.015Z INFO  [checkout-api] GET /api/v1/cart/44687 200 368ms user=u7916 req=82161db80a1e
+2026-10-12T09:24:30.489Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:24:30.801Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:24:30.931Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:24:32.437Z INFO  [checkout-api] GET /api/v1/cart/42778 200 268ms user=u8783 req=2ef9b1ad85ff
+2026-10-12T09:24:33.165Z INFO  [checkout-api] GET /api/v1/cart/37180 200 213ms user=u4334 req=202c247e1de3
+2026-10-12T09:24:39.949Z INFO  [checkout-api] GET /api/v1/cart/59839 200 54ms user=u4821 req=4db18767a03f
+2026-10-12T09:24:42.202Z INFO  [checkout-api] GET /api/v1/cart/19109 200 317ms user=u3118 req=82a2a2d92e74
+2026-10-12T09:24:54.543Z INFO  [payment-svc] POST /api/v1/pay 200 768ms provider=bankgw user=u7161 req=674677d17e47
+2026-10-12T09:24:57.816Z INFO  [inventory-svc] GET /api/v1/stock/SKU-79158 200 26ms req=7f63ee944e66
+2026-10-12T09:24:58.721Z INFO  [payment-svc] POST /api/v1/pay 200 309ms provider=bankgw user=u3803 req=6ca6b0005d06
+2026-10-12T09:25:00.088Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T09:25:00.271Z DEBUG [inventory-svc] metrics cpu=31.3% mem=757MB conns=83
+2026-10-12T09:25:00.444Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:25:00.474Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:25:00.548Z DEBUG [payment-svc] metrics cpu=47.0% mem=783MB conns=57
+2026-10-12T09:25:00.568Z DEBUG [checkout-api] metrics cpu=40.3% mem=487MB conns=42
+2026-10-12T09:25:03.345Z INFO  [inventory-svc] GET /api/v1/stock/SKU-57369 200 104ms req=a970ab8a255f
+2026-10-12T09:25:07.931Z INFO  [payment-svc] POST /api/v1/pay 200 651ms provider=bankgw user=u4011 req=106df06244e1
+2026-10-12T09:25:23.478Z INFO  [checkout-api] GET /api/v1/cart/33781 200 144ms user=u9935 req=5eb4c269b873
+2026-10-12T09:25:30.174Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:25:30.742Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:25:30.761Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:25:58.530Z INFO  [checkout-api] GET /api/v1/cart/10789 200 179ms user=u5451 req=5882ac89cd19
+2026-10-12T09:25:58.597Z INFO  [checkout-api] GET /api/v1/cart/20489 200 45ms user=u2101 req=59bebd2fa588
+2026-10-12T09:25:59.540Z INFO  [inventory-svc] GET /api/v1/stock/SKU-51919 200 44ms req=0316d9719ef5
+2026-10-12T09:26:00.028Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:26:00.604Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:26:00.825Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:26:01.026Z INFO  [inventory-svc] GET /api/v1/stock/SKU-13013 200 88ms req=4ccb0d0603eb
+2026-10-12T09:26:03.223Z INFO  [checkout-api] GET /api/v1/cart/58822 200 253ms user=u7910 req=01d4921da2e0
+2026-10-12T09:26:09.311Z INFO  [checkout-api] GET /api/v1/cart/51159 200 437ms user=u4416 req=62c050bf72fb
+2026-10-12T09:26:09.994Z INFO  [checkout-api] GET /api/v1/cart/86049 200 324ms user=u7809 req=b26a22eccdf0
+2026-10-12T09:26:13.622Z INFO  [payment-svc] POST /api/v1/pay 200 875ms provider=bankgw user=u2667 req=31b41468e403
+2026-10-12T09:26:20.040Z INFO  [checkout-api] GET /api/v1/cart/75125 200 436ms user=u4702 req=cd2549121531
+2026-10-12T09:26:30.159Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:26:30.626Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:26:30.673Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:26:46.342Z INFO  [checkout-api] GET /api/v1/cart/90491 200 377ms user=u2663 req=0a2bb2b9b7c8
+2026-10-12T09:26:50.714Z INFO  [checkout-api] GET /api/v1/cart/99439 200 380ms user=u4971 req=2279c6dbedbc
+2026-10-12T09:26:59.809Z INFO  [checkout-api] GET /api/v1/cart/35786 200 406ms user=u9440 req=869002b6d08b
+2026-10-12T09:27:00.021Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:27:00.556Z INFO  [checkout-api] GET /api/v1/cart/97149 200 332ms user=u3409 req=5b669972d062
+2026-10-12T09:27:00.561Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:27:00.818Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:27:05.727Z INFO  [payment-svc] POST /api/v1/pay 200 726ms provider=bankgw user=u3563 req=a503f8c45100
+2026-10-12T09:27:12.454Z INFO  [checkout-api] GET /api/v1/cart/15021 200 454ms user=u7362 req=3d6975bb3f25
+2026-10-12T09:27:15.492Z INFO  [payment-svc] POST /api/v1/pay 200 562ms provider=bankgw user=u4377 req=f8ea6815bb98
+2026-10-12T09:27:19.821Z INFO  [checkout-api] GET /api/v1/cart/10123 200 56ms user=u2777 req=1e1c771d814e
+2026-10-12T09:27:20.411Z INFO  [checkout-api] GET /api/v1/cart/80997 200 387ms user=u2610 req=19ace327203f
+2026-10-12T09:27:28.359Z INFO  [payment-svc] POST /api/v1/pay 200 710ms provider=bankgw user=u6698 req=5636a00d6695
+2026-10-12T09:27:30.444Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:27:30.539Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:27:30.845Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:27:52.961Z INFO  [payment-svc] POST /api/v1/pay 200 183ms provider=bankgw user=u8185 req=596b72d3b994
+2026-10-12T09:28:00.028Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:28:00.217Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:28:00.513Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:28:09.647Z INFO  [payment-svc] POST /api/v1/pay 200 648ms provider=bankgw user=u5495 req=ed40fc8db9cd
+2026-10-12T09:28:19.520Z INFO  [inventory-svc] GET /api/v1/stock/SKU-50744 200 14ms req=69da529adc3b
+2026-10-12T09:28:23.536Z INFO  [inventory-svc] GET /api/v1/stock/SKU-80988 200 44ms req=42310717dd77
+2026-10-12T09:28:30.265Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:28:30.429Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:28:30.782Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:28:31.824Z INFO  [checkout-api] GET /api/v1/cart/29060 200 277ms user=u6711 req=57d4b5cd02d1
+2026-10-12T09:28:35.366Z INFO  [checkout-api] GET /api/v1/cart/95123 200 174ms user=u6602 req=68607a119030
+2026-10-12T09:28:35.821Z INFO  [checkout-api] GET /api/v1/cart/87606 200 371ms user=u7865 req=ece6615d3142
+2026-10-12T09:28:44.671Z INFO  [checkout-api] GET /api/v1/cart/78720 200 344ms user=u8404 req=29fb0f26f892
+2026-10-12T09:28:48.811Z INFO  [checkout-api] GET /api/v1/cart/97053 200 145ms user=u9205 req=0aa8a5f82f14
+2026-10-12T09:28:51.511Z INFO  [payment-svc] POST /api/v1/pay 200 204ms provider=bankgw user=u5939 req=f911a2b34476
+2026-10-12T09:28:53.111Z INFO  [checkout-api] GET /api/v1/cart/48905 200 54ms user=u4201 req=fa798b131058
+2026-10-12T09:28:57.331Z INFO  [checkout-api] GET /api/v1/cart/13469 200 243ms user=u4821 req=302cb17cdc70
+2026-10-12T09:28:57.428Z INFO  [payment-svc] POST /api/v1/pay 200 611ms provider=bankgw user=u2288 req=854e2ec50c36
+2026-10-12T09:29:00.062Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:29:00.678Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:29:00.919Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:29:05.109Z INFO  [payment-svc] POST /api/v1/pay 200 786ms provider=bankgw user=u6248 req=466c5fc7ac1f
+2026-10-12T09:29:15.497Z INFO  [inventory-svc] GET /api/v1/stock/SKU-82545 200 71ms req=4a77d16a1b01
+2026-10-12T09:29:22.699Z INFO  [payment-svc] POST /api/v1/pay 200 217ms provider=bankgw user=u1044 req=bb687389f503
+2026-10-12T09:29:27.154Z INFO  [payment-svc] POST /api/v1/pay 200 95ms provider=bankgw user=u6547 req=0968ec5d59be
+2026-10-12T09:29:30.133Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:29:30.155Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:29:30.430Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:29:34.910Z INFO  [checkout-api] GET /api/v1/cart/69088 200 267ms user=u4870 req=53aeac5548c0
+2026-10-12T09:29:35.124Z INFO  [checkout-api] GET /api/v1/cart/63226 200 50ms user=u9211 req=2e71e5cf2d9e
+2026-10-12T09:29:56.771Z INFO  [payment-svc] POST /api/v1/pay 200 484ms provider=bankgw user=u6374 req=c31436da81bb
+2026-10-12T09:30:00.149Z DEBUG [checkout-api] metrics cpu=30.3% mem=463MB conns=66
+2026-10-12T09:30:00.235Z DEBUG [payment-svc] metrics cpu=19.0% mem=429MB conns=47
+2026-10-12T09:30:00.522Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:30:00.795Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:30:00.839Z DEBUG [inventory-svc] metrics cpu=40.0% mem=697MB conns=84
+2026-10-12T09:30:00.893Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:30:11.878Z INFO  [checkout-api] GET /api/v1/cart/50881 200 23ms user=u9050 req=6e74263ce5f2
+2026-10-12T09:30:16.594Z INFO  [payment-svc] POST /api/v1/pay 200 719ms provider=bankgw user=u8130 req=c13433295a72
+2026-10-12T09:30:17.349Z INFO  [checkout-api] GET /api/v1/cart/13066 200 131ms user=u9547 req=c8910d9c95fe
+2026-10-12T09:30:22.156Z INFO  [payment-svc] POST /api/v1/pay 200 729ms provider=bankgw user=u1362 req=ef73f35b82ca
+2026-10-12T09:30:26.101Z INFO  [checkout-api] GET /api/v1/cart/67566 200 125ms user=u4826 req=3adaf5cf5ace
+2026-10-12T09:30:30.176Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:30:30.623Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:30:30.794Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:30:42.307Z INFO  [checkout-api] GET /api/v1/cart/12092 200 79ms user=u2567 req=482a0ff2488f
+2026-10-12T09:30:49.070Z INFO  [checkout-api] GET /api/v1/cart/50436 200 63ms user=u6421 req=3edbd57da8ca
+2026-10-12T09:31:00.333Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:31:00.484Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:31:00.569Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:31:07.868Z INFO  [checkout-api] GET /api/v1/cart/51653 200 175ms user=u1090 req=8b9bbcc9370d
+2026-10-12T09:31:23.917Z INFO  [payment-svc] POST /api/v1/pay 200 357ms provider=bankgw user=u2610 req=027cfcce7bd9
+2026-10-12T09:31:30.494Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:31:30.543Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:31:30.904Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:31:35.149Z INFO  [inventory-svc] GET /api/v1/stock/SKU-74114 200 25ms req=9c19746d2b62
+2026-10-12T09:31:40.870Z INFO  [checkout-api] GET /api/v1/cart/28122 200 219ms user=u7302 req=1d7a9fdc10a1
+2026-10-12T09:31:46.895Z INFO  [checkout-api] GET /api/v1/cart/86291 200 396ms user=u9757 req=a498a647c1ac
+2026-10-12T09:31:58.567Z INFO  [payment-svc] POST /api/v1/pay 200 866ms provider=bankgw user=u5312 req=6d6a1a62bcea
+2026-10-12T09:32:00.043Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:32:00.058Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:32:00.195Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:32:01.506Z INFO  [payment-svc] POST /api/v1/pay 200 407ms provider=bankgw user=u6705 req=7995dd5d48f2
+2026-10-12T09:32:13.704Z INFO  [inventory-svc] GET /api/v1/stock/SKU-10579 200 20ms req=b349c93bbaa9
+2026-10-12T09:32:16.154Z INFO  [checkout-api] GET /api/v1/cart/32974 200 271ms user=u7976 req=7e06a3bf9232
+2026-10-12T09:32:30.519Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:32:30.575Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:32:30.778Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:32:52.425Z INFO  [payment-svc] POST /api/v1/pay 200 366ms provider=bankgw user=u6769 req=f6d48dc870c8
+2026-10-12T09:33:00.006Z INFO  [checkout-api] GET /api/v1/cart/77552 200 369ms user=u8013 req=e4b9447a3d54
+2026-10-12T09:33:00.453Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:33:00.620Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:33:00.627Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:33:00.647Z INFO  [inventory-svc] GET /api/v1/stock/SKU-76693 200 5ms req=0b0f4335e690
+2026-10-12T09:33:30.204Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:33:30.463Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:33:30.546Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:33:30.882Z INFO  [payment-svc] POST /api/v1/pay 200 343ms provider=bankgw user=u4826 req=8df1032672b5
+2026-10-12T09:33:34.167Z INFO  [checkout-api] GET /api/v1/cart/84497 200 247ms user=u4164 req=18b69c647730
+2026-10-12T09:33:35.080Z INFO  [checkout-api] GET /api/v1/cart/28173 200 342ms user=u4898 req=00c49b5539ac
+2026-10-12T09:33:35.228Z INFO  [payment-svc] POST /api/v1/pay 200 222ms provider=bankgw user=u9041 req=a81fae83d54b
+2026-10-12T09:33:39.705Z INFO  [payment-svc] POST /api/v1/pay 200 882ms provider=bankgw user=u7060 req=b95e0e78c72c
+2026-10-12T09:33:54.931Z INFO  [checkout-api] GET /api/v1/cart/31734 200 454ms user=u4045 req=9c0767cb7f80
+2026-10-12T09:33:55.887Z INFO  [checkout-api] GET /api/v1/cart/59837 200 163ms user=u3544 req=d896416bef4b
+2026-10-12T09:33:59.415Z INFO  [payment-svc] POST /api/v1/pay 200 165ms provider=bankgw user=u6602 req=a3304f51b976
+2026-10-12T09:34:00.519Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:34:00.715Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:34:00.897Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:34:01.032Z INFO  [inventory-svc] GET /api/v1/stock/SKU-88767 200 89ms req=d4777b9c6635
+2026-10-12T09:34:02.065Z INFO  [checkout-api] GET /api/v1/cart/23159 200 192ms user=u7309 req=3a007b22f16e
+2026-10-12T09:34:11.000Z INFO  [checkout-api] GET /api/v1/cart/49337 200 101ms user=u7362 req=e7b7d3703a3e
+2026-10-12T09:34:11.420Z INFO  [checkout-api] GET /api/v1/cart/91695 200 64ms user=u9025 req=5a1e3a659488
+2026-10-12T09:34:22.778Z INFO  [checkout-api] GET /api/v1/cart/77501 200 163ms user=u3118 req=d8e9a807a7a6
+2026-10-12T09:34:30.860Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:34:30.914Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T09:34:30.944Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:34:31.009Z INFO  [checkout-api] GET /api/v1/cart/83155 200 75ms user=u1090 req=f3b47c204316
+2026-10-12T09:34:35.584Z INFO  [checkout-api] GET /api/v1/cart/60068 200 311ms user=u2660 req=587db821f6a0
+2026-10-12T09:34:57.133Z INFO  [checkout-api] GET /api/v1/cart/76853 200 66ms user=u9152 req=07cf7ba849b7
+2026-10-12T09:35:00.124Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T09:35:00.140Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:35:00.452Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:35:00.630Z DEBUG [inventory-svc] metrics cpu=46.8% mem=807MB conns=75
+2026-10-12T09:35:00.765Z DEBUG [payment-svc] metrics cpu=10.1% mem=532MB conns=47
+2026-10-12T09:35:00.950Z DEBUG [checkout-api] metrics cpu=49.1% mem=700MB conns=10
+2026-10-12T09:35:16.189Z INFO  [checkout-api] GET /api/v1/cart/29692 200 417ms user=u6769 req=9c488e00a4ff
+2026-10-12T09:35:23.242Z INFO  [inventory-svc] GET /api/v1/stock/SKU-59726 200 43ms req=13ea6b7ffbf0
+2026-10-12T09:35:23.382Z INFO  [inventory-svc] GET /api/v1/stock/SKU-74690 200 30ms req=c1944cf368db
+2026-10-12T09:35:26.934Z INFO  [checkout-api] GET /api/v1/cart/17986 200 136ms user=u4201 req=7592ce63dfa1
+2026-10-12T09:35:30.074Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:35:30.217Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:35:30.438Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:35:32.255Z INFO  [checkout-api] GET /api/v1/cart/17783 200 286ms user=u4821 req=5bbd26944ff7
+2026-10-12T09:35:48.869Z INFO  [inventory-svc] GET /api/v1/stock/SKU-11088 200 117ms req=978b1a46e244
+2026-10-12T09:36:00.802Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:36:00.918Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:36:00.962Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:36:04.511Z INFO  [payment-svc] POST /api/v1/pay 200 761ms provider=bankgw user=u2481 req=1dfad2016467
+2026-10-12T09:36:21.104Z INFO  [inventory-svc] GET /api/v1/stock/SKU-37441 200 84ms req=e24cb72d1b9c
+2026-10-12T09:36:28.745Z INFO  [inventory-svc] GET /api/v1/stock/SKU-46166 200 40ms req=18db27ac6c6a
+2026-10-12T09:36:30.146Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:36:30.904Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:36:30.990Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:36:34.576Z INFO  [checkout-api] GET /api/v1/cart/58189 200 260ms user=u4821 req=3fa5a3bc34f9
+2026-10-12T09:36:35.601Z INFO  [payment-svc] POST /api/v1/pay 200 863ms provider=bankgw user=u5136 req=dc251610990d
+2026-10-12T09:36:41.586Z INFO  [checkout-api] GET /api/v1/cart/89686 200 458ms user=u5972 req=cae4e9985307
+2026-10-12T09:36:48.292Z INFO  [inventory-svc] GET /api/v1/stock/SKU-34530 200 117ms req=600dd585d9b8
+2026-10-12T09:36:49.521Z INFO  [payment-svc] POST /api/v1/pay 200 415ms provider=bankgw user=u2358 req=5ca6277c4421
+2026-10-12T09:37:00.166Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:37:00.224Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:37:00.407Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:37:09.980Z INFO  [payment-svc] POST /api/v1/pay 200 131ms provider=bankgw user=u8890 req=d871c0647c85
+2026-10-12T09:37:17.488Z INFO  [checkout-api] GET /api/v1/cart/58125 200 106ms user=u5822 req=548aaa0729a3
+2026-10-12T09:37:22.741Z INFO  [checkout-api] GET /api/v1/cart/21733 200 330ms user=u6676 req=3ccd71ba82f4
+2026-10-12T09:37:30.165Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:37:30.347Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:37:30.527Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T09:37:46.472Z INFO  [inventory-svc] GET /api/v1/stock/SKU-29822 200 56ms req=dc73b39c67a6
+2026-10-12T09:37:50.709Z INFO  [inventory-svc] GET /api/v1/stock/SKU-92306 200 70ms req=edc1027007a4
+2026-10-12T09:37:54.380Z INFO  [payment-svc] POST /api/v1/pay 200 105ms provider=bankgw user=u4569 req=dfc0fb356422
+2026-10-12T09:38:00.200Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:38:00.326Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:38:00.739Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:38:30.019Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:38:30.451Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:38:30.567Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:38:31.561Z INFO  [checkout-api] GET /api/v1/cart/53352 200 286ms user=u3300 req=d8cdadc4ccd4
+2026-10-12T09:38:50.558Z INFO  [payment-svc] POST /api/v1/pay 200 81ms provider=bankgw user=u1884 req=d237e90d9384
+2026-10-12T09:38:57.853Z INFO  [checkout-api] GET /api/v1/cart/16758 200 166ms user=u4377 req=ae27c8e48347
+2026-10-12T09:39:00.393Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:39:00.524Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:39:00.529Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:39:05.465Z INFO  [payment-svc] POST /api/v1/pay 200 132ms provider=bankgw user=u6688 req=03e645262719
+2026-10-12T09:39:08.319Z INFO  [payment-svc] POST /api/v1/pay 200 223ms provider=bankgw user=u9907 req=73ce8cccdaec
+2026-10-12T09:39:14.348Z INFO  [checkout-api] GET /api/v1/cart/55729 200 18ms user=u8774 req=022e0d3f2380
+2026-10-12T09:39:30.086Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:39:30.115Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:39:30.995Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:39:31.969Z INFO  [checkout-api] GET /api/v1/cart/97325 200 368ms user=u1985 req=04a170587c7a
+2026-10-12T09:39:35.368Z INFO  [payment-svc] POST /api/v1/pay 200 763ms provider=bankgw user=u2489 req=0af24f5dfaff
+2026-10-12T09:39:42.464Z INFO  [payment-svc] POST /api/v1/pay 200 102ms provider=bankgw user=u7976 req=3ebc149d4f5f
+2026-10-12T09:39:43.840Z INFO  [checkout-api] GET /api/v1/cart/77527 200 276ms user=u3957 req=b3717bd5c2d6
+2026-10-12T09:40:00.055Z DEBUG [inventory-svc] metrics cpu=8.2% mem=743MB conns=48
+2026-10-12T09:40:00.232Z DEBUG [payment-svc] metrics cpu=46.0% mem=426MB conns=12
+2026-10-12T09:40:00.276Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:40:00.278Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:40:00.372Z DEBUG [checkout-api] metrics cpu=63.5% mem=515MB conns=72
+2026-10-12T09:40:00.927Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:40:01.092Z INFO  [inventory-svc] GET /api/v1/stock/SKU-85929 200 113ms req=9b75f8a6927e
+2026-10-12T09:40:15.574Z INFO  [payment-svc] POST /api/v1/pay 200 687ms provider=bankgw user=u8571 req=15ea400c412b
+2026-10-12T09:40:24.643Z INFO  [checkout-api] GET /api/v1/cart/89081 200 60ms user=u5648 req=1a97c0de4f91
+2026-10-12T09:40:28.495Z INFO  [checkout-api] GET /api/v1/cart/57631 200 88ms user=u4821 req=c28f189323f4
+2026-10-12T09:40:30.415Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:40:30.839Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:40:30.869Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:40:50.849Z INFO  [payment-svc] POST /api/v1/pay 200 364ms provider=bankgw user=u9103 req=075a6f156935
+2026-10-12T09:41:00.549Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:41:00.584Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:41:00.717Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:41:00.861Z INFO  [inventory-svc] GET /api/v1/stock/SKU-16789 200 22ms req=f31f95465be4
+2026-10-12T09:41:01.717Z INFO  [inventory-svc] GET /api/v1/stock/SKU-16280 200 35ms req=62dc084ee007
+2026-10-12T09:41:12.336Z INFO  [checkout-api] GET /api/v1/cart/77572 200 175ms user=u9635 req=5f04c5503b11
+2026-10-12T09:41:12.551Z INFO  [payment-svc] POST /api/v1/pay 200 41ms provider=bankgw user=u1263 req=3e908eb9993a
+2026-10-12T09:41:19.154Z INFO  [checkout-api] GET /api/v1/cart/75880 200 474ms user=u8690 req=b35ec2daca17
+2026-10-12T09:41:22.394Z INFO  [checkout-api] GET /api/v1/cart/27762 200 72ms user=u7561 req=a7cb2ae33834
+2026-10-12T09:41:29.238Z INFO  [payment-svc] POST /api/v1/pay 200 821ms provider=bankgw user=u5945 req=ab31ca0dd91b
+2026-10-12T09:41:30.058Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:41:30.091Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:41:30.435Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:41:32.655Z INFO  [checkout-api] GET /api/v1/cart/62522 200 401ms user=u5154 req=2910a29d223a
+2026-10-12T09:41:41.442Z INFO  [checkout-api] GET /api/v1/cart/52505 200 96ms user=u1555 req=3d51f35191a1
+2026-10-12T09:41:41.677Z INFO  [checkout-api] GET /api/v1/cart/92827 200 193ms user=u4164 req=c1ffb013ce94
+2026-10-12T09:41:43.405Z INFO  [checkout-api] GET /api/v1/cart/15977 200 363ms user=u3065 req=736ebebf0bc6
+2026-10-12T09:41:48.437Z INFO  [payment-svc] POST /api/v1/pay 200 596ms provider=bankgw user=u8669 req=a1b5546dac35
+2026-10-12T09:41:55.157Z INFO  [checkout-api] GET /api/v1/cart/43091 200 361ms user=u4821 req=31167628828f
+2026-10-12T09:42:00.275Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:42:00.649Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:42:00.820Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:42:07.394Z INFO  [inventory-svc] GET /api/v1/stock/SKU-86136 200 18ms req=6136c2301cd1
+2026-10-12T09:42:20.814Z INFO  [payment-svc] POST /api/v1/pay 200 106ms provider=bankgw user=u6812 req=d6d41d5ce051
+2026-10-12T09:42:30.068Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:42:30.085Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:42:30.883Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:42:36.969Z INFO  [payment-svc] POST /api/v1/pay 200 701ms provider=bankgw user=u4452 req=13102c16e7b8
+2026-10-12T09:43:00.347Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:43:00.427Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:43:00.464Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:43:02.120Z INFO  [payment-svc] POST /api/v1/pay 200 806ms provider=bankgw user=u2667 req=5363223b7abc
+2026-10-12T09:43:05.012Z INFO  [checkout-api] GET /api/v1/cart/60269 200 305ms user=u8789 req=8d2fc3f3c3fd
+2026-10-12T09:43:23.722Z INFO  [inventory-svc] GET /api/v1/stock/SKU-94233 200 26ms req=1e91b7c325f5
+2026-10-12T09:43:23.891Z INFO  [inventory-svc] GET /api/v1/stock/SKU-44844 200 93ms req=e3affcf262d9
+2026-10-12T09:43:30.044Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:43:30.636Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:43:30.726Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:43:36.188Z INFO  [checkout-api] GET /api/v1/cart/91034 200 10ms user=u8457 req=6c2069235eb3
+2026-10-12T09:43:40.471Z INFO  [checkout-api] GET /api/v1/cart/32491 200 80ms user=u7368 req=6ad7675dbd99
+2026-10-12T09:43:43.704Z INFO  [inventory-svc] GET /api/v1/stock/SKU-75725 200 100ms req=bfa6472b073e
+2026-10-12T09:43:45.132Z INFO  [inventory-svc] GET /api/v1/stock/SKU-17801 200 96ms req=1f14b9b0ef9b
+2026-10-12T09:43:47.698Z INFO  [checkout-api] GET /api/v1/cart/62623 200 120ms user=u7043 req=1ff65255845a
+2026-10-12T09:43:51.856Z INFO  [inventory-svc] GET /api/v1/stock/SKU-13512 200 88ms req=795f6b215ac7
+2026-10-12T09:43:52.495Z INFO  [payment-svc] POST /api/v1/pay 200 806ms provider=bankgw user=u7295 req=a211e8c463f4
+2026-10-12T09:43:57.758Z INFO  [checkout-api] GET /api/v1/cart/15472 200 419ms user=u3272 req=b570e2e619e4
+2026-10-12T09:44:00.268Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:44:00.632Z INFO  [payment-svc] POST /api/v1/pay 200 652ms provider=bankgw user=u5116 req=31933f49a3e2
+2026-10-12T09:44:00.960Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:44:00.992Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:44:09.382Z INFO  [payment-svc] POST /api/v1/pay 200 769ms provider=bankgw user=u9318 req=b089e31d6e9f
+2026-10-12T09:44:17.391Z INFO  [checkout-api] GET /api/v1/cart/22414 200 22ms user=u4201 req=5e5fa870d0a7
+2026-10-12T09:44:17.949Z INFO  [inventory-svc] GET /api/v1/stock/SKU-81307 200 25ms req=5dddaf4535f5
+2026-10-12T09:44:19.670Z INFO  [checkout-api] GET /api/v1/cart/66103 200 291ms user=u5798 req=7312fa1c8be7
+2026-10-12T09:44:25.528Z INFO  [checkout-api] GET /api/v1/cart/94462 200 300ms user=u7629 req=2e376e9db073
+2026-10-12T09:44:30.185Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:44:30.643Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:44:30.954Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:44:36.888Z INFO  [checkout-api] GET /api/v1/cart/13550 200 172ms user=u9635 req=fca51d12afc8
+2026-10-12T09:44:45.725Z INFO  [checkout-api] GET /api/v1/cart/92588 200 19ms user=u6812 req=53e5356b6b3d
+2026-10-12T09:44:49.329Z INFO  [checkout-api] GET /api/v1/cart/63410 200 456ms user=u7302 req=0335d8a1483b
+2026-10-12T09:44:52.375Z INFO  [inventory-svc] GET /api/v1/stock/SKU-28948 200 46ms req=a79f18278277
+2026-10-12T09:45:00.108Z DEBUG [checkout-api] metrics cpu=40.4% mem=609MB conns=62
+2026-10-12T09:45:00.296Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:45:00.375Z DEBUG [inventory-svc] metrics cpu=46.7% mem=866MB conns=30
+2026-10-12T09:45:00.436Z INFO  [checkout-api] GET /api/v1/cart/92349 200 74ms user=u5344 req=d2d7bc4d8b92
+2026-10-12T09:45:00.512Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:45:00.543Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:45:00.597Z DEBUG [payment-svc] metrics cpu=26.7% mem=516MB conns=36
+2026-10-12T09:45:05.945Z INFO  [checkout-api] GET /api/v1/cart/21910 200 268ms user=u4023 req=4331f793c2f1
+2026-10-12T09:45:11.374Z WARN  [inventory-svc] health check FAILED: redis ping timeout
+2026-10-12T09:45:12.603Z INFO  [inventory-svc] GET /api/v1/stock/SKU-18672 200 116ms req=4fd9179996cf
+2026-10-12T09:45:23.434Z INFO  [payment-svc] POST /api/v1/pay 200 633ms provider=bankgw user=u8600 req=306c86e08733
+2026-10-12T09:45:29.651Z INFO  [payment-svc] POST /api/v1/pay 200 742ms provider=bankgw user=u6711 req=c70345aeae08
+2026-10-12T09:45:30.256Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:45:30.277Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:45:30.822Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:45:37.926Z INFO  [checkout-api] GET /api/v1/cart/25507 200 419ms user=u2790 req=6e33a4180fd1
+2026-10-12T09:45:39.393Z INFO  [checkout-api] GET /api/v1/cart/40232 200 292ms user=u7890 req=a00edb9f7796
+2026-10-12T09:45:41.093Z WARN  [inventory-svc] health check FAILED: redis ping timeout
+2026-10-12T09:45:51.090Z INFO  [checkout-api] GET /api/v1/cart/45521 200 157ms user=u7537 req=5ed7361c5c8a
+2026-10-12T09:45:52.907Z INFO  [checkout-api] GET /api/v1/cart/91245 200 39ms user=u6698 req=6f8866e0c461
+2026-10-12T09:46:00.015Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:46:00.564Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:46:00.750Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:46:02.964Z INFO  [checkout-api] GET /api/v1/cart/95139 200 360ms user=u7309 req=457f48aa482d
+2026-10-12T09:46:04.532Z INFO  [inventory-svc] GET /api/v1/stock/SKU-42350 200 95ms req=0100e081ba15
+2026-10-12T09:46:11.821Z WARN  [inventory-svc] health check FAILED: redis ping timeout
+2026-10-12T09:46:13.568Z INFO  [checkout-api] GET /api/v1/cart/17509 200 130ms user=u8652 req=27f6c31d175a
+2026-10-12T09:46:23.971Z INFO  [inventory-svc] GET /api/v1/stock/SKU-87682 200 40ms req=ff5b9c595944
+2026-10-12T09:46:26.987Z INFO  [checkout-api] GET /api/v1/cart/53389 200 330ms user=u7309 req=766907508db2
+2026-10-12T09:46:29.290Z INFO  [payment-svc] POST /api/v1/pay 200 803ms provider=bankgw user=u9935 req=6f1ca91e6ec7
+2026-10-12T09:46:30.108Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:46:30.251Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:46:30.526Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:46:31.911Z INFO  [payment-svc] POST /api/v1/pay 200 678ms provider=bankgw user=u1188 req=7efd85759bbc
+2026-10-12T09:46:32.396Z INFO  [payment-svc] POST /api/v1/pay 200 740ms provider=bankgw user=u9907 req=134965cb7766
+2026-10-12T09:46:37.757Z INFO  [checkout-api] GET /api/v1/cart/57533 200 398ms user=u5013 req=7bca1aafb77b
+2026-10-12T09:46:39.205Z INFO  [checkout-api] GET /api/v1/cart/69825 200 418ms user=u6473 req=1a02da187e96
+2026-10-12T09:46:50.002Z INFO  [payment-svc] POST /api/v1/pay 200 644ms provider=bankgw user=u9417 req=423fe2ed717c
+2026-10-12T09:46:51.422Z INFO  [checkout-api] GET /api/v1/cart/97643 200 98ms user=u7939 req=0b57048efc48
+2026-10-12T09:46:52.667Z INFO  [checkout-api] GET /api/v1/cart/30140 200 185ms user=u8189 req=ee1a9a3a1bcb
+2026-10-12T09:47:00.559Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T09:47:00.587Z INFO  [payment-svc] POST /api/v1/pay 200 145ms provider=bankgw user=u9211 req=28b2ec3f826b
+2026-10-12T09:47:00.672Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:47:00.993Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:47:02.890Z INFO  [payment-svc] POST /api/v1/pay 200 483ms provider=bankgw user=u9417 req=c62b6f79373f
+2026-10-12T09:47:13.412Z ERROR [inventory-svc] GET /api/v1/stock/SKU-88231 500 NullPointerException in StockMapper.toDto req=6817dd174374
+2026-10-12T09:47:15.454Z INFO  [checkout-api] GET /api/v1/cart/24609 200 74ms user=u3999 req=f25f27556a37
+2026-10-12T09:47:23.290Z INFO  [inventory-svc] GET /api/v1/stock/SKU-61577 200 53ms req=3242b6c6ec9e
+2026-10-12T09:47:26.508Z INFO  [checkout-api] GET /api/v1/cart/96243 200 89ms user=u6826 req=c54d5f667b38
+2026-10-12T09:47:30.203Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:47:30.235Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:47:30.315Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:47:35.650Z INFO  [checkout-api] GET /api/v1/cart/25884 200 149ms user=u4310 req=f9c6ad098445
+2026-10-12T09:47:40.565Z INFO  [inventory-svc] GET /api/v1/stock/SKU-17115 200 4ms req=6cc15cf6278c
+2026-10-12T09:47:43.607Z INFO  [checkout-api] GET /api/v1/cart/70192 200 66ms user=u9577 req=41d62ef430dd
+2026-10-12T09:47:52.540Z INFO  [inventory-svc] GET /api/v1/stock/SKU-51709 200 23ms req=911248752b7a
+2026-10-12T09:47:53.465Z INFO  [inventory-svc] GET /api/v1/stock/SKU-18912 200 48ms req=d288a9278df7
+2026-10-12T09:47:57.567Z INFO  [checkout-api] GET /api/v1/cart/42104 200 430ms user=u7858 req=c6e9b7d180a4
+2026-10-12T09:48:00.014Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:48:00.055Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:48:00.414Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:48:03.721Z INFO  [checkout-api] GET /api/v1/cart/61369 200 179ms user=u7043 req=4e01fbcd9504
+2026-10-12T09:48:18.153Z INFO  [payment-svc] POST /api/v1/pay 200 587ms provider=bankgw user=u9935 req=91df341aa284
+2026-10-12T09:48:24.391Z INFO  [checkout-api] GET /api/v1/cart/23633 200 471ms user=u9318 req=346eee21f5c7
+2026-10-12T09:48:30.056Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:48:30.441Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:48:30.640Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:48:41.678Z INFO  [checkout-api] GET /api/v1/cart/78496 200 194ms user=u1467 req=9e28c9e3ef54
+2026-10-12T09:48:42.943Z INFO  [checkout-api] GET /api/v1/cart/53084 200 286ms user=u4821 req=07a2531adab2
+2026-10-12T09:48:55.388Z INFO  [checkout-api] GET /api/v1/cart/34451 200 95ms user=u5972 req=09cb3acac23d
+2026-10-12T09:49:00.681Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:49:00.686Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:49:00.891Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:49:04.088Z INFO  [checkout-api] GET /api/v1/cart/57235 200 240ms user=u1561 req=67d8b081abd1
+2026-10-12T09:49:28.171Z INFO  [checkout-api] GET /api/v1/cart/39386 200 85ms user=u9902 req=bc9fa65c0053
+2026-10-12T09:49:30.046Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:49:30.613Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:49:30.709Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:49:32.829Z INFO  [checkout-api] GET /api/v1/cart/92356 200 42ms user=u1090 req=08a9f5c02661
+2026-10-12T09:49:33.281Z INFO  [payment-svc] POST /api/v1/pay 200 488ms provider=bankgw user=u4101 req=f2a6de535be9
+2026-10-12T09:49:41.583Z INFO  [checkout-api] GET /api/v1/cart/22839 200 339ms user=u4821 req=56402a7a731d
+2026-10-12T09:49:46.226Z INFO  [checkout-api] GET /api/v1/cart/26590 200 69ms user=u8783 req=13d49f7cf6c5
+2026-10-12T09:49:50.733Z INFO  [payment-svc] POST /api/v1/pay 200 243ms provider=bankgw user=u5853 req=def94f73c8db
+2026-10-12T09:49:52.302Z INFO  [inventory-svc] GET /api/v1/stock/SKU-19986 200 99ms req=26577a775c87
+2026-10-12T09:49:53.058Z INFO  [payment-svc] POST /api/v1/pay 200 881ms provider=bankgw user=u4377 req=04c5e53a224f
+2026-10-12T09:49:55.805Z INFO  [checkout-api] GET /api/v1/cart/63916 200 441ms user=u2667 req=2b5ff4891e5d
+2026-10-12T09:49:57.694Z INFO  [checkout-api] GET /api/v1/cart/62269 200 328ms user=u8683 req=a7a5c59340af
+2026-10-12T09:50:00.003Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:50:00.137Z DEBUG [checkout-api] metrics cpu=8.9% mem=629MB conns=29
+2026-10-12T09:50:00.189Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T09:50:00.275Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:50:00.411Z DEBUG [inventory-svc] metrics cpu=58.3% mem=391MB conns=17
+2026-10-12T09:50:00.461Z DEBUG [payment-svc] metrics cpu=13.9% mem=528MB conns=44
+2026-10-12T09:50:01.138Z INFO  [payment-svc] POST /api/v1/pay 200 796ms provider=bankgw user=u6128 req=d5b63093b58e
+2026-10-12T09:50:02.421Z INFO  [payment-svc] POST /api/v1/pay 200 197ms provider=bankgw user=u1927 req=615294cf783e
+2026-10-12T09:50:17.125Z INFO  [payment-svc] POST /api/v1/pay 200 600ms provider=bankgw user=u3636 req=0363ed85cce0
+2026-10-12T09:50:20.495Z INFO  [payment-svc] POST /api/v1/pay 200 195ms provider=bankgw user=u8436 req=75e84abad54a
+2026-10-12T09:50:30.331Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:50:30.372Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T09:50:30.995Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:50:45.743Z INFO  [checkout-api] GET /api/v1/cart/57903 200 90ms user=u1751 req=4bb845544335
+2026-10-12T09:50:47.525Z INFO  [checkout-api] GET /api/v1/cart/43073 200 167ms user=u9052 req=06427be5d046
+2026-10-12T09:50:51.816Z INFO  [checkout-api] GET /api/v1/cart/16281 200 373ms user=u6473 req=5220c37b80e8
+2026-10-12T09:51:00.035Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:51:00.187Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:51:00.223Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:51:21.119Z INFO  [payment-svc] POST /api/v1/pay 200 747ms provider=bankgw user=u8667 req=e0c563c293ac
+2026-10-12T09:51:26.812Z INFO  [payment-svc] POST /api/v1/pay 200 675ms provider=bankgw user=u1646 req=cbf8e52d76e5
+2026-10-12T09:51:30.085Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:51:30.285Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:51:30.343Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:51:47.945Z INFO  [payment-svc] POST /api/v1/pay 200 223ms provider=bankgw user=u2547 req=61bbccb9b9f8
+2026-10-12T09:51:59.028Z INFO  [payment-svc] POST /api/v1/pay 200 245ms provider=bankgw user=u3409 req=0b52d1791548
+2026-10-12T09:52:00.254Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:52:00.671Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:52:00.794Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:52:14.459Z INFO  [payment-svc] POST /api/v1/pay 200 120ms provider=bankgw user=u5655 req=6a4debdabefd
+2026-10-12T09:52:21.060Z INFO  [inventory-svc] GET /api/v1/stock/SKU-98218 200 114ms req=44f501317c2a
+2026-10-12T09:52:21.237Z INFO  [checkout-api] GET /api/v1/cart/95535 200 389ms user=u8377 req=ef6853ac54ff
+2026-10-12T09:52:25.970Z INFO  [checkout-api] GET /api/v1/cart/82378 200 73ms user=u4586 req=0bc182b5f79e
+2026-10-12T09:52:26.414Z INFO  [checkout-api] GET /api/v1/cart/13524 200 353ms user=u4442 req=2d384db001dc
+2026-10-12T09:52:30.093Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:52:30.147Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:52:30.836Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:52:34.591Z INFO  [checkout-api] GET /api/v1/cart/81759 200 177ms user=u2742 req=5a0a6e39ebbf
+2026-10-12T09:52:36.232Z INFO  [inventory-svc] GET /api/v1/stock/SKU-52267 200 7ms req=535cff864411
+2026-10-12T09:52:45.100Z INFO  [payment-svc] POST /api/v1/pay 200 792ms provider=bankgw user=u5096 req=166a550e1624
+2026-10-12T09:52:50.447Z INFO  [checkout-api] GET /api/v1/cart/73376 200 327ms user=u2179 req=287eafdbea13
+2026-10-12T09:53:00.306Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:53:00.403Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:53:00.600Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:53:03.988Z INFO  [checkout-api] GET /api/v1/cart/78273 200 403ms user=u2648 req=b3143fea2a23
+2026-10-12T09:53:19.997Z INFO  [checkout-api] GET /api/v1/cart/78699 200 406ms user=u5056 req=deb0e415ea8e
+2026-10-12T09:53:22.418Z INFO  [checkout-api] GET /api/v1/cart/43202 200 174ms user=u9635 req=e7f05554b1e1
+2026-10-12T09:53:28.446Z INFO  [inventory-svc] GET /api/v1/stock/SKU-93803 200 115ms req=a961107d517c
+2026-10-12T09:53:30.086Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:53:30.354Z INFO  [inventory-svc] GET /api/v1/stock/SKU-53219 200 69ms req=57fde7b6a672
+2026-10-12T09:53:30.644Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:53:30.873Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T09:53:40.672Z INFO  [checkout-api] GET /api/v1/cart/10336 200 337ms user=u9164 req=90cea7a24129
+2026-10-12T09:53:46.714Z INFO  [checkout-api] GET /api/v1/cart/22326 200 82ms user=u2603 req=119432a5d575
+2026-10-12T09:53:56.838Z INFO  [checkout-api] GET /api/v1/cart/49971 200 96ms user=u2007 req=cfc4b1d85a6c
+2026-10-12T09:54:00.542Z INFO  [checkout-api] GET /api/v1/cart/47797 200 375ms user=u8940 req=38e019bb8723
+2026-10-12T09:54:00.673Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:54:00.737Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T09:54:00.782Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T09:54:03.596Z INFO  [checkout-api] GET /api/v1/cart/15757 200 120ms user=u2558 req=e1777155a0e9
+2026-10-12T09:54:11.348Z INFO  [checkout-api] GET /api/v1/cart/36361 200 23ms user=u4310 req=7dbeb4c29d99
+2026-10-12T09:54:21.351Z INFO  [checkout-api] GET /api/v1/cart/12940 200 167ms user=u4677 req=39b645d93b43
+2026-10-12T09:54:23.103Z INFO  [checkout-api] GET /api/v1/cart/36002 200 346ms user=u4011 req=d29ba78a71cd
+2026-10-12T09:54:30.044Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:54:30.153Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:54:30.741Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:54:32.246Z INFO  [checkout-api] GET /api/v1/cart/95705 200 177ms user=u5238 req=d7a7c198ffe0
+2026-10-12T09:54:33.934Z INFO  [payment-svc] POST /api/v1/pay 200 531ms provider=bankgw user=u7907 req=dd2a58efee07
+2026-10-12T09:54:39.218Z INFO  [payment-svc] POST /api/v1/pay 200 534ms provider=bankgw user=u2663 req=403ab9dbc742
+2026-10-12T09:54:51.318Z INFO  [checkout-api] GET /api/v1/cart/72475 200 335ms user=u5096 req=c9fab9b32fed
+2026-10-12T09:55:00.142Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:55:00.169Z DEBUG [inventory-svc] metrics cpu=64.0% mem=425MB conns=17
+2026-10-12T09:55:00.642Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T09:55:00.660Z DEBUG [checkout-api] metrics cpu=58.9% mem=738MB conns=86
+2026-10-12T09:55:00.661Z DEBUG [payment-svc] metrics cpu=43.9% mem=884MB conns=41
+2026-10-12T09:55:00.751Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:55:04.864Z INFO  [checkout-api] GET /api/v1/cart/70878 200 190ms user=u2663 req=4850bbd0e7cb
+2026-10-12T09:55:05.196Z INFO  [inventory-svc] GET /api/v1/stock/SKU-81147 200 42ms req=77fd42cec23b
+2026-10-12T09:55:13.119Z INFO  [payment-svc] POST /api/v1/pay 200 497ms provider=bankgw user=u7143 req=0fc952ffd670
+2026-10-12T09:55:18.149Z INFO  [checkout-api] GET /api/v1/cart/10217 200 364ms user=u3430 req=07129d427557
+2026-10-12T09:55:30.582Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T09:55:30.770Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:55:30.846Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:55:34.247Z INFO  [inventory-svc] GET /api/v1/stock/SKU-12574 200 71ms req=989a388d1c8c
+2026-10-12T09:55:39.305Z INFO  [inventory-svc] GET /api/v1/stock/SKU-57726 200 74ms req=4a8de2b08cdf
+2026-10-12T09:55:42.542Z INFO  [payment-svc] POST /api/v1/pay 200 391ms provider=bankgw user=u7981 req=db6e0bbf7de3
+2026-10-12T09:55:47.958Z INFO  [inventory-svc] GET /api/v1/stock/SKU-57619 200 7ms req=6e08f66c9cdd
+2026-10-12T09:55:49.259Z INFO  [checkout-api] GET /api/v1/cart/84733 200 412ms user=u4517 req=748d31d30929
+2026-10-12T09:55:50.961Z INFO  [inventory-svc] GET /api/v1/stock/SKU-88516 200 81ms req=1a9d1023fcc2
+2026-10-12T09:56:00.042Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T09:56:00.087Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:56:00.652Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T09:56:11.866Z INFO  [checkout-api] GET /api/v1/cart/87514 200 217ms user=u7861 req=9d602448e500
+2026-10-12T09:56:12.281Z INFO  [payment-svc] POST /api/v1/pay 200 884ms provider=bankgw user=u7161 req=d76174cb707e
+2026-10-12T09:56:16.505Z INFO  [checkout-api] GET /api/v1/cart/89287 200 388ms user=u2777 req=0446b7cac4e1
+2026-10-12T09:56:17.323Z INFO  [payment-svc] POST /api/v1/pay 200 395ms provider=bankgw user=u7629 req=5e3d874de49e
+2026-10-12T09:56:30.385Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:56:30.571Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:56:30.982Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T09:56:39.404Z INFO  [payment-svc] POST /api/v1/pay 200 283ms provider=bankgw user=u3501 req=c7407d5d80a4
+2026-10-12T09:56:42.751Z INFO  [payment-svc] POST /api/v1/pay 200 831ms provider=bankgw user=u1206 req=d05dba109148
+2026-10-12T09:56:58.653Z INFO  [payment-svc] POST /api/v1/pay 200 182ms provider=bankgw user=u3603 req=555de164aeb0
+2026-10-12T09:57:00.308Z INFO  [payment-svc] POST /api/v1/pay 200 99ms provider=bankgw user=u6649 req=56ead151dacd
+2026-10-12T09:57:00.641Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:57:00.642Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T09:57:00.697Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T09:57:03.591Z INFO  [payment-svc] POST /api/v1/pay 200 480ms provider=bankgw user=u9052 req=c9eb74ff0ee0
+2026-10-12T09:57:11.428Z INFO  [inventory-svc] GET /api/v1/stock/SKU-36165 200 14ms req=9ebea7b694e2
+2026-10-12T09:57:13.663Z INFO  [inventory-svc] GET /api/v1/stock/SKU-55292 200 117ms req=f921194abe88
+2026-10-12T09:57:22.221Z INFO  [checkout-api] GET /api/v1/cart/77269 200 127ms user=u4821 req=e120a5787575
+2026-10-12T09:57:26.610Z INFO  [payment-svc] POST /api/v1/pay 200 316ms provider=bankgw user=u5866 req=192419bd3a93
+2026-10-12T09:57:30.003Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:57:30.501Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T09:57:30.816Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T09:57:31.340Z INFO  [checkout-api] GET /api/v1/cart/11457 200 396ms user=u8932 req=bdfa6a57afbf
+2026-10-12T09:57:50.804Z INFO  [inventory-svc] GET /api/v1/stock/SKU-94132 200 72ms req=58714a8c7865
+2026-10-12T09:57:51.456Z INFO  [inventory-svc] GET /api/v1/stock/SKU-75903 200 106ms req=c203822fb2f3
+2026-10-12T09:58:00.094Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T09:58:00.766Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T09:58:00.919Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T09:58:22.262Z INFO  [checkout-api] GET /api/v1/cart/74815 200 449ms user=u5269 req=8c375d60fcac
+2026-10-12T09:58:25.065Z INFO  [checkout-api] GET /api/v1/cart/84991 200 59ms user=u9812 req=68f95d09ea98
+2026-10-12T09:58:26.914Z INFO  [inventory-svc] GET /api/v1/stock/SKU-27620 200 6ms req=434b1bd114fc
+2026-10-12T09:58:30.067Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:58:30.258Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T09:58:30.866Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T09:58:37.906Z INFO  [inventory-svc] GET /api/v1/stock/SKU-96743 200 119ms req=c252c622eb25
+2026-10-12T09:58:44.269Z INFO  [checkout-api] GET /api/v1/cart/54853 200 416ms user=u1555 req=0990846b3ba3
+2026-10-12T09:58:57.474Z INFO  [payment-svc] POST /api/v1/pay 200 412ms provider=bankgw user=u7630 req=2d4f40945412
+2026-10-12T09:59:00.236Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T09:59:00.240Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T09:59:00.505Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T09:59:00.670Z INFO  [checkout-api] GET /api/v1/cart/80724 200 415ms user=u6688 req=6107e3421724
+2026-10-12T09:59:06.219Z INFO  [checkout-api] GET /api/v1/cart/51609 200 161ms user=u6547 req=38fda97ebdd2
+2026-10-12T09:59:27.778Z INFO  [payment-svc] POST /api/v1/pay 200 463ms provider=bankgw user=u3035 req=6457589ddce1
+2026-10-12T09:59:30.078Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T09:59:30.785Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T09:59:30.932Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T09:59:31.347Z INFO  [checkout-api] GET /api/v1/cart/45273 200 342ms user=u4821 req=75953507bf4d
+2026-10-12T09:59:33.902Z INFO  [checkout-api] GET /api/v1/cart/26558 200 194ms user=u5798 req=e4a0f40afcb0
+2026-10-12T09:59:37.306Z INFO  [checkout-api] GET /api/v1/cart/79031 200 369ms user=u3999 req=c1c2d43c8c0c
+2026-10-12T09:59:47.183Z INFO  [checkout-api] GET /api/v1/cart/10471 200 232ms user=u9318 req=42d74833c270
+2026-10-12T10:00:00.079Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:00:00.137Z INFO  [checkout-api] GET /api/v1/cart/75946 200 417ms user=u6217 req=33ec56f24b1c
+2026-10-12T10:00:00.163Z DEBUG [payment-svc] metrics cpu=11.6% mem=487MB conns=11
+2026-10-12T10:00:00.339Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:00:00.544Z DEBUG [checkout-api] metrics cpu=9.6% mem=570MB conns=40
+2026-10-12T10:00:00.627Z DEBUG [inventory-svc] metrics cpu=42.2% mem=581MB conns=28
+2026-10-12T10:00:00.631Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:00:01.560Z INFO  [checkout-api] GET /api/v1/cart/85456 200 408ms user=u8683 req=0ee0ac414f5c
+2026-10-12T10:00:11.401Z INFO  [inventory-svc] GET /api/v1/stock/SKU-88620 200 19ms req=9b4f61f75b1b
+2026-10-12T10:00:30.012Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:00:30.636Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:00:30.667Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:00:34.303Z INFO  [checkout-api] GET /api/v1/cart/67261 200 477ms user=u7368 req=6be1298e419d
+2026-10-12T10:00:36.310Z INFO  [payment-svc] POST /api/v1/pay 200 395ms provider=bankgw user=u8909 req=7cc7980e4893
+2026-10-12T10:00:42.252Z INFO  [payment-svc] POST /api/v1/pay 200 209ms provider=bankgw user=u1656 req=f2319eaa1273
+2026-10-12T10:00:58.118Z INFO  [payment-svc] POST /api/v1/pay 200 588ms provider=bankgw user=u4233 req=213b6e3549fd
+2026-10-12T10:01:00.062Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:01:00.275Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:01:00.708Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:01:01.014Z INFO  [payment-svc] POST /api/v1/pay 200 764ms provider=bankgw user=u6617 req=eef60241eda6
+2026-10-12T10:01:09.873Z INFO  [payment-svc] POST /api/v1/pay 200 44ms provider=bankgw user=u4150 req=3272c116add5
+2026-10-12T10:01:13.563Z INFO  [checkout-api] GET /api/v1/cart/31514 200 260ms user=u1788 req=13214825007e
+2026-10-12T10:01:23.492Z INFO  [checkout-api] GET /api/v1/cart/42426 200 187ms user=u9164 req=ab5392e335ce
+2026-10-12T10:01:24.615Z INFO  [payment-svc] POST /api/v1/pay 200 192ms provider=bankgw user=u2932 req=7793d77ea96b
+2026-10-12T10:01:30.292Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:01:30.297Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T10:01:30.691Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:01:31.268Z INFO  [checkout-api] GET /api/v1/cart/54633 200 143ms user=u4821 req=bd8ed7ba1c96
+2026-10-12T10:01:51.009Z INFO  [checkout-api] GET /api/v1/cart/31464 200 363ms user=u3035 req=b4def16fd6ac
+2026-10-12T10:01:58.485Z INFO  [payment-svc] POST /api/v1/pay 200 831ms provider=bankgw user=u2713 req=24401c3e04a0
+2026-10-12T10:01:58.801Z INFO  [inventory-svc] GET /api/v1/stock/SKU-66189 200 116ms req=ff98158d3985
+2026-10-12T10:01:58.992Z INFO  [checkout-api] GET /api/v1/cart/99478 200 228ms user=u5136 req=e6a63c59620e
+2026-10-12T10:02:00.477Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:02:00.785Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:02:00.915Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:02:03.578Z INFO  [checkout-api] GET /api/v1/cart/96133 200 133ms user=u8483 req=8b3c48d2ae89
+2026-10-12T10:02:09.359Z INFO  [payment-svc] POST /api/v1/pay 200 482ms provider=bankgw user=u1108 req=9d1ca4e82f97
+2026-10-12T10:02:11.000Z INFO  [deployer] deployed payment-svc version 2.14.1 (commit 9f3c2ab) by ci-bot
+2026-10-12T10:02:13.089Z INFO  [checkout-api] GET /api/v1/cart/93467 200 401ms user=u4452 req=84142e192ad2
+2026-10-12T10:02:30.017Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:02:30.087Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:02:30.204Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:02:42.013Z INFO  [inventory-svc] GET /api/v1/stock/SKU-66068 200 104ms req=8c996f48aa3e
+2026-10-12T10:02:49.599Z INFO  [checkout-api] GET /api/v1/cart/23531 200 356ms user=u3486 req=36819ffdf0b9
+2026-10-12T10:02:57.859Z INFO  [checkout-api] GET /api/v1/cart/63228 200 314ms user=u3065 req=6390bf611896
+2026-10-12T10:03:00.469Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:03:00.839Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T10:03:00.991Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:03:03.183Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u5269 req=cb2aac543c63
+2026-10-12T10:03:19.250Z INFO  [checkout-api] GET /api/v1/cart/50746 200 158ms user=u3555 req=ba59c3a4fdeb
+2026-10-12T10:03:19.779Z INFO  [checkout-api] GET /api/v1/cart/64296 200 193ms user=u4517 req=cb5b4016aa5f
+2026-10-12T10:03:20.307Z INFO  [checkout-api] GET /api/v1/cart/73846 200 275ms user=u4971 req=ec3d7c6afcc8
+2026-10-12T10:03:23.054Z INFO  [checkout-api] GET /api/v1/cart/73927 200 24ms user=u9064 req=c0ab620fb752
+2026-10-12T10:03:30.076Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T10:03:30.214Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:03:30.275Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:03:31.689Z INFO  [checkout-api] GET /api/v1/cart/52445 200 453ms user=u4870 req=177e8fec375b
+2026-10-12T10:03:45.844Z INFO  [checkout-api] GET /api/v1/cart/92453 200 288ms user=u4150 req=5a2af69f111e
+2026-10-12T10:03:47.048Z INFO  [inventory-svc] GET /api/v1/stock/SKU-40302 200 53ms req=6bab4e222dd6
+2026-10-12T10:03:57.810Z INFO  [checkout-api] GET /api/v1/cart/40309 200 419ms user=u4164 req=2fd40663e78d
+2026-10-12T10:04:00.135Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:04:00.145Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:04:00.268Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:04:01.358Z INFO  [checkout-api] GET /api/v1/cart/51851 200 47ms user=u5486 req=27200323b7da
+2026-10-12T10:04:02.206Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u2007 req=2d71259488e6
+2026-10-12T10:04:02.953Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:04:04.231Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:04:04.552Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u6617 req=f6fe51fb27d2
+2026-10-12T10:04:12.452Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u3635 req=0b32a1031a82
+2026-10-12T10:04:21.530Z INFO  [checkout-api] GET /api/v1/cart/35946 200 149ms user=u5853 req=f4572bc2c3bd
+2026-10-12T10:04:24.699Z INFO  [inventory-svc] GET /api/v1/stock/SKU-97883 200 25ms req=9d8ab28b63fc
+2026-10-12T10:04:30.236Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:04:30.286Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:04:30.720Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:04:39.163Z INFO  [payment-svc] POST /api/v1/pay 200 832ms provider=bankgw user=u8486 req=b434cbf26cbf
+2026-10-12T10:04:49.202Z INFO  [checkout-api] GET /api/v1/cart/91358 200 166ms user=u4821 req=aec38bcacf83
+2026-10-12T10:04:50.979Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9032 req=e201ebb73846
+2026-10-12T10:04:54.348Z INFO  [checkout-api] GET /api/v1/cart/98858 200 235ms user=u7430 req=5ea7d26dc47b
+2026-10-12T10:05:00.065Z DEBUG [inventory-svc] metrics cpu=26.6% mem=429MB conns=71
+2026-10-12T10:05:00.162Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:05:00.403Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:05:00.423Z DEBUG [checkout-api] metrics cpu=20.4% mem=899MB conns=63
+2026-10-12T10:05:00.832Z DEBUG [payment-svc] metrics cpu=46.0% mem=900MB conns=49
+2026-10-12T10:05:00.919Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:05:02.254Z INFO  [checkout-api] GET /api/v1/cart/76955 200 272ms user=u4821 req=c99c18fa6eb9
+2026-10-12T10:05:14.331Z INFO  [payment-svc] POST /api/v1/pay 200 237ms provider=bankgw user=u6938 req=7f0e8398837f
+2026-10-12T10:05:22.223Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u5096 req=5b1a2f06819f
+2026-10-12T10:05:22.775Z INFO  [checkout-api] GET /api/v1/cart/23607 200 17ms user=u7865 req=3545a3c02022
+2026-10-12T10:05:22.776Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:05:30.415Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:05:30.697Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:05:30.972Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:05:42.342Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:05:42.643Z INFO  [inventory-svc] GET /api/v1/stock/SKU-31007 200 47ms req=41b4e7a7b5de
+2026-10-12T10:05:42.943Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u1927 req=5c85171597d6
+2026-10-12T10:05:57.354Z INFO  [inventory-svc] GET /api/v1/stock/SKU-60367 200 42ms req=1afda8300386
+2026-10-12T10:06:00.221Z INFO  [inventory-svc] GET /api/v1/stock/SKU-57320 200 33ms req=6cba6be2bee3
+2026-10-12T10:06:00.341Z INFO  [checkout-api] GET /api/v1/cart/39703 200 304ms user=u4821 req=07e1448c828b
+2026-10-12T10:06:00.385Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:06:00.426Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:06:00.744Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:06:07.361Z INFO  [checkout-api] GET /api/v1/cart/58823 200 286ms user=u6068 req=325be6f4f56a
+2026-10-12T10:06:08.723Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:06:08.867Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u4473 req=09b2e45ae6a2
+2026-10-12T10:06:17.085Z INFO  [checkout-api] GET /api/v1/cart/53479 200 392ms user=u1254 req=83fdf6a0b298
+2026-10-12T10:06:22.108Z INFO  [checkout-api] GET /api/v1/cart/28292 200 33ms user=u7916 req=5d0186fab38a
+2026-10-12T10:06:23.134Z INFO  [payment-svc] POST /api/v1/pay 200 172ms provider=bankgw user=u7890 req=c71eef8ec692
+2026-10-12T10:06:30.001Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:06:30.123Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:06:30.768Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:06:31.044Z INFO  [checkout-api] GET /api/v1/cart/27188 200 466ms user=u9297 req=ade9d4a455b8
+2026-10-12T10:06:40.017Z INFO  [inventory-svc] GET /api/v1/stock/SKU-48679 200 38ms req=81ff9826cfe9
+2026-10-12T10:06:56.799Z INFO  [checkout-api] GET /api/v1/cart/13024 200 364ms user=u5121 req=76b1acdc79d2
+2026-10-12T10:07:00.122Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:07:00.730Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:07:00.859Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:07:02.414Z INFO  [inventory-svc] GET /api/v1/stock/SKU-92106 200 92ms req=5b5e219d82a4
+2026-10-12T10:07:22.046Z INFO  [checkout-api] GET /api/v1/cart/26141 200 340ms user=u5949 req=f22ca78e2ee9
+2026-10-12T10:07:29.433Z INFO  [checkout-api] GET /api/v1/cart/75474 200 118ms user=u6938 req=5924754ec21e
+2026-10-12T10:07:30.066Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:07:30.259Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:07:30.923Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:07:40.281Z INFO  [checkout-api] GET /api/v1/cart/57637 200 233ms user=u9101 req=0baf3a8c80bc
+2026-10-12T10:07:40.576Z INFO  [checkout-api] GET /api/v1/cart/68704 200 350ms user=u1884 req=92f442fd4051
+2026-10-12T10:07:49.229Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:07:49.250Z INFO  [inventory-svc] GET /api/v1/stock/SKU-37399 200 35ms req=972d745129ab
+2026-10-12T10:07:49.452Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u5949 req=55992ba3f6d1
+2026-10-12T10:07:51.117Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:07:51.366Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9577 req=21016bb262a1
+2026-10-12T10:07:57.905Z INFO  [checkout-api] GET /api/v1/cart/27129 200 427ms user=u3544 req=983c028716ec
+2026-10-12T10:08:00.369Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:08:00.399Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:08:00.773Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:08:16.283Z INFO  [checkout-api] GET /api/v1/cart/79482 200 252ms user=u9935 req=ac4e02b94baa
+2026-10-12T10:08:24.831Z INFO  [inventory-svc] GET /api/v1/stock/SKU-61685 200 101ms req=1aa8048f9b6d
+2026-10-12T10:08:30.052Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:08:30.287Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:08:30.874Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:08:38.580Z INFO  [checkout-api] GET /api/v1/cart/85292 200 166ms user=u7900 req=3fde017d4707
+2026-10-12T10:08:43.950Z INFO  [checkout-api] GET /api/v1/cart/25956 200 135ms user=u2663 req=7ea6a2e5a2a0
+2026-10-12T10:08:46.272Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:08:46.439Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u7907 req=8515b17cf1b3
+2026-10-12T10:08:46.895Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:08:48.703Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u4101 req=ef4b7b4b9757
+2026-10-12T10:08:53.612Z INFO  [checkout-api] GET /api/v1/cart/13261 200 417ms user=u3555 req=3f91d80f7bec
+2026-10-12T10:08:56.023Z INFO  [checkout-api] GET /api/v1/cart/75850 200 114ms user=u2128 req=6e4644e0d488
+2026-10-12T10:08:58.017Z INFO  [checkout-api] GET /api/v1/cart/60959 200 297ms user=u2610 req=0573d50df16f
+2026-10-12T10:09:00.255Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:09:00.446Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:09:00.650Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:09:20.965Z INFO  [checkout-api] GET /api/v1/cart/75643 200 113ms user=u5724 req=d8eacf314914
+2026-10-12T10:09:28.438Z INFO  [inventory-svc] GET /api/v1/stock/SKU-45306 200 52ms req=b419b01a9f20
+2026-10-12T10:09:30.323Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:09:30.791Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:09:30.803Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:09:33.979Z INFO  [checkout-api] GET /api/v1/cart/69933 200 243ms user=u8571 req=001d38da9b6f
+2026-10-12T10:09:40.704Z INFO  [checkout-api] GET /api/v1/cart/45842 200 339ms user=u5214 req=e5389cd5e3ea
+2026-10-12T10:09:42.407Z INFO  [checkout-api] GET /api/v1/cart/88023 200 233ms user=u9991 req=80cc5c0b3aa4
+2026-10-12T10:09:42.900Z INFO  [checkout-api] GET /api/v1/cart/68888 200 287ms user=u3532 req=21b241f871a0
+2026-10-12T10:09:58.312Z INFO  [checkout-api] GET /api/v1/cart/35417 200 102ms user=u5704 req=176412fb3fac
+2026-10-12T10:10:00.179Z DEBUG [inventory-svc] metrics cpu=22.0% mem=487MB conns=43
+2026-10-12T10:10:00.732Z DEBUG [checkout-api] metrics cpu=41.4% mem=764MB conns=65
+2026-10-12T10:10:00.763Z DEBUG [payment-svc] metrics cpu=64.6% mem=462MB conns=67
+2026-10-12T10:10:00.831Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:10:00.905Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:10:00.935Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:10:03.280Z INFO  [checkout-api] GET /api/v1/cart/87999 200 475ms user=u7900 req=7de86440285b
+2026-10-12T10:10:03.540Z INFO  [checkout-api] GET /api/v1/cart/32865 200 84ms user=u2539 req=34c496af2fac
+2026-10-12T10:10:12.744Z INFO  [checkout-api] GET /api/v1/cart/41678 200 320ms user=u8045 req=ed9fc0dc7fdf
+2026-10-12T10:10:18.519Z INFO  [checkout-api] GET /api/v1/cart/96845 200 113ms user=u9041 req=373936081d28
+2026-10-12T10:10:22.995Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u1555 req=743c2ea7b9b8
+2026-10-12T10:10:30.050Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:10:30.562Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:10:30.736Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:10:31.915Z INFO  [checkout-api] GET /api/v1/cart/40480 200 149ms user=u5256 req=7f85f36f2d82
+2026-10-12T10:10:40.072Z INFO  [checkout-api] GET /api/v1/cart/27950 200 317ms user=u8783 req=9de87a13d913
+2026-10-12T10:11:00.461Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:11:00.497Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:11:00.659Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:11:07.760Z INFO  [checkout-api] GET /api/v1/cart/35068 200 60ms user=u2648 req=c576d8e27e07
+2026-10-12T10:11:20.535Z INFO  [inventory-svc] GET /api/v1/stock/SKU-62825 200 23ms req=c0012a1b7cd5
+2026-10-12T10:11:22.544Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u5136 req=75fe49700d6d
+2026-10-12T10:11:23.913Z INFO  [inventory-svc] GET /api/v1/stock/SKU-85277 200 18ms req=6359efd4c025
+2026-10-12T10:11:30.130Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:11:30.483Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:11:30.933Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:11:42.952Z INFO  [payment-svc] POST /api/v1/pay 200 42ms provider=bankgw user=u2288 req=3e9cef1d2ca6
+2026-10-12T10:11:43.735Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u1071 req=a9e0dcd6f311
+2026-10-12T10:11:44.438Z INFO  [checkout-api] GET /api/v1/cart/10336 200 77ms user=u4548 req=5743bf2b6728
+2026-10-12T10:11:55.946Z INFO  [checkout-api] GET /api/v1/cart/73992 200 16ms user=u4821 req=e880d8184e66
+2026-10-12T10:11:59.365Z INFO  [checkout-api] GET /api/v1/cart/64977 200 454ms user=u4898 req=4b6fada164e1
+2026-10-12T10:12:00.304Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:12:00.351Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:12:00.756Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:12:04.505Z INFO  [checkout-api] GET /api/v1/cart/24941 200 269ms user=u4548 req=b967cba892b3
+2026-10-12T10:12:06.284Z INFO  [checkout-api] GET /api/v1/cart/18971 200 399ms user=u5451 req=c8f245f50ab1
+2026-10-12T10:12:07.080Z INFO  [checkout-api] GET /api/v1/cart/92463 200 451ms user=u5116 req=d67fae1983cb
+2026-10-12T10:12:09.154Z INFO  [checkout-api] GET /api/v1/cart/79105 200 344ms user=u1894 req=9312ce044078
+2026-10-12T10:12:13.283Z INFO  [payment-svc] POST /api/v1/pay 200 59ms provider=bankgw user=u9757 req=3ac574eb632a
+2026-10-12T10:12:18.518Z INFO  [checkout-api] GET /api/v1/cart/21187 200 82ms user=u7874 req=cd11d4148d3e
+2026-10-12T10:12:23.188Z INFO  [checkout-api] GET /api/v1/cart/31335 200 415ms user=u8569 req=48446f56754c
+2026-10-12T10:12:25.285Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u6812 req=36465e72a3b2
+2026-10-12T10:12:25.492Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:12:25.679Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:12:30.308Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:12:30.415Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:12:30.570Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:12:36.014Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u8457 req=fbc77e8f16b5
+2026-10-12T10:12:36.649Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:12:41.355Z INFO  [checkout-api] GET /api/v1/cart/28334 200 414ms user=u7706 req=61595919cb58
+2026-10-12T10:12:47.339Z INFO  [checkout-api] GET /api/v1/cart/17481 200 275ms user=u2101 req=070796e65698
+2026-10-12T10:13:00.076Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:13:00.122Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:13:00.658Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:13:05.103Z INFO  [checkout-api] GET /api/v1/cart/99063 200 102ms user=u7910 req=3ef327b42dff
+2026-10-12T10:13:23.419Z INFO  [checkout-api] GET /api/v1/cart/79849 200 234ms user=u7874 req=212562c49b24
+2026-10-12T10:13:23.945Z INFO  [checkout-api] GET /api/v1/cart/17921 200 40ms user=u5600 req=71b7429ef303
+2026-10-12T10:13:30.463Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:13:30.512Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:13:30.563Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:13:39.184Z INFO  [checkout-api] GET /api/v1/cart/63773 200 291ms user=u5382 req=24734e071707
+2026-10-12T10:13:52.963Z INFO  [inventory-svc] GET /api/v1/stock/SKU-29763 200 90ms req=6dc5470325db
+2026-10-12T10:14:00.437Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:14:00.560Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:14:00.777Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:14:03.431Z INFO  [payment-svc] POST /api/v1/pay 200 526ms provider=bankgw user=u7574 req=73941f545de4
+2026-10-12T10:14:06.770Z INFO  [payment-svc] POST /api/v1/pay 200 163ms provider=bankgw user=u4491 req=2da777f49fb7
+2026-10-12T10:14:19.340Z INFO  [payment-svc] POST /api/v1/pay 200 383ms provider=bankgw user=u5872 req=0c368ac4daab
+2026-10-12T10:14:30.178Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:14:30.249Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:14:30.569Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T10:14:53.456Z INFO  [checkout-api] GET /api/v1/cart/50560 200 419ms user=u9152 req=55d5242d19e0
+2026-10-12T10:15:00.237Z DEBUG [checkout-api] metrics cpu=47.9% mem=506MB conns=52
+2026-10-12T10:15:00.272Z DEBUG [inventory-svc] metrics cpu=47.4% mem=826MB conns=76
+2026-10-12T10:15:00.326Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:15:00.377Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:15:00.828Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:15:00.912Z DEBUG [payment-svc] metrics cpu=54.5% mem=649MB conns=16
+2026-10-12T10:15:03.896Z INFO  [checkout-api] GET /api/v1/cart/73417 200 193ms user=u4821 req=ef70961ca8d4
+2026-10-12T10:15:05.386Z INFO  [inventory-svc] GET /api/v1/stock/SKU-20361 200 102ms req=c84f1b528df0
+2026-10-12T10:15:06.129Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u7629 req=50476af1a538
+2026-10-12T10:15:06.951Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:15:07.657Z INFO  [checkout-api] GET /api/v1/cart/36741 200 435ms user=u4586 req=76b9852e160d
+2026-10-12T10:15:10.547Z INFO  [checkout-api] GET /api/v1/cart/27565 200 156ms user=u3970 req=f3489967ea4b
+2026-10-12T10:15:30.304Z INFO  [checkout-api] GET /api/v1/cart/23208 200 408ms user=u9935 req=6a9882712cb5
+2026-10-12T10:15:30.392Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:15:30.767Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:15:30.908Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:15:37.568Z INFO  [checkout-api] GET /api/v1/cart/87430 200 397ms user=u4821 req=be842926d119
+2026-10-12T10:15:56.803Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:15:56.925Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u8404 req=f46e3aee8b7f
+2026-10-12T10:16:00.215Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:16:00.276Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:16:00.763Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:16:03.038Z INFO  [checkout-api] GET /api/v1/cart/65092 200 368ms user=u4821 req=1cb195c16145
+2026-10-12T10:16:10.582Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u3078 req=9d988606e287
+2026-10-12T10:16:16.740Z INFO  [checkout-api] GET /api/v1/cart/94189 200 409ms user=u3282 req=ab2d319cef8a
+2026-10-12T10:16:18.512Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u3501 req=d389b5686239
+2026-10-12T10:16:20.602Z INFO  [checkout-api] GET /api/v1/cart/39169 200 269ms user=u2489 req=840dd51983eb
+2026-10-12T10:16:30.510Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:16:30.588Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:16:30.770Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:16:32.278Z INFO  [checkout-api] GET /api/v1/cart/13808 200 379ms user=u5056 req=205270575870
+2026-10-12T10:16:40.175Z INFO  [inventory-svc] GET /api/v1/stock/SKU-72475 200 8ms req=e6d62f35b248
+2026-10-12T10:16:44.123Z INFO  [checkout-api] GET /api/v1/cart/45899 200 131ms user=u4821 req=d444a157d52e
+2026-10-12T10:16:50.272Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9052 req=d53dd404b775
+2026-10-12T10:16:56.880Z INFO  [checkout-api] GET /api/v1/cart/59998 200 110ms user=u4041 req=868c3d78cd3d
+2026-10-12T10:17:00.094Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:17:00.128Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:17:00.541Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:17:04.089Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:17:04.134Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u6248 req=9ac8b3a235c9
+2026-10-12T10:17:04.310Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:17:08.244Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9907 req=95caee3af29f
+2026-10-12T10:17:08.275Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:17:18.101Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:17:18.544Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u1985 req=587363a69909
+2026-10-12T10:17:21.325Z INFO  [checkout-api] GET /api/v1/cart/24391 200 396ms user=u6785 req=5374646fa6ae
+2026-10-12T10:17:30.393Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:17:30.661Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:17:30.918Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:17:31.357Z INFO  [checkout-api] GET /api/v1/cart/38353 200 99ms user=u4969 req=85aede37285f
+2026-10-12T10:17:32.542Z INFO  [checkout-api] GET /api/v1/cart/37789 200 87ms user=u8020 req=fa3447a99286
+2026-10-12T10:17:36.709Z INFO  [checkout-api] GET /api/v1/cart/11158 200 168ms user=u2288 req=db506573638a
+2026-10-12T10:17:42.557Z INFO  [payment-svc] POST /api/v1/pay 200 807ms provider=bankgw user=u4569 req=171d34b5c0c2
+2026-10-12T10:17:57.354Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u3473 req=721d9d4fa716
+2026-10-12T10:18:00.130Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:18:00.442Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:18:00.869Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:18:09.556Z INFO  [inventory-svc] GET /api/v1/stock/SKU-34335 200 31ms req=0c3f7407d711
+2026-10-12T10:18:18.540Z INFO  [checkout-api] GET /api/v1/cart/86600 200 299ms user=u7898 req=4136d3b97429
+2026-10-12T10:18:19.746Z INFO  [checkout-api] GET /api/v1/cart/45889 200 117ms user=u3791 req=4477391c94c8
+2026-10-12T10:18:21.077Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:18:21.219Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u8189 req=96831398a5e9
+2026-10-12T10:18:24.722Z INFO  [inventory-svc] GET /api/v1/stock/SKU-46736 200 36ms req=621ffd894e62
+2026-10-12T10:18:30.000Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T10:18:30.435Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:18:30.991Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:18:34.207Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u3282 req=9f1986b79335
+2026-10-12T10:18:51.569Z INFO  [checkout-api] GET /api/v1/cart/60132 200 45ms user=u2411 req=80bd0980b117
+2026-10-12T10:18:52.000Z INFO  [checkout-api] GET /api/v1/cart/72058 200 241ms user=u3999 req=fac7cb2c8a27
+2026-10-12T10:18:57.915Z INFO  [payment-svc] POST /api/v1/pay 200 232ms provider=bankgw user=u6654 req=60cfeb16f166
+2026-10-12T10:19:00.400Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:19:00.875Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:19:00.995Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:19:13.479Z INFO  [checkout-api] GET /api/v1/cart/31678 200 465ms user=u4201 req=1b20a4015499
+2026-10-12T10:19:17.213Z INFO  [checkout-api] GET /api/v1/cart/48961 200 330ms user=u1206 req=f67e48eb7c64
+2026-10-12T10:19:28.897Z INFO  [checkout-api] GET /api/v1/cart/48530 200 302ms user=u5495 req=81264a124f6c
+2026-10-12T10:19:30.155Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:19:30.229Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:19:30.254Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:19:30.465Z INFO  [checkout-api] GET /api/v1/cart/53520 200 248ms user=u4027 req=bbda5f05cb39
+2026-10-12T10:19:59.356Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u3501 req=fc1cc84198d0
+2026-10-12T10:19:59.700Z INFO  [checkout-api] GET /api/v1/cart/46129 200 475ms user=u3957 req=e498e656e46a
+2026-10-12T10:20:00.087Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:20:00.901Z DEBUG [payment-svc] metrics cpu=39.5% mem=553MB conns=43
+2026-10-12T10:20:00.926Z DEBUG [inventory-svc] metrics cpu=22.6% mem=587MB conns=30
+2026-10-12T10:20:00.964Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:20:00.995Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:20:00.995Z DEBUG [checkout-api] metrics cpu=24.4% mem=602MB conns=20
+2026-10-12T10:20:06.145Z INFO  [checkout-api] GET /api/v1/cart/23236 200 322ms user=u7706 req=7ecb4e59b08f
+2026-10-12T10:20:07.785Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9610 req=fd6a28e2fbff
+2026-10-12T10:20:09.476Z INFO  [inventory-svc] GET /api/v1/stock/SKU-16178 200 40ms req=6efe0c86ef39
+2026-10-12T10:20:30.001Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:20:30.238Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:20:30.795Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:20:32.590Z INFO  [inventory-svc] GET /api/v1/stock/SKU-88284 200 94ms req=f4bb7e094f86
+2026-10-12T10:20:48.118Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u8144 req=ce178d074056
+2026-10-12T10:20:55.608Z INFO  [checkout-api] GET /api/v1/cart/40910 200 336ms user=u8794 req=a1429bdf9cb6
+2026-10-12T10:20:56.577Z INFO  [checkout-api] GET /api/v1/cart/70626 200 63ms user=u7629 req=eddf52ecf407
+2026-10-12T10:21:00.641Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:21:00.660Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:21:00.985Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:21:02.101Z INFO  [checkout-api] GET /api/v1/cart/70556 200 20ms user=u1263 req=d27e961b130f
+2026-10-12T10:21:24.509Z INFO  [checkout-api] GET /api/v1/cart/33614 200 424ms user=u4821 req=05f7965463e3
+2026-10-12T10:21:28.370Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:21:28.860Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u2434 req=94a1a3c25279
+2026-10-12T10:21:30.101Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T10:21:30.540Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:21:30.715Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:21:44.759Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u8457 req=bfe5fb75e667
+2026-10-12T10:22:00.307Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:22:00.397Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:22:00.966Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:22:15.265Z INFO  [checkout-api] GET /api/v1/cart/48367 200 269ms user=u2288 req=9da3539bb23f
+2026-10-12T10:22:16.258Z INFO  [checkout-api] GET /api/v1/cart/74952 200 222ms user=u1336 req=27c7d9cf0725
+2026-10-12T10:22:17.552Z INFO  [checkout-api] GET /api/v1/cart/55455 200 279ms user=u7342 req=f6d2d3b4d677
+2026-10-12T10:22:17.694Z INFO  [checkout-api] GET /api/v1/cart/64097 200 393ms user=u6676 req=39553ccaccfa
+2026-10-12T10:22:20.115Z INFO  [checkout-api] GET /api/v1/cart/14475 200 419ms user=u9935 req=78b6e0e30f32
+2026-10-12T10:22:30.010Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T10:22:30.228Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:22:30.308Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:22:34.886Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u5227 req=45627f0b8a6e
+2026-10-12T10:22:45.907Z INFO  [inventory-svc] GET /api/v1/stock/SKU-32908 200 74ms req=c87d3b4a9bb8
+2026-10-12T10:22:47.590Z INFO  [checkout-api] GET /api/v1/cart/53889 200 260ms user=u8588 req=6022136ced62
+2026-10-12T10:22:52.124Z INFO  [inventory-svc] GET /api/v1/stock/SKU-44745 200 91ms req=43046985e829
+2026-10-12T10:22:53.767Z INFO  [checkout-api] GET /api/v1/cart/70145 200 381ms user=u4821 req=1af408461c58
+2026-10-12T10:23:00.285Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:23:00.486Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:23:00.660Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:23:03.537Z INFO  [checkout-api] GET /api/v1/cart/97845 200 231ms user=u6654 req=97aaf35f3b68
+2026-10-12T10:23:04.848Z INFO  [checkout-api] GET /api/v1/cart/10771 200 295ms user=u9864 req=56d133751239
+2026-10-12T10:23:09.634Z INFO  [checkout-api] GET /api/v1/cart/20674 200 213ms user=u9839 req=1a9dbf49a067
+2026-10-12T10:23:15.981Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9366 req=e19313cd4f9a
+2026-10-12T10:23:16.014Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u2667 req=a5e140885c87
+2026-10-12T10:23:25.494Z INFO  [checkout-api] GET /api/v1/cart/22450 200 403ms user=u3396 req=22d573771a22
+2026-10-12T10:23:30.240Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:23:30.252Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:23:30.983Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:23:39.999Z INFO  [checkout-api] GET /api/v1/cart/21318 200 64ms user=u7898 req=b32732b89994
+2026-10-12T10:23:42.523Z INFO  [inventory-svc] GET /api/v1/stock/SKU-77727 200 107ms req=6c08e0eb6c6e
+2026-10-12T10:23:46.474Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u4870 req=17ae7bfadabf
+2026-10-12T10:23:46.653Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:24:00.056Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:24:00.198Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:24:00.721Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:24:01.328Z INFO  [checkout-api] GET /api/v1/cart/51083 200 445ms user=u4569 req=5a6d107b0811
+2026-10-12T10:24:18.608Z WARN  [payment-svc] db connection pool exhausted (max=50), waiting for a free connection
+2026-10-12T10:24:18.828Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9050 req=70d65a4a7d1d
+2026-10-12T10:24:30.083Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:24:30.233Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:24:30.906Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:24:48.142Z INFO  [checkout-api] GET /api/v1/cart/32711 200 321ms user=u9391 req=80d08fb6d0ed
+2026-10-12T10:24:51.824Z INFO  [checkout-api] GET /api/v1/cart/49567 200 203ms user=u3970 req=309a11346c86
+2026-10-12T10:25:00.034Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:25:00.232Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:25:00.336Z DEBUG [payment-svc] metrics cpu=45.3% mem=768MB conns=90
+2026-10-12T10:25:00.764Z DEBUG [checkout-api] metrics cpu=64.7% mem=576MB conns=59
+2026-10-12T10:25:00.943Z DEBUG [inventory-svc] metrics cpu=51.0% mem=860MB conns=70
+2026-10-12T10:25:00.947Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:25:01.461Z INFO  [checkout-api] GET /api/v1/cart/75700 200 112ms user=u5948 req=d5a148fd28cb
+2026-10-12T10:25:05.267Z INFO  [inventory-svc] GET /api/v1/stock/SKU-88760 200 36ms req=c268523c4eec
+2026-10-12T10:25:30.202Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:25:30.371Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:25:30.735Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:25:40.077Z WARN  [inventory-svc] disk usage 91% on /var/lib/inventory
+2026-10-12T10:25:44.572Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u7757 req=c91ff3adae91
+2026-10-12T10:25:44.787Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:25:50.172Z INFO  [inventory-svc] GET /api/v1/stock/SKU-63054 200 55ms req=360eb5910dac
+2026-10-12T10:25:51.100Z INFO  [checkout-api] GET /api/v1/cart/33810 200 471ms user=u5945 req=93871c15d694
+2026-10-12T10:26:00.069Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:26:00.756Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T10:26:00.816Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:26:24.333Z INFO  [inventory-svc] GET /api/v1/stock/SKU-63179 200 96ms req=f07108097032
+2026-10-12T10:26:30.236Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:26:30.319Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:26:30.358Z INFO  [checkout-api] GET /api/v1/cart/83538 200 378ms user=u4821 req=fbc200caf6d6
+2026-10-12T10:26:30.507Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:26:41.005Z INFO  [checkout-api] GET /api/v1/cart/41338 200 467ms user=u8483 req=8c763211caea
+2026-10-12T10:26:41.223Z INFO  [checkout-api] GET /api/v1/cart/68397 200 90ms user=u8551 req=246a395dfeff
+2026-10-12T10:26:48.788Z INFO  [checkout-api] GET /api/v1/cart/84314 200 395ms user=u2547 req=715498acd947
+2026-10-12T10:26:51.266Z INFO  [inventory-svc] GET /api/v1/stock/SKU-32500 200 107ms req=07eca1b8363b
+2026-10-12T10:26:57.871Z INFO  [checkout-api] GET /api/v1/cart/59350 200 188ms user=u3035 req=781ef02216ef
+2026-10-12T10:27:00.111Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:27:00.226Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:27:00.778Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:27:11.433Z INFO  [checkout-api] GET /api/v1/cart/33746 200 316ms user=u3430 req=1af0408afe29
+2026-10-12T10:27:29.298Z INFO  [checkout-api] GET /api/v1/cart/39276 200 87ms user=u9547 req=26e45dac31b3
+2026-10-12T10:27:30.496Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:27:30.624Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:27:30.917Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:27:38.211Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9052 req=4f50bb228459
+2026-10-12T10:27:43.521Z INFO  [checkout-api] GET /api/v1/cart/21213 200 334ms user=u2750 req=3fa7b3a99b7d
+2026-10-12T10:27:48.649Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u5949 req=7f79a8ce6ef2
+2026-10-12T10:28:00.932Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:28:00.944Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:28:00.971Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:28:05.263Z INFO  [inventory-svc] GET /api/v1/stock/SKU-73321 200 93ms req=c140816d9baa
+2026-10-12T10:28:22.682Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u3635 req=7405f676c36a
+2026-10-12T10:28:22.845Z INFO  [checkout-api] GET /api/v1/cart/56693 200 102ms user=u7995 req=a7b4b87113c1
+2026-10-12T10:28:30.024Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:28:30.055Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:28:30.425Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:28:34.619Z INFO  [payment-svc] POST /api/v1/pay 200 497ms provider=bankgw user=u9440 req=ad7b5ccd7ff8
+2026-10-12T10:28:41.480Z INFO  [checkout-api] GET /api/v1/cart/71828 200 375ms user=u9318 req=43fc2770c717
+2026-10-12T10:28:42.652Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u4677 req=c0b367b148f0
+2026-10-12T10:29:00.188Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:29:00.460Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:29:00.726Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:29:30.081Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:29:30.337Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:29:30.750Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:29:36.021Z INFO  [checkout-api] GET /api/v1/cart/35308 200 136ms user=u3502 req=8dc5d44036c0
+2026-10-12T10:29:38.544Z INFO  [checkout-api] GET /api/v1/cart/94109 200 195ms user=u4201 req=a4a3a5d0b7c0
+2026-10-12T10:29:39.473Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:29:39.777Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u2660 req=9cb07f0f5eef
+2026-10-12T10:29:46.828Z INFO  [inventory-svc] GET /api/v1/stock/SKU-77408 200 96ms req=c5221da6603f
+2026-10-12T10:29:52.537Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u9708 req=23410000f421
+2026-10-12T10:29:52.977Z ERROR [payment-svc] unhandled exception in PaymentController.charge
+java.net.SocketTimeoutException: Read timed out
+    at java.net.SocketInputStream.read(SocketInputStream.java:183)
+    at com.shop.pay.BankGatewayClient.charge(BankGatewayClient.java:212)
+    at com.shop.pay.PaymentController.charge(PaymentController.java:88)
+2026-10-12T10:30:00.032Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:30:00.189Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:30:00.447Z DEBUG [payment-svc] metrics cpu=67.3% mem=619MB conns=83
+2026-10-12T10:30:00.677Z INFO  [checkout-api] GET /api/v1/cart/86936 200 408ms user=u4821 req=98514f31c827
+2026-10-12T10:30:00.764Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:30:00.859Z DEBUG [checkout-api] metrics cpu=40.9% mem=386MB conns=13
+2026-10-12T10:30:00.905Z DEBUG [inventory-svc] metrics cpu=27.1% mem=597MB conns=60
+2026-10-12T10:30:27.202Z INFO  [checkout-api] GET /api/v1/cart/97135 200 90ms user=u4793 req=ebc875e5b10c
+2026-10-12T10:30:29.912Z INFO  [checkout-api] GET /api/v1/cart/24281 200 104ms user=u7060 req=2b96292794c9
+2026-10-12T10:30:30.339Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:30:30.680Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:30:30.859Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:30:34.389Z INFO  [checkout-api] GET /api/v1/cart/70548 200 35ms user=u8125 req=75fc538e29e6
+2026-10-12T10:30:38.592Z INFO  [checkout-api] GET /api/v1/cart/38524 200 51ms user=u6592 req=77172a31659a
+2026-10-12T10:30:46.017Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u8909 req=7a8d0632a165
+2026-10-12T10:30:52.232Z INFO  [checkout-api] GET /api/v1/cart/37254 200 14ms user=u1254 req=6bb31ed04d25
+2026-10-12T10:31:00.002Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:31:00.173Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:31:00.286Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T10:31:04.481Z ERROR [payment-svc] POST /api/v1/pay 503 upstream timeout after 5000ms provider=bankgw user=u4334 req=403739c6acbd
+2026-10-12T10:31:30.359Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:31:30.574Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:31:30.978Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:31:40.000Z INFO  [deployer] rolled back payment-svc to version 2.14.0 by oncall-asha
+2026-10-12T10:31:46.883Z INFO  [checkout-api] GET /api/v1/cart/22535 200 157ms user=u3118 req=dedd634d54a7
+2026-10-12T10:31:49.917Z INFO  [payment-svc] POST /api/v1/pay 200 675ms provider=bankgw user=u8377 req=8e2c37cc785d
+2026-10-12T10:32:00.389Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:32:00.585Z INFO  [checkout-api] GET /api/v1/cart/42305 200 108ms user=u8774 req=1fd653e7d439
+2026-10-12T10:32:00.787Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:32:00.841Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:32:06.873Z INFO  [checkout-api] GET /api/v1/cart/42162 200 39ms user=u6938 req=a151dd64b338
+2026-10-12T10:32:11.762Z INFO  [payment-svc] POST /api/v1/pay 200 321ms provider=bankgw user=u3999 req=f501ed322baf
+2026-10-12T10:32:30.089Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:32:30.200Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:32:30.722Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:32:35.400Z INFO  [payment-svc] POST /api/v1/pay 200 459ms provider=bankgw user=u3627 req=bb7ea5ebb5de
+2026-10-12T10:32:35.535Z INFO  [inventory-svc] GET /api/v1/stock/SKU-33143 200 85ms req=bd56f140eeab
+2026-10-12T10:32:45.490Z INFO  [payment-svc] POST /api/v1/pay 200 793ms provider=bankgw user=u1334 req=a6cc03cbd192
+2026-10-12T10:32:52.116Z INFO  [payment-svc] POST /api/v1/pay 200 479ms provider=bankgw user=u8185 req=7185f9f46b96
+2026-10-12T10:32:52.133Z INFO  [checkout-api] GET /api/v1/cart/58093 200 11ms user=u9101 req=f7bac8060815
+2026-10-12T10:32:52.195Z INFO  [payment-svc] POST /api/v1/pay 200 731ms provider=bankgw user=u1044 req=c2dbb73215a9
+2026-10-12T10:32:52.255Z INFO  [payment-svc] POST /api/v1/pay 200 841ms provider=bankgw user=u2359 req=fa276a084537
+2026-10-12T10:32:59.113Z INFO  [checkout-api] GET /api/v1/cart/14866 200 133ms user=u7555 req=a6b2dc782bde
+2026-10-12T10:33:00.197Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:33:00.372Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:33:00.554Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:33:14.333Z INFO  [checkout-api] GET /api/v1/cart/16213 200 298ms user=u1090 req=b31a888deeee
+2026-10-12T10:33:15.760Z INFO  [checkout-api] GET /api/v1/cart/19974 200 131ms user=u5948 req=5b8efa9b5552
+2026-10-12T10:33:17.797Z INFO  [inventory-svc] GET /api/v1/stock/SKU-70487 200 54ms req=0b02b8e64896
+2026-10-12T10:33:30.031Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:33:30.041Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:33:30.253Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:33:31.377Z INFO  [checkout-api] GET /api/v1/cart/66479 200 48ms user=u2750 req=008f56f49d64
+2026-10-12T10:33:32.435Z INFO  [checkout-api] GET /api/v1/cart/35649 200 208ms user=u7214 req=b9ccc6c4ae12
+2026-10-12T10:33:37.140Z INFO  [checkout-api] GET /api/v1/cart/89872 200 201ms user=u7976 req=df5e935ab777
+2026-10-12T10:34:00.035Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:34:00.064Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:34:00.263Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:34:02.925Z INFO  [checkout-api] GET /api/v1/cart/11979 200 357ms user=u2481 req=b5fc89ccf4a7
+2026-10-12T10:34:11.630Z INFO  [checkout-api] GET /api/v1/cart/35425 200 140ms user=u1206 req=ce53935fd16c
+2026-10-12T10:34:15.837Z INFO  [checkout-api] GET /api/v1/cart/61315 200 236ms user=u4821 req=fd467ba2293f
+2026-10-12T10:34:17.412Z INFO  [payment-svc] POST /api/v1/pay 200 204ms provider=bankgw user=u9928 req=d12b1eafc9cb
+2026-10-12T10:34:18.661Z INFO  [checkout-api] GET /api/v1/cart/10603 200 88ms user=u5382 req=0bd6cdaf5ac6
+2026-10-12T10:34:25.515Z INFO  [checkout-api] GET /api/v1/cart/92326 200 182ms user=u5966 req=e16d4f618557
+2026-10-12T10:34:30.339Z INFO  [payment-svc] POST /api/v1/pay 200 682ms provider=bankgw user=u7537 req=198c9f921b5c
+2026-10-12T10:34:30.371Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:34:30.765Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:34:30.920Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:34:52.489Z INFO  [inventory-svc] GET /api/v1/stock/SKU-84194 200 65ms req=a544a1ccb80d
+2026-10-12T10:34:56.139Z INFO  [checkout-api] GET /api/v1/cart/74615 200 215ms user=u4821 req=f54c4d88273e
+2026-10-12T10:35:00.033Z DEBUG [payment-svc] metrics cpu=9.7% mem=489MB conns=89
+2026-10-12T10:35:00.268Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:35:00.343Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:35:00.637Z DEBUG [checkout-api] metrics cpu=44.3% mem=555MB conns=28
+2026-10-12T10:35:00.946Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:35:00.951Z DEBUG [inventory-svc] metrics cpu=18.0% mem=525MB conns=13
+2026-10-12T10:35:02.518Z INFO  [payment-svc] POST /api/v1/pay 200 125ms provider=bankgw user=u6421 req=bd4b25e4f3a1
+2026-10-12T10:35:20.993Z INFO  [checkout-api] GET /api/v1/cart/54528 200 327ms user=u9864 req=8633b923e7b8
+2026-10-12T10:35:30.024Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:35:30.304Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:35:30.738Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:35:47.316Z INFO  [checkout-api] GET /api/v1/cart/68722 200 64ms user=u3544 req=35aeeb95210e
+2026-10-12T10:35:52.295Z INFO  [inventory-svc] GET /api/v1/stock/SKU-50934 200 4ms req=0c1e2d743ece
+2026-10-12T10:35:57.202Z INFO  [payment-svc] POST /api/v1/pay 200 222ms provider=bankgw user=u5600 req=24f25f5d4a25
+2026-10-12T10:35:59.587Z INFO  [payment-svc] POST /api/v1/pay 200 100ms provider=bankgw user=u5800 req=797d293d9760
+2026-10-12T10:36:00.109Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:36:00.732Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:36:00.976Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:36:02.486Z INFO  [checkout-api] GET /api/v1/cart/73121 200 69ms user=u6709 req=8500f17f4b4c
+2026-10-12T10:36:10.368Z INFO  [checkout-api] GET /api/v1/cart/12154 200 72ms user=u4821 req=a99f27608f43
+2026-10-12T10:36:22.132Z INFO  [checkout-api] GET /api/v1/cart/22141 200 131ms user=u2603 req=684ee75bb6cc
+2026-10-12T10:36:28.859Z INFO  [checkout-api] GET /api/v1/cart/94585 200 106ms user=u4821 req=28eda45b032e
+2026-10-12T10:36:29.182Z INFO  [payment-svc] POST /api/v1/pay 200 421ms provider=bankgw user=u3409 req=cb41eec89663
+2026-10-12T10:36:30.808Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:36:30.834Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:36:30.935Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:36:41.368Z INFO  [checkout-api] GET /api/v1/cart/59818 200 384ms user=u2947 req=fb4768314cd2
+2026-10-12T10:36:43.541Z INFO  [checkout-api] GET /api/v1/cart/95524 200 290ms user=u4821 req=e3a28b342ee7
+2026-10-12T10:36:46.057Z INFO  [inventory-svc] GET /api/v1/stock/SKU-56317 200 21ms req=3c08a74a34e7
+2026-10-12T10:37:00.135Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:37:00.187Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:37:00.402Z INFO  [payment-svc] POST /api/v1/pay 200 827ms provider=bankgw user=u7858 req=436a4d189c0b
+2026-10-12T10:37:00.821Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:37:09.062Z INFO  [inventory-svc] GET /api/v1/stock/SKU-72165 200 20ms req=994475052ad2
+2026-10-12T10:37:10.748Z INFO  [checkout-api] GET /api/v1/cart/36164 200 37ms user=u3544 req=770659b3023b
+2026-10-12T10:37:17.428Z INFO  [checkout-api] GET /api/v1/cart/52838 200 230ms user=u3636 req=c8164b6b1bb5
+2026-10-12T10:37:18.443Z INFO  [inventory-svc] GET /api/v1/stock/SKU-52066 200 39ms req=e40d5c36303a
+2026-10-12T10:37:22.344Z INFO  [checkout-api] GET /api/v1/cart/97932 200 284ms user=u1334 req=1b5a41eafe6a
+2026-10-12T10:37:27.973Z INFO  [payment-svc] POST /api/v1/pay 200 129ms provider=bankgw user=u1467 req=0a9642c2707d
+2026-10-12T10:37:30.335Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:37:30.621Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:37:30.842Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:37:39.809Z INFO  [checkout-api] GET /api/v1/cart/19817 200 412ms user=u7465 req=3a7178b5bd85
+2026-10-12T10:37:40.545Z INFO  [checkout-api] GET /api/v1/cart/46033 200 99ms user=u2481 req=af8d62014ea5
+2026-10-12T10:37:44.837Z INFO  [checkout-api] GET /api/v1/cart/12534 200 267ms user=u6547 req=cb4f20047226
+2026-10-12T10:38:00.471Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:38:00.524Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:38:00.802Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:38:01.400Z INFO  [payment-svc] POST /api/v1/pay 200 756ms provider=bankgw user=u8013 req=9ce573dc40fd
+2026-10-12T10:38:02.913Z INFO  [inventory-svc] GET /api/v1/stock/SKU-64735 200 50ms req=da29310179d2
+2026-10-12T10:38:03.557Z INFO  [checkout-api] GET /api/v1/cart/45991 200 164ms user=u4382 req=a878e2f264d9
+2026-10-12T10:38:07.082Z INFO  [checkout-api] GET /api/v1/cart/48141 200 456ms user=u7060 req=a54358a557f7
+2026-10-12T10:38:14.123Z INFO  [checkout-api] GET /api/v1/cart/16631 200 327ms user=u8944 req=598926e80197
+2026-10-12T10:38:15.528Z INFO  [inventory-svc] GET /api/v1/stock/SKU-21780 200 53ms req=02e7569f329a
+2026-10-12T10:38:15.551Z INFO  [payment-svc] POST /api/v1/pay 200 752ms provider=bankgw user=u2235 req=cbcea772a18c
+2026-10-12T10:38:17.933Z INFO  [inventory-svc] GET /api/v1/stock/SKU-46993 200 79ms req=2e049e256e64
+2026-10-12T10:38:30.066Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:38:30.253Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:38:30.401Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:38:34.540Z INFO  [inventory-svc] GET /api/v1/stock/SKU-12095 200 94ms req=14ac5f2b9d53
+2026-10-12T10:39:00.164Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:39:00.493Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:39:00.557Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:39:04.951Z INFO  [payment-svc] POST /api/v1/pay 200 732ms provider=bankgw user=u7976 req=778981077995
+2026-10-12T10:39:09.548Z INFO  [payment-svc] POST /api/v1/pay 200 563ms provider=bankgw user=u9417 req=af2de89d2b7f
+2026-10-12T10:39:10.828Z INFO  [checkout-api] GET /api/v1/cart/43633 200 459ms user=u2663 req=2eb31f96288b
+2026-10-12T10:39:28.079Z INFO  [checkout-api] GET /api/v1/cart/85821 200 175ms user=u6254 req=5bcb26ee8f46
+2026-10-12T10:39:30.073Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:39:30.639Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T10:39:30.904Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:39:43.405Z INFO  [checkout-api] GET /api/v1/cart/84087 200 199ms user=u2777 req=d519665ce7df
+2026-10-12T10:39:51.456Z INFO  [checkout-api] GET /api/v1/cart/14871 200 260ms user=u4517 req=f6151b9267f9
+2026-10-12T10:39:56.189Z INFO  [payment-svc] POST /api/v1/pay 200 712ms provider=bankgw user=u5451 req=0b8511a8b6c6
+2026-10-12T10:39:57.815Z INFO  [checkout-api] GET /api/v1/cart/59638 200 136ms user=u2916 req=cbf172e1bdec
+2026-10-12T10:40:00.031Z DEBUG [checkout-api] metrics cpu=10.6% mem=423MB conns=18
+2026-10-12T10:40:00.213Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:40:00.431Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:40:00.726Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:40:00.754Z DEBUG [payment-svc] metrics cpu=10.9% mem=752MB conns=35
+2026-10-12T10:40:00.837Z DEBUG [inventory-svc] metrics cpu=67.2% mem=447MB conns=59
+2026-10-12T10:40:05.321Z INFO  [checkout-api] GET /api/v1/cart/38800 200 285ms user=u4821 req=30b6d8a8028b
+2026-10-12T10:40:26.726Z INFO  [checkout-api] GET /api/v1/cart/19446 200 121ms user=u7162 req=fdd89d8f1efb
+2026-10-12T10:40:30.136Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:40:30.177Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:40:30.471Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:40:47.304Z INFO  [payment-svc] POST /api/v1/pay 200 379ms provider=bankgw user=u3603 req=4d92d6ed2de3
+2026-10-12T10:40:47.818Z INFO  [payment-svc] POST /api/v1/pay 200 336ms provider=bankgw user=u5227 req=2e0d67cc5fd9
+2026-10-12T10:40:48.040Z INFO  [checkout-api] GET /api/v1/cart/82396 200 202ms user=u4138 req=957f8db03911
+2026-10-12T10:40:59.458Z INFO  [checkout-api] GET /api/v1/cart/21168 200 355ms user=u7907 req=4bdb7ec83756
+2026-10-12T10:41:00.765Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:41:00.798Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:41:00.867Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:41:02.023Z INFO  [payment-svc] POST /api/v1/pay 200 342ms provider=bankgw user=u6602 req=39aa0929ba7c
+2026-10-12T10:41:11.420Z INFO  [payment-svc] POST /api/v1/pay 200 222ms provider=bankgw user=u9101 req=257bc29b54d7
+2026-10-12T10:41:13.103Z INFO  [inventory-svc] GET /api/v1/stock/SKU-52585 200 69ms req=158abbe281b4
+2026-10-12T10:41:30.300Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:41:30.381Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:41:30.580Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:41:38.461Z INFO  [checkout-api] GET /api/v1/cart/40443 200 113ms user=u1412 req=91ac7dc22339
+2026-10-12T10:41:41.473Z INFO  [checkout-api] GET /api/v1/cart/92649 200 100ms user=u4041 req=e0c21d6046bd
+2026-10-12T10:41:46.861Z INFO  [checkout-api] GET /api/v1/cart/54747 200 195ms user=u1188 req=0837bbf1b3ba
+2026-10-12T10:41:55.450Z INFO  [payment-svc] POST /api/v1/pay 200 336ms provider=bankgw user=u1245 req=5e20d37090bf
+2026-10-12T10:41:56.924Z INFO  [payment-svc] POST /api/v1/pay 200 419ms provider=bankgw user=u2128 req=7b1e38c1d9da
+2026-10-12T10:42:00.203Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:42:00.253Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T10:42:00.755Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:42:22.114Z INFO  [checkout-api] GET /api/v1/cart/39000 200 288ms user=u3005 req=8368f7e732d2
+2026-10-12T10:42:25.008Z INFO  [payment-svc] POST /api/v1/pay 200 514ms provider=bankgw user=u5945 req=777a44ba8730
+2026-10-12T10:42:29.125Z INFO  [checkout-api] GET /api/v1/cart/98847 200 454ms user=u8013 req=28c0490c257a
+2026-10-12T10:42:29.509Z INFO  [inventory-svc] GET /api/v1/stock/SKU-79157 200 81ms req=fa9aea2ee72f
+2026-10-12T10:42:30.157Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:42:30.251Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:42:30.905Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:42:31.146Z INFO  [checkout-api] GET /api/v1/cart/73858 200 267ms user=u2603 req=3649701835ea
+2026-10-12T10:42:54.780Z INFO  [checkout-api] GET /api/v1/cart/98817 200 199ms user=u8125 req=d0b3de5d53e2
+2026-10-12T10:42:55.796Z INFO  [inventory-svc] GET /api/v1/stock/SKU-36692 200 25ms req=1ea85ad65cf8
+2026-10-12T10:43:00.251Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:43:00.334Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:43:00.405Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:43:02.858Z INFO  [payment-svc] POST /api/v1/pay 200 317ms provider=bankgw user=u5966 req=f695ac971880
+2026-10-12T10:43:04.862Z INFO  [inventory-svc] GET /api/v1/stock/SKU-87972 200 105ms req=7fa1ea00e4bc
+2026-10-12T10:43:06.849Z INFO  [payment-svc] POST /api/v1/pay 200 761ms provider=bankgw user=u9635 req=4c50a9b0419e
+2026-10-12T10:43:07.751Z INFO  [payment-svc] POST /api/v1/pay 200 93ms provider=bankgw user=u9635 req=4e778a224b04
+2026-10-12T10:43:14.307Z INFO  [inventory-svc] GET /api/v1/stock/SKU-66716 200 44ms req=4e77ce0b7aab
+2026-10-12T10:43:25.202Z INFO  [payment-svc] POST /api/v1/pay 200 401ms provider=bankgw user=u8774 req=2092aa7efb5a
+2026-10-12T10:43:30.538Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:43:30.665Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:43:30.669Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:43:37.191Z INFO  [payment-svc] POST /api/v1/pay 200 456ms provider=bankgw user=u7706 req=930a2bdaa35e
+2026-10-12T10:43:48.080Z INFO  [payment-svc] POST /api/v1/pay 200 185ms provider=bankgw user=u4011 req=6a86a4abcce7
+2026-10-12T10:43:54.084Z INFO  [checkout-api] GET /api/v1/cart/85147 200 227ms user=u1605 req=d9d0243c83de
+2026-10-12T10:43:58.263Z INFO  [payment-svc] POST /api/v1/pay 200 55ms provider=bankgw user=u7430 req=971105d89cec
+2026-10-12T10:43:59.265Z INFO  [payment-svc] POST /api/v1/pay 200 376ms provider=bankgw user=u2940 req=b1b9175fc6aa
+2026-10-12T10:44:00.004Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:44:00.037Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:44:00.904Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:44:02.210Z INFO  [inventory-svc] GET /api/v1/stock/SKU-38586 200 40ms req=81710d0a4ade
+2026-10-12T10:44:06.247Z INFO  [checkout-api] GET /api/v1/cart/48164 200 329ms user=u4477 req=0dd2cfb8a5f1
+2026-10-12T10:44:07.791Z INFO  [payment-svc] POST /api/v1/pay 200 324ms provider=bankgw user=u7421 req=a93830dccee3
+2026-10-12T10:44:08.698Z INFO  [payment-svc] POST /api/v1/pay 200 757ms provider=bankgw user=u7757 req=51748a2b8ea8
+2026-10-12T10:44:21.875Z INFO  [inventory-svc] GET /api/v1/stock/SKU-64946 200 7ms req=8bec893cb00b
+2026-10-12T10:44:25.536Z INFO  [payment-svc] POST /api/v1/pay 200 348ms provider=bankgw user=u2359 req=f16cf8f8917f
+2026-10-12T10:44:26.826Z INFO  [checkout-api] GET /api/v1/cart/65808 200 206ms user=u7295 req=ab37e328cf75
+2026-10-12T10:44:30.041Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:44:30.271Z INFO  [checkout-api] GET /api/v1/cart/44377 200 321ms user=u9318 req=fbf742b65b75
+2026-10-12T10:44:30.860Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:44:30.936Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:44:35.911Z INFO  [checkout-api] GET /api/v1/cart/23171 200 68ms user=u9041 req=bf7f2fb84f41
+2026-10-12T10:44:48.416Z INFO  [payment-svc] POST /api/v1/pay 200 627ms provider=bankgw user=u7874 req=084caa1267fc
+2026-10-12T10:45:00.034Z DEBUG [payment-svc] metrics cpu=10.1% mem=469MB conns=90
+2026-10-12T10:45:00.051Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:45:00.109Z DEBUG [checkout-api] metrics cpu=23.3% mem=588MB conns=24
+2026-10-12T10:45:00.238Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:45:00.614Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:45:00.647Z DEBUG [inventory-svc] metrics cpu=25.8% mem=482MB conns=26
+2026-10-12T10:45:05.277Z INFO  [payment-svc] POST /api/v1/pay 200 773ms provider=bankgw user=u4382 req=84a8987e45ce
+2026-10-12T10:45:15.245Z INFO  [payment-svc] POST /api/v1/pay 200 449ms provider=bankgw user=u2610 req=8c5026c72c9c
+2026-10-12T10:45:23.144Z INFO  [inventory-svc] GET /api/v1/stock/SKU-40083 200 115ms req=1119b62a7c1a
+2026-10-12T10:45:30.381Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T10:45:30.886Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T10:45:30.952Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:45:33.191Z INFO  [payment-svc] POST /api/v1/pay 200 651ms provider=bankgw user=u2179 req=2e005cde4eda
+2026-10-12T10:45:35.352Z INFO  [checkout-api] GET /api/v1/cart/12617 200 114ms user=u9089 req=ff663e73a436
+2026-10-12T10:45:39.193Z INFO  [payment-svc] POST /api/v1/pay 200 447ms provider=bankgw user=u5866 req=dbb591756727
+2026-10-12T10:45:50.670Z INFO  [inventory-svc] GET /api/v1/stock/SKU-95776 200 42ms req=fab6d81557b4
+2026-10-12T10:46:00.108Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:46:00.459Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:46:00.793Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:46:06.328Z INFO  [checkout-api] GET /api/v1/cart/16300 200 453ms user=u6068 req=df652f4993ef
+2026-10-12T10:46:08.186Z INFO  [checkout-api] GET /api/v1/cart/43962 200 292ms user=u2790 req=b4550b7ef6bc
+2026-10-12T10:46:11.717Z INFO  [payment-svc] POST /api/v1/pay 200 794ms provider=bankgw user=u3957 req=32aa7cd8b9d5
+2026-10-12T10:46:20.950Z INFO  [checkout-api] GET /api/v1/cart/30009 200 394ms user=u9391 req=c45cf807a9f1
+2026-10-12T10:46:30.144Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:46:30.222Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:46:30.377Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:46:38.380Z INFO  [checkout-api] GET /api/v1/cart/15754 200 324ms user=u8794 req=ecb19dd8b7c4
+2026-10-12T10:46:43.699Z INFO  [payment-svc] POST /api/v1/pay 200 798ms provider=bankgw user=u9935 req=dcc29a70cfc5
+2026-10-12T10:46:48.196Z INFO  [payment-svc] POST /api/v1/pay 200 203ms provider=bankgw user=u6254 req=bf4a2a58049d
+2026-10-12T10:47:00.039Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:47:00.208Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:47:00.834Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:47:01.404Z INFO  [checkout-api] GET /api/v1/cart/92150 200 347ms user=u5863 req=acc27ad909f0
+2026-10-12T10:47:02.664Z INFO  [payment-svc] POST /api/v1/pay 200 832ms provider=bankgw user=u2660 req=708c81ad0c41
+2026-10-12T10:47:04.093Z INFO  [checkout-api] GET /api/v1/cart/16594 200 111ms user=u4821 req=d78ed41415e9
+2026-10-12T10:47:30.189Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:47:30.418Z INFO  [payment-svc] health check ok latency=6ms
+2026-10-12T10:47:30.838Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:47:34.441Z INFO  [checkout-api] GET /api/v1/cart/36550 200 318ms user=u6592 req=7a0031dffb3c
+2026-10-12T10:47:50.078Z INFO  [payment-svc] POST /api/v1/pay 200 185ms provider=bankgw user=u9391 req=8ab6a14f4c11
+2026-10-12T10:47:57.302Z INFO  [checkout-api] GET /api/v1/cart/50071 200 30ms user=u5939 req=532290b5cd33
+2026-10-12T10:47:58.939Z INFO  [payment-svc] POST /api/v1/pay 200 390ms provider=bankgw user=u6904 req=dae85b88852d
+2026-10-12T10:48:00.032Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:48:00.079Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:48:00.561Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:48:08.642Z INFO  [checkout-api] GET /api/v1/cart/12012 200 111ms user=u7309 req=147d301a233f
+2026-10-12T10:48:17.047Z INFO  [checkout-api] GET /api/v1/cart/92800 200 254ms user=u4821 req=515e22e00fd2
+2026-10-12T10:48:28.370Z INFO  [payment-svc] POST /api/v1/pay 200 259ms provider=bankgw user=u3957 req=c1ed3646febf
+2026-10-12T10:48:30.064Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:48:30.103Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:48:30.679Z INFO  [inventory-svc] health check ok latency=9ms
+2026-10-12T10:48:32.148Z INFO  [payment-svc] POST /api/v1/pay 200 218ms provider=bankgw user=u2603 req=b0be33daded4
+2026-10-12T10:48:35.293Z INFO  [payment-svc] POST /api/v1/pay 200 845ms provider=bankgw user=u2128 req=8d669d798dbf
+2026-10-12T10:48:43.118Z INFO  [payment-svc] POST /api/v1/pay 200 658ms provider=bankgw user=u1957 req=99eee94929cc
+2026-10-12T10:49:00.093Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:49:00.158Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:49:00.407Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:49:15.520Z INFO  [payment-svc] POST /api/v1/pay 200 436ms provider=bankgw user=u7535 req=370beb303d44
+2026-10-12T10:49:30.191Z INFO  [inventory-svc] GET /api/v1/stock/SKU-28345 200 17ms req=8cacffe516da
+2026-10-12T10:49:30.419Z INFO  [checkout-api] health check ok latency=5ms
+2026-10-12T10:49:30.427Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:49:30.683Z INFO  [payment-svc] health check ok latency=5ms
+2026-10-12T10:49:37.870Z INFO  [inventory-svc] GET /api/v1/stock/SKU-14006 200 114ms req=6fc9a98cbcf5
+2026-10-12T10:49:39.555Z INFO  [payment-svc] POST /api/v1/pay 200 767ms provider=bankgw user=u1322 req=08348b72cc2d
+2026-10-12T10:49:40.939Z INFO  [checkout-api] GET /api/v1/cart/52449 200 469ms user=u8935 req=5cf68f5a8250
+2026-10-12T10:49:52.498Z INFO  [payment-svc] POST /api/v1/pay 200 479ms provider=bankgw user=u6319 req=7571ca96bf38
+2026-10-12T10:49:55.920Z INFO  [payment-svc] POST /api/v1/pay 200 174ms provider=bankgw user=u7162 req=56d455901fc2
+2026-10-12T10:49:58.280Z INFO  [inventory-svc] GET /api/v1/stock/SKU-39902 200 102ms req=c8a0f74ee22c
+2026-10-12T10:49:59.143Z INFO  [checkout-api] GET /api/v1/cart/29253 200 385ms user=u7342 req=9771d833424d
+2026-10-12T10:50:00.018Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:50:00.100Z DEBUG [checkout-api] metrics cpu=57.1% mem=589MB conns=47
+2026-10-12T10:50:00.319Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:50:00.326Z DEBUG [payment-svc] metrics cpu=28.9% mem=647MB conns=12
+2026-10-12T10:50:00.359Z DEBUG [inventory-svc] metrics cpu=23.9% mem=669MB conns=16
+2026-10-12T10:50:00.424Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:50:09.525Z INFO  [payment-svc] POST /api/v1/pay 200 251ms provider=bankgw user=u2358 req=75d68743d03c
+2026-10-12T10:50:16.735Z INFO  [payment-svc] POST /api/v1/pay 200 493ms provider=bankgw user=u4273 req=cfec8b7cec86
+2026-10-12T10:50:19.524Z INFO  [checkout-api] GET /api/v1/cart/67762 200 324ms user=u8150 req=df85dd616e73
+2026-10-12T10:50:20.255Z INFO  [checkout-api] GET /api/v1/cart/83319 200 429ms user=u4436 req=6a2127a74ae5
+2026-10-12T10:50:30.208Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:50:30.400Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:50:30.659Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:50:40.777Z INFO  [checkout-api] GET /api/v1/cart/70527 200 51ms user=u8736 req=50add127454b
+2026-10-12T10:50:42.295Z INFO  [checkout-api] GET /api/v1/cart/70978 200 317ms user=u1218 req=c646f3a708f4
+2026-10-12T10:50:55.840Z INFO  [payment-svc] POST /api/v1/pay 200 133ms provider=bankgw user=u1254 req=7c0d7bf49fc6
+2026-10-12T10:51:00.433Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:51:00.444Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:51:00.840Z INFO  [inventory-svc] health check ok latency=2ms
+2026-10-12T10:51:01.850Z INFO  [checkout-api] GET /api/v1/cart/21278 200 12ms user=u8909 req=e162aaef6076
+2026-10-12T10:51:08.370Z INFO  [checkout-api] GET /api/v1/cart/65473 200 191ms user=u3300 req=b4a78f19e8b8
+2026-10-12T10:51:16.558Z INFO  [checkout-api] GET /api/v1/cart/13305 200 162ms user=u6547 req=6f526bd62214
+2026-10-12T10:51:23.997Z INFO  [inventory-svc] GET /api/v1/stock/SKU-18183 200 56ms req=cc53c3754d90
+2026-10-12T10:51:30.133Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:51:30.415Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:51:30.471Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:51:42.432Z INFO  [inventory-svc] GET /api/v1/stock/SKU-97384 200 80ms req=eefa6e157d2c
+2026-10-12T10:51:45.458Z INFO  [payment-svc] POST /api/v1/pay 200 298ms provider=bankgw user=u5902 req=1076e5233612
+2026-10-12T10:51:51.210Z INFO  [checkout-api] GET /api/v1/cart/73396 200 203ms user=u4827 req=087a4d8baa40
+2026-10-12T10:51:54.955Z INFO  [inventory-svc] GET /api/v1/stock/SKU-34391 200 78ms req=e2beea7cc395
+2026-10-12T10:51:55.264Z INFO  [payment-svc] POST /api/v1/pay 200 793ms provider=bankgw user=u1101 req=80710f3727d0
+2026-10-12T10:52:00.052Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:52:00.091Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:52:00.145Z INFO  [payment-svc] health check ok latency=7ms
+2026-10-12T10:52:06.825Z INFO  [inventory-svc] GET /api/v1/stock/SKU-33556 200 98ms req=5bc487aade4e
+2026-10-12T10:52:12.677Z INFO  [checkout-api] GET /api/v1/cart/70332 200 86ms user=u5798 req=51acbd3d48c3
+2026-10-12T10:52:15.520Z INFO  [payment-svc] POST /api/v1/pay 200 365ms provider=bankgw user=u1927 req=31efeff01ba9
+2026-10-12T10:52:16.121Z INFO  [checkout-api] GET /api/v1/cart/51887 200 86ms user=u2397 req=8dc171a1aac9
+2026-10-12T10:52:29.365Z INFO  [checkout-api] GET /api/v1/cart/41650 200 466ms user=u2742 req=2fcdaf171e71
+2026-10-12T10:52:30.175Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:52:30.356Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:52:30.754Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:52:32.197Z INFO  [inventory-svc] GET /api/v1/stock/SKU-74731 200 95ms req=080f14e07e76
+2026-10-12T10:52:39.655Z INFO  [checkout-api] GET /api/v1/cart/77233 200 205ms user=u6319 req=9328776e7f1c
+2026-10-12T10:52:45.138Z INFO  [checkout-api] GET /api/v1/cart/26846 200 147ms user=u1090 req=be645a80d528
+2026-10-12T10:52:45.478Z INFO  [payment-svc] POST /api/v1/pay 200 159ms provider=bankgw user=u8856 req=34ba7483e76e
+2026-10-12T10:52:47.180Z INFO  [checkout-api] GET /api/v1/cart/31556 200 349ms user=u6254 req=c90eb6f2aed4
+2026-10-12T10:53:00.111Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:53:00.165Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:53:00.175Z INFO  [payment-svc] health check ok latency=2ms
+2026-10-12T10:53:20.845Z INFO  [checkout-api] GET /api/v1/cart/69496 200 52ms user=u3005 req=756aa04ab220
+2026-10-12T10:53:24.141Z INFO  [payment-svc] POST /api/v1/pay 200 254ms provider=bankgw user=u9696 req=c79780db2fd0
+2026-10-12T10:53:30.308Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:53:30.502Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:53:30.857Z INFO  [inventory-svc] health check ok latency=1ms
+2026-10-12T10:53:38.210Z INFO  [checkout-api] GET /api/v1/cart/14023 200 173ms user=u4644 req=c736ba806225
+2026-10-12T10:53:38.714Z INFO  [inventory-svc] GET /api/v1/stock/SKU-34283 200 64ms req=be1dd3fb106f
+2026-10-12T10:54:00.322Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:54:00.622Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:54:00.998Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:54:18.316Z INFO  [checkout-api] GET /api/v1/cart/87931 200 266ms user=u3035 req=f072fe6f43e3
+2026-10-12T10:54:24.243Z INFO  [checkout-api] GET /api/v1/cart/26095 200 147ms user=u2358 req=0d21e9e233c9
+2026-10-12T10:54:30.088Z INFO  [checkout-api] health check ok latency=3ms
+2026-10-12T10:54:30.635Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:54:30.655Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:54:40.614Z INFO  [payment-svc] POST /api/v1/pay 200 228ms provider=bankgw user=u9199 req=5ad92820e585
+2026-10-12T10:54:45.068Z INFO  [checkout-api] GET /api/v1/cart/89319 200 322ms user=u7574 req=e016aa4020cd
+2026-10-12T10:55:00.187Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:55:00.515Z DEBUG [payment-svc] metrics cpu=37.5% mem=674MB conns=89
+2026-10-12T10:55:00.629Z INFO  [checkout-api] health check ok latency=4ms
+2026-10-12T10:55:00.660Z INFO  [checkout-api] GET /api/v1/cart/72946 200 10ms user=u2667 req=94833734f83a
+2026-10-12T10:55:00.732Z DEBUG [checkout-api] metrics cpu=55.1% mem=708MB conns=87
+2026-10-12T10:55:00.763Z DEBUG [inventory-svc] metrics cpu=9.9% mem=802MB conns=13
+2026-10-12T10:55:00.849Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:55:13.115Z INFO  [checkout-api] GET /api/v1/cart/13980 200 185ms user=u6592 req=5c944446288f
+2026-10-12T10:55:18.441Z INFO  [checkout-api] GET /api/v1/cart/19057 200 360ms user=u8150 req=4221683cf863
+2026-10-12T10:55:30.042Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:55:30.160Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:55:30.961Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T10:55:32.373Z INFO  [checkout-api] GET /api/v1/cart/51940 200 314ms user=u6769 req=01d8773e6273
+2026-10-12T10:55:47.494Z INFO  [payment-svc] POST /api/v1/pay 200 333ms provider=bankgw user=u3544 req=ca75c495a316
+2026-10-12T10:55:48.771Z INFO  [checkout-api] GET /api/v1/cart/38263 200 53ms user=u1322 req=e16af1d4d14a
+2026-10-12T10:55:58.078Z INFO  [inventory-svc] GET /api/v1/stock/SKU-71892 200 10ms req=c7413e45a19c
+2026-10-12T10:56:00.153Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:56:00.367Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:56:00.993Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:56:09.719Z INFO  [checkout-api] GET /api/v1/cart/24981 200 418ms user=u7561 req=441e850681fb
+2026-10-12T10:56:12.887Z INFO  [checkout-api] GET /api/v1/cart/24215 200 427ms user=u4214 req=5d49a54e5ec5
+2026-10-12T10:56:29.971Z INFO  [checkout-api] GET /api/v1/cart/74500 200 269ms user=u4821 req=666f69e87a1d
+2026-10-12T10:56:30.042Z INFO  [checkout-api] health check ok latency=9ms
+2026-10-12T10:56:30.683Z INFO  [inventory-svc] health check ok latency=6ms
+2026-10-12T10:56:30.862Z INFO  [payment-svc] health check ok latency=1ms
+2026-10-12T10:56:46.924Z INFO  [payment-svc] POST /api/v1/pay 200 487ms provider=bankgw user=u9089 req=c842c71b9fa2
+2026-10-12T10:57:00.120Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:57:00.292Z INFO  [checkout-api] GET /api/v1/cart/62592 200 245ms user=u6254 req=13ea50f578b3
+2026-10-12T10:57:00.563Z INFO  [inventory-svc] health check ok latency=5ms
+2026-10-12T10:57:00.613Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:57:05.678Z INFO  [checkout-api] GET /api/v1/cart/74661 200 193ms user=u4793 req=06b9956226b4
+2026-10-12T10:57:09.157Z INFO  [checkout-api] GET /api/v1/cart/57694 200 62ms user=u1071 req=ff2aaf438c6b
+2026-10-12T10:57:30.315Z INFO  [payment-svc] health check ok latency=4ms
+2026-10-12T10:57:30.435Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:57:30.664Z INFO  [checkout-api] health check ok latency=7ms
+2026-10-12T10:58:00.448Z INFO  [inventory-svc] health check ok latency=3ms
+2026-10-12T10:58:00.457Z INFO  [payment-svc] health check ok latency=9ms
+2026-10-12T10:58:00.674Z INFO  [checkout-api] health check ok latency=6ms
+2026-10-12T10:58:04.005Z INFO  [inventory-svc] GET /api/v1/stock/SKU-78286 200 45ms req=66e107cbe0f3
+2026-10-12T10:58:04.347Z INFO  [checkout-api] GET /api/v1/cart/92877 200 336ms user=u8404 req=e5e8e1967f9b
+2026-10-12T10:58:06.190Z INFO  [checkout-api] GET /api/v1/cart/28798 200 187ms user=u4473 req=d946a2d207dc
+2026-10-12T10:58:07.853Z INFO  [payment-svc] POST /api/v1/pay 200 223ms provider=bankgw user=u4045 req=987036d8851f
+2026-10-12T10:58:13.053Z INFO  [checkout-api] GET /api/v1/cart/88778 200 445ms user=u2179 req=726cd9bba602
+2026-10-12T10:58:18.444Z INFO  [checkout-api] GET /api/v1/cart/60854 200 337ms user=u6819 req=843565f6ef30
+2026-10-12T10:58:30.023Z INFO  [checkout-api] health check ok latency=1ms
+2026-10-12T10:58:30.476Z INFO  [inventory-svc] health check ok latency=4ms
+2026-10-12T10:58:30.633Z INFO  [payment-svc] health check ok latency=8ms
+2026-10-12T10:58:41.787Z INFO  [checkout-api] GET /api/v1/cart/45032 200 449ms user=u7574 req=4992a0f75ae6
+2026-10-12T10:58:49.970Z INFO  [payment-svc] POST /api/v1/pay 200 119ms provider=bankgw user=u6769 req=233fed3a62e3
+2026-10-12T10:59:00.457Z INFO  [checkout-api] health check ok latency=8ms
+2026-10-12T10:59:00.829Z INFO  [inventory-svc] health check ok latency=8ms
+2026-10-12T10:59:00.856Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:59:05.806Z INFO  [payment-svc] POST /api/v1/pay 200 470ms provider=bankgw user=u7430 req=4f932c8e7d2b
+2026-10-12T10:59:06.206Z INFO  [checkout-api] GET /api/v1/cart/86744 200 470ms user=u3079 req=3e68d1f0e22d
+2026-10-12T10:59:12.124Z INFO  [checkout-api] GET /api/v1/cart/36436 200 352ms user=u1412 req=909a39e5e32b
+2026-10-12T10:59:14.013Z INFO  [checkout-api] GET /api/v1/cart/13373 200 245ms user=u8856 req=aa1da5204642
+2026-10-12T10:59:18.293Z INFO  [checkout-api] GET /api/v1/cart/90713 200 199ms user=u6602 req=8ad4d4f8638d
+2026-10-12T10:59:22.646Z INFO  [payment-svc] POST /api/v1/pay 200 499ms provider=bankgw user=u9554 req=cfde6a9a8026
+2026-10-12T10:59:30.068Z INFO  [payment-svc] health check ok latency=3ms
+2026-10-12T10:59:30.367Z INFO  [inventory-svc] health check ok latency=7ms
+2026-10-12T10:59:30.409Z INFO  [checkout-api] health check ok latency=2ms
+2026-10-12T10:59:54.831Z INFO  [checkout-api] GET /api/v1/cart/72309 200 64ms user=u1044 req=dd9e4a62bce1

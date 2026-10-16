@@ -1,0 +1,1146 @@
+[
+  {
+    "sha": "5ea7b66c537b312bfd770a1db427f663ecee4279",
+    "node_id": "C_kwDOVLIXStoAKDVlYTdiNjZjNTM3YjMxMmJmZDc3MGExZGI0MjdmNjYzZWNlZTQyNzk",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:54:02Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:54:02Z"
+      },
+      "message": "README: Claude assistant section, corrected net-adds; telecom-ask entry point\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "416d12772cd3edb9572d8007b2ff9c10a7713622",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/416d12772cd3edb9572d8007b2ff9c10a7713622"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/5ea7b66c537b312bfd770a1db427f663ecee4279",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PcbCRC1aQ7uu5UhlAAAGbgQAKLagJ//St3oeCDShF7SrMyq\nZ0Td/5ggurakyGivhKUS7itqpj1BWOisfZQ3v6+Kg79+NLkFHFbMe1HtZoG30IvX\ncB+UY83vNLWDSjoPUE/aUdUq9c2cXEJMOSAGnSaqWrTf9GiDk6aYE4Rq8CQmv/yr\nBX4xMXF0nPyWICK5AE57p0L6/dCmi5eAbpo2cpCKLqbYFzONtz+qgPd9F98QoHQe\nG1IzpOI8E9yrU1aQL3XQwgqoFhNlXn3NGp4ZPnUaWgVVTJ974ZbMm6RipuhkO5Qx\n/pEeadl5tvIBtcVDb7UZ5jgpsiHgvFqKK52+4RslWvT2GSr6hgClzbBRL8+BlVOl\nz/+lKE/FCtqncWR1F7yrsOpsfivDCD4434kh744xV7LswZn/DLwH69ZB+TEY2+eU\n1jDRRhf9yIN1dKoFPamv4omfylKsldrsLRLGyGIesBgd51zh8kmI3F0pWo/rVFB3\nNjWKFH8obXaprJ21Z0fP86jLndPU4SZgZyDqG7+ghq3ZyoeUFNNATGsNT6qFAs94\nmHShLikDQOpK2xsI3yJNcSVOOmurNw246EsUaUuVHsp/K7zP3yp7ybY4Rnqk0zNY\nrlovSlTczIkSEX+1axpdkrrvfv4CsTZ9Hlu+jb3V51OBov/sVRI3gMmgDAl7RSi+\n2pOSe8jJXA0bkDyz0Elw\n=RoHQ\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 416d12772cd3edb9572d8007b2ff9c10a7713622\nparent 3a03db09bd47ff076c7ec7ad4c7d362725f8932d\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792079642 +0530\ncommitter GitHub <noreply@github.com> 1792079642 +0530\n\nREADME: Claude assistant section, corrected net-adds; telecom-ask entry point\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:54:03Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/5ea7b66c537b312bfd770a1db427f663ecee4279",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/5ea7b66c537b312bfd770a1db427f663ecee4279",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/5ea7b66c537b312bfd770a1db427f663ecee4279/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3a03db09bd47ff076c7ec7ad4c7d362725f8932d",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/3a03db09bd47ff076c7ec7ad4c7d362725f8932d",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/3a03db09bd47ff076c7ec7ad4c7d362725f8932d"
+      }
+    ]
+  },
+  {
+    "sha": "3a03db09bd47ff076c7ec7ad4c7d362725f8932d",
+    "node_id": "C_kwDOVLIXStoAKDNhMDNkYjA5YmQ0N2ZmMDc2YzdlYzdhZDRjN2QzNjI3MjVmODkzMmQ",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:52:53Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:52:53Z"
+      },
+      "message": "Diagrams: add the Claude assistant, corrected Vi monthly loss\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "f49d89b862a2a07e18490a12f441c4b24cacd096",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/f49d89b862a2a07e18490a12f441c4b24cacd096"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/3a03db09bd47ff076c7ec7ad4c7d362725f8932d",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PbVCRC1aQ7uu5UhlAAAA94QAIf2Qk6MS11gPPpaWf+7Njw4\nYflOFfYXLG7WCw2LYcYYYAeXEoQNKM0Il69v9FpC8ZEA+dc7DfGJjdyj39W5nloi\nx/ERgxPRfQtR7yjMudtVzV24WSPZaAaczIOYP34HbOMpsybMW8w4TG7cyc1fq0fF\nh211ifupLpMWAeBawcfhXDyWVGX6ItDXpXkpBdOsbBXWrIZdlXeG1LGGYKFL020O\nqKtO4d6Cn5ER0GfN3I7UhfV5xk7WE2iC8pkCU7qGLIlbtvWud758pvPY2WOP7wDy\nBdmvHWWnnA84gFRl5NF25I4nrLPW2LUJmLugDFXbuWe8q17ctk3w0BHyUyEnpYwu\nEObQzzj0exFWOIonyxQVu9r0unmL+o+UrjI99V4nGLoqpA8rqF9o27KrxesHESh5\nuQdZSn7t9wBf5zM+gnz6q2eUGBtIBgk6Hx2oDKmFKm0kgtN+qzo28zq54QiOu0cP\nz/1S7/duAnT4OQa1n0AEkQIdDWORdbuiom3SxH51xSn1qDFlhvDgaHM28UUilL/5\nISJLmhX2PHD1TQU4f4Sr8FO4unas1F/Njadwk6hiCeTW5UUu528mHtl55cUoL629\n5gnJsyT8hBP3KrzljgWRupe2ksfXjJxPTINgXmIGm1Tg7tZzj6fBg72tDCmlJ5OT\nsGVKOnLoQs88SB01XU0H\n=4Cog\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree f49d89b862a2a07e18490a12f441c4b24cacd096\nparent 436ebd74f66447c7c0f9099b9fcad9b65a2e20bc\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792079573 +0530\ncommitter GitHub <noreply@github.com> 1792079573 +0530\n\nDiagrams: add the Claude assistant, corrected Vi monthly loss\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:52:54Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/3a03db09bd47ff076c7ec7ad4c7d362725f8932d",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/3a03db09bd47ff076c7ec7ad4c7d362725f8932d",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/3a03db09bd47ff076c7ec7ad4c7d362725f8932d/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "436ebd74f66447c7c0f9099b9fcad9b65a2e20bc",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/436ebd74f66447c7c0f9099b9fcad9b65a2e20bc",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/436ebd74f66447c7c0f9099b9fcad9b65a2e20bc"
+      }
+    ]
+  },
+  {
+    "sha": "436ebd74f66447c7c0f9099b9fcad9b65a2e20bc",
+    "node_id": "C_kwDOVLIXStoAKDQzNmViZDc0ZjY2NDQ3YzdjMGY5MDk5YjlmY2FkOWI2NWEyZTIwYmM",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:52:29Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:52:29Z"
+      },
+      "message": "Fix monthly net-adds average; assistant box in diagram\n\nAverage = total change / months elapsed (the mean of diffs skipped the missing Nov-Dec 2025 months).\r\n\r\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "366e3d36e68183bcc040e7bc77534bad90b28a1b",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/366e3d36e68183bcc040e7bc77534bad90b28a1b"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/436ebd74f66447c7c0f9099b9fcad9b65a2e20bc",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0Pa+CRC1aQ7uu5UhlAAAs+4QAIJ5ove6xvIPEdXC5kWKsc2R\nrnP8SUKAT1TRxTrWrtHtk655YiUHzHYt9bgc40TuBKwhWtUcewmo2txUD+N9FB//\nkUc/wxqz5MmyZjGmThffXUPmS7NLcVq5UibWucsVQZn/j1I9OkqWWMWP03E5ZeTb\nMqyJPRnFjbFJzwbxz9wLcVjPAUMrXXK1aMC6vsGsvTCXpBY7fpQ4L90FsTmYK3xk\nIJBH5GRbmgW94EsgtvzwJt5FPL5yAPILVUppqK5ls0ovDSwt02e5y/MM5fE0wdbl\nC6Pe8zR8PFKqYNPCW2OEI5EJpesN8VKiT1dlSKcXoeFEkoWdJk2Qo2h0tKMzGZ+r\ndcqHY6jCLL6IjcK2AF1EDH9cA9EKOGpUYOgWFnnsIJ6e/8EgUozGW5OgqYgLWdRE\nLRC1bHj+49i5IX1vWNIG0EewGSax/a1UeSbnJmyMKLqbPfCiaSYHwW4HuKBRaIHO\no1+/ABrywgDkEj95VHC8mom2kShE5/1N6UUwHaLIPYy7R4yZByKxtZn3HnYBdMLE\nl9vO1zQBntv8gI4KFIRQc+fswtmiAYUhitsysYl9B0ZXT08CGeN9njeG0MrBSQC9\nr3b7EtcsgpLyyWVyXfxnCLf32k4eX+Z3+KSR0xlAyB4VcjIVJGNYXd/Qaj8osepp\nME/hMGL8OsQ2wa2HOuyJ\n=J3Cm\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 366e3d36e68183bcc040e7bc77534bad90b28a1b\nparent a59d192fffe3f9af0e7c686745a8b05677937a6d\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792079549 +0530\ncommitter GitHub <noreply@github.com> 1792079549 +0530\n\nFix monthly net-adds average; assistant box in diagram\n\nAverage = total change / months elapsed (the mean of diffs skipped the missing Nov-Dec 2025 months).\r\n\r\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:52:31Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/436ebd74f66447c7c0f9099b9fcad9b65a2e20bc",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/436ebd74f66447c7c0f9099b9fcad9b65a2e20bc",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/436ebd74f66447c7c0f9099b9fcad9b65a2e20bc/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "a59d192fffe3f9af0e7c686745a8b05677937a6d",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/a59d192fffe3f9af0e7c686745a8b05677937a6d",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/a59d192fffe3f9af0e7c686745a8b05677937a6d"
+      }
+    ]
+  },
+  {
+    "sha": "a59d192fffe3f9af0e7c686745a8b05677937a6d",
+    "node_id": "C_kwDOVLIXStoAKGE1OWQxOTJmZmZlM2Y5YWYwZTdjNjg2NzQ1YThiMDU2Nzc5MzdhNmQ",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:52:06Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:52:06Z"
+      },
+      "message": "Tests: assistant tools, number check, agent loop (fake Claude)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "3d99fb415e6bb37db6fd73be2bed82a385e5dc1b",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/3d99fb415e6bb37db6fd73be2bed82a385e5dc1b"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/a59d192fffe3f9af0e7c686745a8b05677937a6d",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PamCRC1aQ7uu5UhlAAAmPUQABZMhhAYdNHmIAfmhes26TtB\nuoD1dIMVjZN7dxxsgQGKhju5Du477pifxuF7DlV7I3kjybp8d2C4Y5rM6MGymCvo\nqHmaAtfR2MiEMZeAYjijJ9tM4xebuFdffRo/riy90qlVKhbmGlQ0aj0G+suB01Pz\nCq0SaWOZhtqO73yQniyILn9w064ISxP0GWy/Uwh8sCOW4uj+JOZ2/HwfYayW0KVM\nn5d4gaNa/stJyJf5WJkO80UNc3YiJMWiuQSTIdOzxqiGDLbTzhwF72dqKhOGPg0u\n9FRlwfwg6WEICS0PaGHWKBTdqoyVqR5emNG8J4CxW7R9KbZ6ayHdlSU0NHyeKUIs\nRYVDNQ3new047N7yg1XBidRDBk7N0Pl4QCq3y39eXYWZ48FUj1I32RdcsUpxCquF\n3dC5aeEd/CdaBMbXJCnrGSldjTsFQ46tWhaKhaMszniBdoGrOSXPgRmg7uCFgmZ7\nR2JIPQDptV+KQU0/AY8IAEBtpIsOZ9jz2BxZy/g1YXc1+0FdMB1WFI2+VLxtUof2\njpj9gtthzJt1pJtVg7MCFxuK/4G1ujeTw9mX0PxGMgm3SKEIHXxTM6zUBr0Jp0lK\n+yB7A91/BUiD02xhRfVihTwr6AKhtgtSVlAiIlQbv4g7O1QAXr2vqo4m6zrTqj4O\nCUEvhKxOkMqqCSfEniwh\n=eMWW\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 3d99fb415e6bb37db6fd73be2bed82a385e5dc1b\nparent 79f19fac60efc2379b389e29b91ae95932b3fbe8\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792079526 +0530\ncommitter GitHub <noreply@github.com> 1792079526 +0530\n\nTests: assistant tools, number check, agent loop (fake Claude)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:52:07Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/a59d192fffe3f9af0e7c686745a8b05677937a6d",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/a59d192fffe3f9af0e7c686745a8b05677937a6d",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/a59d192fffe3f9af0e7c686745a8b05677937a6d/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "79f19fac60efc2379b389e29b91ae95932b3fbe8",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/79f19fac60efc2379b389e29b91ae95932b3fbe8",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/79f19fac60efc2379b389e29b91ae95932b3fbe8"
+      }
+    ]
+  },
+  {
+    "sha": "79f19fac60efc2379b389e29b91ae95932b3fbe8",
+    "node_id": "C_kwDOVLIXStoAKDc5ZjE5ZmFjNjBlZmMyMzc5YjM4OWUyOWI5MWFlOTU5MzJiM2ZiZTg",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:51:46Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:51:46Z"
+      },
+      "message": "Add Claude 'ask the data' assistant with number check\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "4abbf0c35eeafeffec8b92de40f846e054568034",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/4abbf0c35eeafeffec8b92de40f846e054568034"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/79f19fac60efc2379b389e29b91ae95932b3fbe8",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PaSCRC1aQ7uu5UhlAAArGkQADUQ/AmMVu5A1qOPqtOhCWwR\nnNhmXF+/Is5KO6y4ufqOXGKaygPma3kOcSe+nqR4g0BdlMyg5o51yjXKEoRTrIKk\nLi8BRZMEn/p3J0Skf0aGiWRWdlP2RV4HMk+WklFrGXUO+S1i6fWOw8rnBhqVFrYG\n3UbxxC+IwjghJ/eBebPobsiaN9qnEMf1jvtHt09qF9ee+1sAi3I1ovswgo07JYJp\n+pNJYiY6j97QJmyTPrjnkjvV9RkqqbeIUn+P+Ed0/SBhEan/agynMWzFGkA9Vgr7\nnoEUMRx9s2rstlyj+SRSinrTmTkjObo/XyFxP5xjDNOZ09ryT3F1c4czpvtxmmKj\nbJCRdtzsCCCLZ3JhyaLaw2ZK5b4hGHASd/yKvC5IB8002y/zhGPTM6DtKryFKQ3M\nlc4v5tdDd7QrN+BWF87AFRZnnYlhIaUA7oKmSHYJCBtolOcQ9vlt7nL7OYLK1/Ws\ntPAOp0YYOwVhsDslVDzstTa5c01+756BXxydCo2M5cdTjJECklXudfUm5OkDzO73\ncWBD3aam/TJZTnOAcom2gx5VBOZ1Zs+51O5uMGbJqvXjikMM+DqRkFEO0Wb8V/6F\nC0JQWHTnus5n6y7KLhlkih5twg9NvjH6uCSlMwZL9ThgXx2iT621FOImHr2UrwXh\nwZcCwP1nOWi7VkffhjY5\n=EbrV\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 4abbf0c35eeafeffec8b92de40f846e054568034\nparent 17f0f0436da635a3eb6ba84f0fb7cba21b65baa6\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792079506 +0530\ncommitter GitHub <noreply@github.com> 1792079506 +0530\n\nAdd Claude 'ask the data' assistant with number check\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:51:47Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/79f19fac60efc2379b389e29b91ae95932b3fbe8",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/79f19fac60efc2379b389e29b91ae95932b3fbe8",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/79f19fac60efc2379b389e29b91ae95932b3fbe8/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "17f0f0436da635a3eb6ba84f0fb7cba21b65baa6",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/17f0f0436da635a3eb6ba84f0fb7cba21b65baa6",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/17f0f0436da635a3eb6ba84f0fb7cba21b65baa6"
+      }
+    ]
+  },
+  {
+    "sha": "17f0f0436da635a3eb6ba84f0fb7cba21b65baa6",
+    "node_id": "C_kwDOVLIXStoAKDE3ZjBmMDQzNmRhNjM1YTNlYjZiYTg0ZjBmYjdjYmEyMWI2NWJhYTY",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:42:01Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:42:01Z"
+      },
+      "message": "CI: tests on Python 3.10 and 3.12\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "6c1ecb11c33b7e8cbd7cebfda95f5c3839be2606",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/6c1ecb11c33b7e8cbd7cebfda95f5c3839be2606"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/17f0f0436da635a3eb6ba84f0fb7cba21b65baa6",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PRJCRC1aQ7uu5UhlAAArvEQAAMhdMdUIPxbMi94j0ubExJ+\ne357k/ScCp7zbBRmFYvXwm4FjtihoucAVcxhYo4RPqcdo8hYhRFv1JkqS94SHTVG\n8zSlmfxismPEF58szfyb61RwS9Okd4qo5I8q7r2bEAvEZHQ5L9+rrgJFVKRrbP78\nRdNgiDASjYzX7K6r6cw3BjPD957ggRTHfRLlVjclYYACdBK266xNNNFt82vNGRQw\n87bRCVgonGs3ti9U/oNdR5ZYkrcjv2USJtdIqbmx1OUGjAQ0ZlAqKkBMvpLI17yW\n8sQbOKv63vPW5do1Fyl4ddhd5jHY2OXESkI+rKSLbv4q84dOyCptlGDYvnrp7P0r\nuM9n92Brj3P+G93BzIVh7jfMY3+Ew12+k/fr/TjT7tO0SNt4G23Pxi1omrwScXeQ\nxsZmP+KhRcsH6yvPIqxt4jEzm+nqm0JCPcT37N+UinsJ1gIctkf+aacDGG31RAWV\nJggMox6Nbt+0fVVnPMcWU5JFVpXjG4MhubsDs+StKsrTwtd897OXWFyGoioGhEdO\nh18WDNUJgqVezt1H7E0XFx8KJGZMOOg/i9Zrn40qVzu4qDJFZJJlqjQHpsjomOOa\nmp27rQy8CjlaT1oXLNZi0lG657k3kNDAzpHAaJnP3nkoqasIS8jxXBjHbPQXWW5X\nZlO7eQRtpSSOYdGydJlb\n=ZbfI\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 6c1ecb11c33b7e8cbd7cebfda95f5c3839be2606\nparent 098d1b35df3bb0a2799b911a003606bb3a33b6fa\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078921 +0530\ncommitter GitHub <noreply@github.com> 1792078921 +0530\n\nCI: tests on Python 3.10 and 3.12\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:42:02Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/17f0f0436da635a3eb6ba84f0fb7cba21b65baa6",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/17f0f0436da635a3eb6ba84f0fb7cba21b65baa6",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/17f0f0436da635a3eb6ba84f0fb7cba21b65baa6/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "098d1b35df3bb0a2799b911a003606bb3a33b6fa",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/098d1b35df3bb0a2799b911a003606bb3a33b6fa",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/098d1b35df3bb0a2799b911a003606bb3a33b6fa"
+      }
+    ]
+  },
+  {
+    "sha": "098d1b35df3bb0a2799b911a003606bb3a33b6fa",
+    "node_id": "C_kwDOVLIXStoAKDA5OGQxYjM1ZGYzYmIwYTI3OTliOTExYTAwMzYwNmJiM2EzM2I2ZmE",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:41:39Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:41:39Z"
+      },
+      "message": "Tests: PDF cleaning, glued headers, row rebuilding, M2M, consumer correction\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "cb573e0d1aa93b60c39854e0c3df77173e505b95",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/cb573e0d1aa93b60c39854e0c3df77173e505b95"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/098d1b35df3bb0a2799b911a003606bb3a33b6fa",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PQ0CRC1aQ7uu5UhlAAAAv8QAFJqQWmoQxpNniJpZF+AwNos\nS4lHiThWFOPxeLMeTUsFwkLtIrgTU5npk7bSN+gVMd9YHB9FLAlUzsfzEBHJdCSS\nAp1sgRy2WJZye/eJCAM22x02iEWrGgZSfb2DrQ+TyFnQf8U18Ry692ztfv/kk20U\n4z15MwU1NwCFf57LsT7/hW7SurtfP1QKdt/mUykLGCPjJNwX44VQ2RL0wbOhAHjW\nlEBhC1g4iQaQuXugXL/b2ZNc4E9ItOK9K57suOBuN1KU0ro2y9hoPtYsaLhm4YdH\n53bKgJHy2yaP4zrNb5g+3IX2iAsdp+PKLYC79NYWqT+D39V+bNRQMwxv6yjnJIoh\nCim3zPK4FdUeIBlKULccevwdu9NnPKCAcStOl5nyAiW3oHjZo3h8O7rASmcuk3aj\nR//SNsP2SZ9tq1Jb9Fn+KT7yUqWKNXI+gNyMgWu1UQFuPSVblEalbsaQ4lHkLcLY\nESPeJpNJJdcPDJlYgXXgnn5ECrFAhZttnaK82lso0CcmBC/Wo5WqVPPLaMg1vYRZ\nsUrWewoWTPP1VRTHINVkLesuNzg7hEIfkIuJtqUztW4H+1kBc3/q+o2qh5TwoSw9\nJqgOK2qg9njNHki3HfxJHWPUj2yVuDguhYTmP1q1NzoUzZk3Nc2DCCTcWs7GdsGo\n56jMPbImqW2lR4G/OF7W\n=EOmQ\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree cb573e0d1aa93b60c39854e0c3df77173e505b95\nparent 5d27476aae34468628481aea18efe8ad792575a9\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078899 +0530\ncommitter GitHub <noreply@github.com> 1792078899 +0530\n\nTests: PDF cleaning, glued headers, row rebuilding, M2M, consumer correction\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:41:41Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/098d1b35df3bb0a2799b911a003606bb3a33b6fa",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/098d1b35df3bb0a2799b911a003606bb3a33b6fa",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/098d1b35df3bb0a2799b911a003606bb3a33b6fa/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5d27476aae34468628481aea18efe8ad792575a9",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/5d27476aae34468628481aea18efe8ad792575a9",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/5d27476aae34468628481aea18efe8ad792575a9"
+      }
+    ]
+  },
+  {
+    "sha": "5d27476aae34468628481aea18efe8ad792575a9",
+    "node_id": "C_kwDOVLIXStoAKDVkMjc0NzZhYWUzNDQ2ODYyODQ4MWFlYTE4ZWZlOGFkNzkyNTc1YTk",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:41:15Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:41:15Z"
+      },
+      "message": "Add download, report and diagram scripts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "2fda01286e66654346756725e9e1b4428e2c6014",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/2fda01286e66654346756725e9e1b4428e2c6014"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/5d27476aae34468628481aea18efe8ad792575a9",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PQcCRC1aQ7uu5UhlAAAQZMQAH5hYjis5HmspZWRg/zSs3Q4\nFwgJojSq5HfeKvcJWr1Wr0rQhevESfYAv/QVATUr4NP1K+I6tuvSW0Wtv17oSoWS\n3c/4e45/f/S61VFbXiaV6UVcH6zWBnn8wrHcSUCcwitRfW0P42Wg2TO09vuZbEIN\nwQILjpwZcNesbI/MXXTDKWBhEtXf7lrBbmD1I+6MSuw4sByAYTjD0zzbN2IFSGaV\nOWqIK381av1s6Atmt32aVWY9SAUeRdW90lXLHoJwCv70ttNuV1Oar1p782k087LK\nKC49w3DN6K1AxPTo7KekjG4jLUxp+rBflNRlzp6pvPaczQ8ETBG2rvy3fc53WkIL\nQPwphjCUg9v/EsPdMZpex12NVLEBO+Z6XI8tBa+sccl5d6yxYsFWBDiha5P/I0RY\n8mCJbUt3CO8xmt7FYySNozutn3bxTERgomLVR+XxrVLAOcBORr0V4d36t3LW1khH\ndpcHM/VBA69BHcFIUJoQ3ZS82acHAh6z9InsEY6h/WwjAmqvMzrU9pKPzECEj8gh\n2E1l85DAb1CRxZBjgEm1dHZ3zWkKt6SxSc7TF9YF7EQxv4IwXJzC8ehxO978LBda\nDs6ZNPlDUxc76DSy7uorW8hxStvJ4hYzRemKbDCwJ0j+lbpffXr8CnkPIk+pMDIE\n7RMt5nrA4IqXE0QwYQsp\n=oCsL\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 2fda01286e66654346756725e9e1b4428e2c6014\nparent e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078875 +0530\ncommitter GitHub <noreply@github.com> 1792078875 +0530\n\nAdd download, report and diagram scripts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:41:16Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/5d27476aae34468628481aea18efe8ad792575a9",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/5d27476aae34468628481aea18efe8ad792575a9",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/5d27476aae34468628481aea18efe8ad792575a9/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3"
+      }
+    ]
+  },
+  {
+    "sha": "e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3",
+    "node_id": "C_kwDOVLIXStoAKGUzNzY1ZWMwZmIxNDg3MzU0Zjg1MmNjNzFkMjFlN2E3Y2JmNmI5ZjM",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:40:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:40:32Z"
+      },
+      "message": "Add the TRAI report index (download list)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "88c45501b17eb1e990cbce1488de01fb910a456b",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/88c45501b17eb1e990cbce1488de01fb910a456b"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PPxCRC1aQ7uu5UhlAAAIjkQAIPyuTV15FFxv8IsZ7TAyCp8\n9ag+hkwkT/NyHHuu0WLnkqqmB8MJdSvvu+Tw+/8CWldROq9YQvlP+8buHhsLMDCr\nTvIc9pPnHRYugVCtN1Fqwqcd6qnXpzmlKC4p6tTd1Vn0SeKAe4tcWe6Zux+5v2zr\nBrGnoCqmCK1vK0jAbrG52YKQAxC4T7Ut9QudTLoc1qJekvQHEHI5P97QRtiuonv/\nowkS7BRQ4KoQm/v0MImtUYn7ChqtmtziTbHruknQX+5gfIhfL97GBzxpoANS+wgq\nv3FB6akYKVfQRXOzhZe91IUI4hw+3Lpykuu+OApuGYnxJkOJ21EsQJRIdf6lqAiD\nubhG2nytceOr9/5H4zSitTba22QWJYF3R8Qdx1oix/scB5gI7ghLBJe34PAg2uSY\n58TwfmUp6zfPYF2me9d6OBoSzPUzwTnblC/PDBG52nJOCt+Ylqkin2/x1XnwZl3M\nM9Z486NNqqCR3GtAD1+JFlGvCW0Gj+5wJTogy/WwRIWYtN39/LNg6QBoiDKtqud1\nAADAOxi37VlPGPJmGjR1bPNP1CUeqlFraqCM65E/qnyjAF1EgJ4VZJI9gxlis+/K\n65PkhswVEgnRFwqFFkujLBTo/jNs/ATAH2S3q9anv2/brp/QiafoEyIGNlAPWbbc\nkcglKnXNZuqFhLDPVO7d\n=VVXx\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 88c45501b17eb1e990cbce1488de01fb910a456b\nparent ef7ea3aab9dc71df0df21128644f7b17ba656c46\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078832 +0530\ncommitter GitHub <noreply@github.com> 1792078832 +0530\n\nAdd the TRAI report index (download list)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:40:33Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/e3765ec0fb1487354f852cc71d21e7a7cbf6b9f3/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "ef7ea3aab9dc71df0df21128644f7b17ba656c46",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/ef7ea3aab9dc71df0df21128644f7b17ba656c46",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/ef7ea3aab9dc71df0df21128644f7b17ba656c46"
+      }
+    ]
+  },
+  {
+    "sha": "ef7ea3aab9dc71df0df21128644f7b17ba656c46",
+    "node_id": "C_kwDOVLIXStoAKGVmN2VhM2FhYjlkYzcxZGYwZGYyMTEyODY0NGY3YjE3YmE2NTZjNDY",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:40:09Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:40:09Z"
+      },
+      "message": "Add cleaned TRAI tables (mobile, active, rural, M2M)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "48da28ea44b2a936ebd4fc07c7a7f146234f52d8",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/48da28ea44b2a936ebd4fc07c7a7f146234f52d8"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/ef7ea3aab9dc71df0df21128644f7b17ba656c46",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PPaCRC1aQ7uu5UhlAAAq34QAI0/d8pw8Up3hPT7NaXD5c3+\nqt+T4ObKIZdmFgMlGjn01U1dhYaH6NZ2BlA2NQC3gQX7FQxe51YaCZcORmFyt2MK\nv8xDEKM0AT9lVsReGYki+6UIsgrg8YeUXK9mG/LVASprqFiUfYYlS9xVpy557v1k\nLX9ZJflFO0Whpuxd5ESEzu05szPed3eAVcSKoRzNlW34KG2aSEiQ+fkrXt6E6VbF\nhCOcAMZEnXana+EYZFY4gy7zKTJBdW8WSlS4fICt1zwMNFQNb1zwufG5TdfeSiHR\nTR9wC1dcrRlPKBYaCjK/GpuT81GErL9jsRzh12f4OmUunBy9aXr5jpDlrpea3JgQ\n7wMgYJgmCr8Z4D18CPORFNhowatPZzqya9ZwUsHnSSsBea0gp9fMiyo8UCwpPcpY\n/jouhmMUVtmkZMIakEh8CCquHY7lXF4GJsTcFfnw8o2HbwtuNLt6nEW5YxGo4P13\naln61O5qyH+fkSnZ5NPmQVFzorvi+fIkphczc1mKX55dhhtU1zmPR4NJ+nA9cxXJ\npaiiUY7yOHM0tXDTr7piQ224FFcaJvoIrlnggb/LQJEx2w8jq7kWz0sMaMdsQal9\nQ2zz50o9ryDdDmiXa1gBkKeGALDs48BLB+XrI+CznB8+QjYoS6YHJ3Fh0gMFULPz\n2b6NGWbI3hgTtrCA5p7t\n=MLGP\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree 48da28ea44b2a936ebd4fc07c7a7f146234f52d8\nparent 3606c44dce7439c847f893ed1507c24811ee0de3\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078809 +0530\ncommitter GitHub <noreply@github.com> 1792078809 +0530\n\nAdd cleaned TRAI tables (mobile, active, rural, M2M)\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:40:11Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/ef7ea3aab9dc71df0df21128644f7b17ba656c46",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/ef7ea3aab9dc71df0df21128644f7b17ba656c46",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/ef7ea3aab9dc71df0df21128644f7b17ba656c46/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "3606c44dce7439c847f893ed1507c24811ee0de3",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/3606c44dce7439c847f893ed1507c24811ee0de3",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/3606c44dce7439c847f893ed1507c24811ee0de3"
+      }
+    ]
+  },
+  {
+    "sha": "3606c44dce7439c847f893ed1507c24811ee0de3",
+    "node_id": "C_kwDOVLIXStoAKDM2MDZjNDRkY2U3NDM5Yzg0N2Y4OTNlZDE1MDdjMjQ4MTFlZTBkZTM",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:39:44Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:39:44Z"
+      },
+      "message": "Add how-it-works and what-we-get diagrams\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "cfae80e9f7528186a26b5c13734def661358c428",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/cfae80e9f7528186a26b5c13734def661358c428"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/3606c44dce7439c847f893ed1507c24811ee0de3",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PPBCRC1aQ7uu5UhlAAAkWQQAC1Bi+3HZpiVPZW3oDacznPq\nRyCvYm0R5Ham234YED88cmVHrAnm7Pi0Y1WkYfqYOpr9zMKdNs7IbrxKkYGQYja6\nQhbNdS3S++LRNspttxxkY88pbupJY14T0GNgzwyxRzc8l21JroDUtCVAxBAMR53U\njzevIt53iwqr2+6+xvCJIchu13YFtzHPVqG3Oq5vllSEcMjFSh8Cb1JamOlJJbsD\nF9fd0nihJX/LBUvj2Isd7/5Xs67oNNVHPFgQhWTtBnZE4HlG02/hZHkwCZQein5k\nkBKn0jhpalyeWXcnCBqLiIKirUAGO27Ggc2iJkG/A/PDZkn/eRQVXvBjdih9pzvq\neR0uf6vWZpjP+j88RK9Wf0ajD1+34sOMGeuEJoXK1bqXjEgCCa6I6skXn49og+Ml\nbao97gt7oSjJXud9i0xbLxU9EXV8JtMy/gL7MBJzBETFCAgJ4ms3y+jUBQNrfKVN\nQB8KtzY8M18HCfM5RatAo+B/KEc2Y4H0GxasUSPuO/MMHSGlw0p0p7ExNXTwBuSZ\noZ0cMV15W/5x3JX14+yKZNJ/33BChwt5itLyCkcL3O0XC7/D4BdrtA3V9IjFP8dh\nrzg0UOdVhsJz5qHNfXMYckUQX9XsaLscKAUCmhRYnMgfWeLmav+xr9QdkV4jJuaj\nt6DyLLj3ycuLm3ggHXqT\n=PTmW\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree cfae80e9f7528186a26b5c13734def661358c428\nparent 7c54e515236bf14059cb54c098967708b31cbfd3\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078784 +0530\ncommitter GitHub <noreply@github.com> 1792078784 +0530\n\nAdd how-it-works and what-we-get diagrams\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:39:46Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/3606c44dce7439c847f893ed1507c24811ee0de3",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/3606c44dce7439c847f893ed1507c24811ee0de3",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/3606c44dce7439c847f893ed1507c24811ee0de3/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "7c54e515236bf14059cb54c098967708b31cbfd3",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/7c54e515236bf14059cb54c098967708b31cbfd3",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/7c54e515236bf14059cb54c098967708b31cbfd3"
+      }
+    ]
+  },
+  {
+    "sha": "7c54e515236bf14059cb54c098967708b31cbfd3",
+    "node_id": "C_kwDOVLIXStoAKDdjNTRlNTE1MjM2YmYxNDA1OWNiNTRjMDk4OTY3NzA4YjMxY2JmZDM",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:39:21Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:39:21Z"
+      },
+      "message": "Add charts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "ca56d2dc85bd72e78ef7cedc5b9875fb67cd1f61",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/ca56d2dc85bd72e78ef7cedc5b9875fb67cd1f61"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/7c54e515236bf14059cb54c098967708b31cbfd3",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0POrCRC1aQ7uu5UhlAAAJwQQAAnhNsJiFHXFfRVG1EchejNF\nkT3nsBxFmdnggUkxFAr5VHyhJMnrgCTM2JzyPnq4mQXcYkgZ8jR4fVcmToepTIqp\ngj+1C8rsGwiLshi6wmZ6TCYE4H6u3BgyZt2lWtykyJ+4jdxkmCAdLHq5b+uMIMVD\nrxb+0wi/mK7As2POrE/3X48l1cRWSUqE9pYmXCHM7rp4bKgCBsal6HjqKJ4gmjFN\n2OcAz89ZRssuBkxi9EWW3TfKFu7s30jPwBhT25h6flTEgRhg7H2+CVAnEIStFEVe\ngN+DMvGs0LOiT+VaWRxeq0LE0RlsoSiB7HHM1FBD84aYgDmgPWk9lnGUKfY148L5\n2BvHA9DzETy/LNx+NTc72M9aJZMnLu6s//u9unYphfelrGDubHU0NVx9yPer5h1/\nUI8n9T0CpfP5vSNV/+eDrqhinsz2AL4CInvMkRMRhD9x0YZGhoxtvshDUSea04IR\nYlU/NB2AL3rSfJw2YeZyfG+F7chU46oIUm6XLs/K1Z/XcwICD+Ue1HETssnANyPC\n89cuSxmiGM1+zhCBJttKNfh68SLpDeGDCPzRonSWZH9udT9cIo3es5QFSaDkHyi4\nq12h7GD7IYYpxvV8wzY9uXQ/tn+OpwXIomBcM2zwTpuD2zYFLfyYAL7uW3MEPlM2\nuxHv+mxgb8tlLrtLf7Ig\n=Ub1k\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree ca56d2dc85bd72e78ef7cedc5b9875fb67cd1f61\nparent 841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078761 +0530\ncommitter GitHub <noreply@github.com> 1792078761 +0530\n\nAdd charts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:39:23Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/7c54e515236bf14059cb54c098967708b31cbfd3",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/7c54e515236bf14059cb54c098967708b31cbfd3",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/7c54e515236bf14059cb54c098967708b31cbfd3/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3"
+      }
+    ]
+  },
+  {
+    "sha": "841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3",
+    "node_id": "C_kwDOVLIXStoAKDg0MWRkOGVjMmY5MzU3MTk1YzU5YzRhNmEwOWI1MDJjNGI1YmJmZTM",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:38:56Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:38:56Z"
+      },
+      "message": "Parser with self-checks, analysis, charts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "debc0e14f133f9aa549d0de98567832536422a82",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/debc0e14f133f9aa549d0de98567832536422a82"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PORCRC1aQ7uu5UhlAAAGcoQADkusgrXGXzJtk+yO7zcdeUy\nbQSYzWZ9WEZwpgv3s2h2XLYcjTCuZjl7tu4Ky+/H0qR9qItGTz8TIeO/0F8z4+bk\nlLW58XdcNlv7MnhjEqdwIEw7P5DZ5j9yV/PoMPopCcu6hkhUPReVlqagiDi4tTyj\nbp4UPr/dMP9AqypUou56ABqBqbApvsZRlmeZygBArkKbGwmvmcjSnRLDsCJtpRpL\nIANGbZdoDDKccE1SnwJvpIgZ/fQoBoirPRrVEjvLAlVQLvJmVexyG0hQ1nMEiBqL\nojRZBO9AHsv6b1qT2iNplsvPU1ptkVU56qKn98Nj+HxzVonx1wQMQ90KtnmInDM9\nG0W3V64bnriZ+LBwUysAe2gppAP3Z+LGH8WQ9ZXPrdmgB9XFkcKdlaKRZB0oKj8l\ndiH8cTSxMXbU+oxIqpcnO4tffPzJUids7SlULExDfmI2FZ71KXrVm+2OG4biasUU\nq/1u3S4wlvuQXqOAEPpgUUlkT1uGc97LWEeqCv/F1ld7dS+JuuJqaBEBozEc1vWY\n6Ltq4n0ZT8MwXz7WpUCa5Ytom7aX94mePUEjmmzftw1cuLPPmK6siB4jmouLri+y\nPRH+996tvncZQFEIdm3a/MT0OVSMjiuBABSqP5rz8grnQoUiCY5OwIfCyWE6sS+5\n+mnQZTigJAQZbN9+o7n1\n=crYc\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree debc0e14f133f9aa549d0de98567832536422a82\nparent 6fd5553ded5e3ff05884496b1b64a6ab6f2873c3\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078736 +0530\ncommitter GitHub <noreply@github.com> 1792078736 +0530\n\nParser with self-checks, analysis, charts\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:38:58Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/841dd8ec2f9357195c59c4a6a09b502c4b5bbfe3/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "6fd5553ded5e3ff05884496b1b64a6ab6f2873c3",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/6fd5553ded5e3ff05884496b1b64a6ab6f2873c3",
+        "html_url": "https://github.com/abpandey-dev/telecom-india/commit/6fd5553ded5e3ff05884496b1b64a6ab6f2873c3"
+      }
+    ]
+  },
+  {
+    "sha": "6fd5553ded5e3ff05884496b1b64a6ab6f2873c3",
+    "node_id": "C_kwDOVLIXStoAKDZmZDU1NTNkZWQ1ZTNmZjA1ODg0NDk2YjFiNjRhNmFiNmYyODczYzM",
+    "commit": {
+      "author": {
+        "name": "Abhishek Pandey",
+        "email": "340642010+abpandey-dev@users.noreply.github.com",
+        "date": "2026-10-15T15:38:32Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2026-10-15T15:38:32Z"
+      },
+      "message": "Jio vs Airtel v0.1: README, license, packaging\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+      "tree": {
+        "sha": "a572f3b09176002c0dca504bbacc41ae40bc83ba",
+        "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/trees/a572f3b09176002c0dca504bbacc41ae40bc83ba"
+      },
+      "url": "https://api.github.com/repos/abpandey-dev/telecom-india/git/commits/6fd5553ded5e3ff05884496b1b64a6ab6f2873c3",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJq0PN5CRC1aQ7uu5UhlAAAaoUQAFsp07pyHETK1WZFC1Modwo0\nRYOUdiqPulFiosXc8INR7KDJMwmQ4HMRe0X00GQJkL8u0lXBqwJAtKm71zI77KlZ\nRVsm1/wUxR30ToZ4qLtjGCwYIuTc9H5qasD1m/jXmabG4qpdLcWhsCkpVLG4RvPJ\n0KEcAuL5+KVqIM6ojfJ3ilHtlM9BjuLA9pTNzNuiA83s+vOrFpCWZIKGbouYxSPD\nCURem3rozJbBHcYqZCXGa3Sfs8hElSPC11ZyjEPA5JHyKJhSjE1p5tS1Dudly6PX\niDQ/b+p3hfDqpSsbIfU3HsWZaA9d3dXBHKtKArb/XVi1OKGF8HfZ4CGYP3TRSAPz\n/quIGk1cT6bjZgfgxL06e/BXRMszYPnsr5S5vYGAQ5tapWue37bstSA4Wd4oxkO+\njyzKo6JuJzr370S8ROKDn7tt6WtKqQ7zNoLBE59EE1HuYbglIAaj76t9aYe2Miw5\nRM91r2Z8j+mugOiVArGtY+kS3fjOKIJQysFW2WEnWY2Aayi0kE5zBXst0IvplCHB\nO31I0Y8w1x2mgFzWS1VDtaJRBxlLJun+FtDd1T99viHMP6RKN7L2MqGz5FbJKH/8\npSnC11UJPZPCZZrq2mQPCO5vuix1qfI1w64uwOZI6/9PwEo0YZomS9H7yWL7mlws\n9oALTKwhKtVJRN++jWP8\n=W/NS\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree a572f3b09176002c0dca504bbacc41ae40bc83ba\nauthor Abhishek Pandey <340642010+abpandey-dev@users.noreply.github.com> 1792078712 +0530\ncommitter GitHub <noreply@github.com> 1792078712 +0530\n\nJio vs Airtel v0.1: README, license, packaging\n\nCo-Authored-By: Claude Opus 5.5 <noreply@anthropic.com>",
+        "verified_at": "2026-10-15T15:38:34Z"
+      }
+    },
+    "url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/6fd5553ded5e3ff05884496b1b64a6ab6f2873c3",
+    "html_url": "https://github.com/abpandey-dev/telecom-india/commit/6fd5553ded5e3ff05884496b1b64a6ab6f2873c3",
+    "comments_url": "https://api.github.com/repos/abpandey-dev/telecom-india/commits/6fd5553ded5e3ff05884496b1b64a6ab6f2873c3/comments",
+    "author": {
+      "login": "abpandey-dev",
+      "id": 340642010,
+      "node_id": "U_kgDOFE3I2g",
+      "avatar_url": "https://avatars.githubusercontent.com/u/340642010?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/abpandey-dev",
+      "html_url": "https://github.com/abpandey-dev",
+      "followers_url": "https://api.github.com/users/abpandey-dev/followers",
+      "following_url": "https://api.github.com/users/abpandey-dev/following{/other_user}",
+      "gists_url": "https://api.github.com/users/abpandey-dev/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/abpandey-dev/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/abpandey-dev/subscriptions",
+      "organizations_url": "https://api.github.com/users/abpandey-dev/orgs",
+      "repos_url": "https://api.github.com/users/abpandey-dev/repos",
+      "events_url": "https://api.github.com/users/abpandey-dev/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/abpandey-dev/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+
+    ]
+  }
+]
