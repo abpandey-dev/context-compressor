@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.pytest_cache/
+# Per-answer cache and raw API downloads stay local; the combined results are committed.
+results/claude-*/
+results/*.log
+data/raw/
