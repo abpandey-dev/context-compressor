@@ -1,0 +1,31 @@
+method,task,category,truth,answer,verdict
+llm_summary,app-01,aggregate,47,About 48,wrong
+llm_summary,app-06,aggregate,u4821,NOT_FOUND,abstained
+llm_summary,app-07,aggregate,37,NOT_FOUND,abstained
+llm_summary,app-08,aggregate,2,NOT_FOUND,abstained
+llm_summary,app-09,aggregate,884,900,wrong
+llm_summary,github_commits-02,lookup,3a03db09bd47ff076c7ec7ad4c7d362725f8932d,NOT_FOUND,abstained
+llm_summary,github_commits-04,lookup,noreply@github.com,NOT_FOUND,abstained
+llm_summary,github_runs-03,lookup,5ea7b66c537b312bfd770a1db427f663ecee4279,NOT_FOUND,abstained
+minify,app-07,aggregate,37,36,wrong
+raw,app-07,aggregate,37,36,wrong
+select,app-04,aggregate,13,NOT_FOUND,abstained
+select,app-07,aggregate,37,NOT_FOUND,abstained
+select,app-09,aggregate,884,NOT_FOUND,abstained
+select,github_commits-02,lookup,3a03db09bd47ff076c7ec7ad4c7d362725f8932d,NOT_FOUND,abstained
+select,github_commits-04,lookup,noreply@github.com,NOT_FOUND,abstained
+select,github_repos-03,aggregate,7,NOT_FOUND,abstained
+select,github_runs-01,aggregate,0,NOT_FOUND,abstained
+select,telecom_nov2025-03,aggregate,Madhya Pradesh,Bihar,wrong
+select,telecom_nov2025-06,aggregate,14,NOT_FOUND,abstained
+smart,app-08,aggregate,2,NOT_FOUND,abstained
+smart+select,app-08,aggregate,2,NOT_FOUND,abstained
+smart+select,app-11,lookup,SocketTimeoutException,NOT_FOUND,abstained
+smart+select,github_commits-02,lookup,3a03db09bd47ff076c7ec7ad4c7d362725f8932d,NOT_FOUND,abstained
+smart+select,github_commits-04,lookup,noreply@github.com,NOT_FOUND,abstained
+smart+select,github_repos-01,aggregate,abpandey-dev,NOT_FOUND,abstained
+smart+select,github_repos-03,aggregate,7,NOT_FOUND,abstained
+smart+select,github_runs-02,lookup,"Tests: assistant tools, number check, agent loop (fake Claude)",NOT_FOUND,abstained
+smart+select,github_runs-03,lookup,5ea7b66c537b312bfd770a1db427f663ecee4279,NOT_FOUND,abstained
+smart+select,github_runs-04,lookup,2026-10-15T15:52:32Z,NOT_FOUND,abstained
+smart+select,telecom_nov2025-06,aggregate,14,NOT_FOUND,abstained
